@@ -1,0 +1,99 @@
+.colunas-12 { 
+	width: 100%;
+	clear: both;
+}
+.colunas-12:after {
+   visibility: hidden;
+   display: block;
+   font-size: 0;
+   content: " ";
+   clear: both;
+   height: 0;
+}
+.colunas-12 > * {
+	float: left;
+	margin-left: 2%;
+}
+.colunas-12 > *:first-child { margin-left: 0; }
+.colunas-12 .col-1  { width: 6.5%; }
+.colunas-12 .col-2  { width: 15%; }
+.colunas-12 .col-3  { width: 23.5%; }
+.colunas-12 .col-4  { width: 32%; }
+.colunas-12 .col-5  { width: 40.5%; }
+.colunas-12 .col-6  { width: 49%; }
+.colunas-12 .col-7  { width: 57.5%; }
+.colunas-12 .col-8  { width: 66%; }
+.colunas-12 .col-9  { width: 74.5%; }
+.colunas-12 .col-10 { width: 83%; }
+.colunas-12 .col-11 { width: 91.5%; }
+.colunas-12 .col-12 { width: 100%; }
+
+
+
+.bootstrap-form .form-control{padding:6px 10px;}
+.bootstrap-form .pull-right {
+			float: right !important;
+}
+.bootstrap-form {font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.428571429;color:#333333;background-color:#ffffff;}
+.bootstrap-form label{display:inline-block;margin-bottom:5px;font-weight:bold;}
+.bootstrap-form {width: 600px; margin: 0 auto;}
+.bootstrap-form .help-block {
+	font-size: 12px;			
+	color: red;
+}
+.bootstrap-form .campo-multiplo > .input-control {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.bootstrap-form .campo-multiplo > .input-control > div {
+	margin-bottom: 20px;
+	border: 1px solid #eee;
+	padding: 15px;
+	padding-top: 5px;
+}
+
+.bootstrap-form .input-value {
+	display: none;
+}
+
+.bootstrap-form .campo-somente-leitura .input-value {
+	display: block;
+}
+.bootstrap-form .campo-somente-leitura .input-control {
+	display: none;
+}
+
+.icone-calendario {
+	background-image:url(data:image/gif;base64,R0lGODlhEQAQAKIHAHU8UqqqqqmpqdXV1dbW1l5eXv///////yH5BAEAAAcALAAAAAARABAAAANVWLrcdS4uKOMRxpC8zcifIVxgqXGZUAgDMbSvK7dqgJ54p2Ke2YWBQsAVIxBlrqANFxoAAKHdrfnUCY/GlzYb5HW+N+XtZ1IdAoK0IIBWqxUHSmWSAAA7);
+	height: 16px;
+	width: 17px;
+	display: block;
+}
+
+.icone-ajuda {
+	background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA61pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wUmlnaHRzPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvcmlnaHRzLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcFJpZ2h0czpNYXJrZWQ9IkZhbHNlIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InV1aWQ6MjE3QjBGNUIyMjQ0RTIxMTlBNjRFOTkxNjM5RkI4NjgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MDNFRkFFNDk1QjE5MTFFMjkyODRGOEIyRkJCOTc2NDYiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MDNFRkFFNDg1QjE5MTFFMjkyODRGOEIyRkJCOTc2NDYiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6N0U5Q0Q2QkIxMTVCRTIxMTlCQjBCNjQxNEUyRDVGQTkiIHN0UmVmOmRvY3VtZW50SUQ9InV1aWQ6MjE3QjBGNUIyMjQ0RTIxMTlBNjRFOTkxNjM5RkI4NjgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz61x4nQAAAB/klEQVR42nzUTUhUURjG8TvjpUBECIL25iJXLQSJCOFi5ma2gpGQElRQ0SL6WLiRCBxyZ0JKGUUQthMGIUaYkIphKoQIpBpcBEFCq0GGUs6d/m8+Fw6Xub3wY2bOOe+Z8527OzMbpKITBUQYQK/K66ihghKaVjh1+8a/yrDVavmdDOMiuvEKT7Gpuj6cxAWMYhHlJDGM4zj5fhaT6uAldvWv9mn/toHPWMYYbuIwXlhyx2A0FDCqYVzBM6xiGw3swnnsdxPfsIOJ1+tvfkaDp7ZyU9P3OjWFKh7AhriHY7iOoxrVOlY1qrxY/QmczzO1ArqxgA7s4Tg2cRk59KGIDUTxftiyzCm3EDrnIq3Ljrfos97ir+n7B/Tjlnbut8pXbIfD2MUDmlp69yzpo34fEovvqbbvbSdDF7teb4v9SDrp1y72qOxOqt1XO2s2teA/cdo7K9ZBMauhTa2uw1ZtU9+jNSp6a5UOy63biGo6sdWM6W1JVlhuzba/ghF0afsDzwzKGE2VB2rbpdxKnhGV0MAltx8Hbd3kCz7hh1cWqI1TjuWW7FA1dQHt7mzjOQ7oNF9tMxWr+4NxjOD+o4dzzeTSlnUB7dIewYI6CjI6uqZOniwtzpfTt99u8S89I2d02t+1eUasg4aNJOsZSUb21nvYzrV52B77D1sSfwUYANfFc+IkehNuAAAAAElFTkSuQmCC);
+	height: 18px;
+	width: 18px;
+	display: inline-block;
+}
+
+.popover.ajuda {
+	max-width: 340px;
+}
+
+.acao-copiar-pernoite-segurado {
+	float:right;
+	margin-top: 6px;
+}
+
+/* Decodificador de chassi */
+.decodificador {
+	margin-bottom: 10px;
+}
+.decodificador div {
+	background-image: url(/resources/v3/images/multicalculo/check.png); 
+	width: 16px; 
+	height: 16px; 
+	float: right; 
+	margin: 5px 0px 0px 5px;
+}

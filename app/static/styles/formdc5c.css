@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+
+
+.ac_data{background:#F00;}
+.ac_results{padding:0px;border:2px solid #d0d0d0;background-color:white;overflow:hidden;z-index:99999;}
+.ac_results ul{width:100%;list-style-position:outside;list-style:none;padding:0;margin:0;}
+.ac_results li{margin:0px;cursor:default;display:block; font-family:Verdana, Arial, Helvetica, sans-serif;line-height:16px;overflow:hidden;}
+.ac_loading{background:white url(/static/images/loading_autocomplete.gif) right center no-repeat !important;}
+.ac_odd{background-color:#f7f7f7;padding:2px 5px 2px 28px;font-size:11px;}
+.ac_even{background-color:#fff;padding:2px 5px 2px 28px;font-size:11px;}
+.ac_over{background-color:#3399ff;color:#fff;}
+.ac_group{background-color:#fff;font-size:100px;color:#999;font-weight:bold;height:20px;border-bottom:1px solid #c8c8c8;border-top:5px solid #fff;padding:0px 0px;font-size:11px;}
+.ac_title{background-color:#e1e1e1;font-size:50px;color:#000;height:25px;padding-top:5px;border-top:5px solid #e1e1e1;padding:2px 5px;font-size:13px;}@charset "utf-8";
+
+
+.crossform-select{position:relative;background-image:url(/static/images/layout/form-padrao/crossforms_sprite.png);background-position:0px -38px;height:38px;font-size:1em;cursor:pointer;}
+.crossform-select select{position:absolute!important;left:0px!important;top:0px!important;opacity:0!important;filter:alpha(opacity='0');z-index:2!important;width:100%!important;height:100%!important;padding:0px!important;*font-size:1.4em!important;*font-weight:normal!important;border:0px!important;margin:0px!important;visibility:visible!important;}
+.crossform-select .crossform-label{display:block;position:absolute;top:10px;left:12px;color:#484848;font-size:1.3em;height:1.3em;overflow:hidden;}
+.crossform-left{float:left;width:29px;background-position:0px 0px;background-repeat:no-repeat;}
+.crossform-right{position:absolute;right:0px;z-index:0;float:right;width:30px;background-position:0px -76px;background-repeat:no-repeat;}
+.crossform-select-hover{background-position:0px -152px;}
+.crossform-select-hover .crossform-left{background-position:0px -114px;}
+.crossform-select-hover .crossform-right{background-position:0px -190px;}
+.crossform-select-active{background-position:0px -608px;}
+.crossform-select-active .crossform-left{background-position:0px -570px;}
+.crossform-select-active .crossform-right{background-position:0px -646px;}
+
+
+.form-erro .crossform-select{background-position:0px -494px;}
+.form-erro .crossform-select .crossform-left{background-position:0px -456px;}
+.form-erro .crossform-select .crossform-right{background-position:0px -532px;}
+.form-sucesso .crossform-select{background-position:0px -380px;}
+.form-sucesso .crossform-select .crossform-left{background-position:0px -342px;}
+.form-sucesso .crossform-select .crossform-right{background-position:0px -418px;}
+
+
+.form-sucesso .crossform-select-active{background-position:0px -722px;}
+.form-sucesso .crossform-select-active .crossform-left{background-position:0px -684px;}
+.form-sucesso .crossform-select-active .crossform-right{background-position:0px -760px;}
+
+
+.form-erro .crossform-select-active{background-position:0px -836px;}
+.form-erro .crossform-select-active .crossform-left{background-position:0px -798px;}
+.form-erro .crossform-select-active .crossform-right{background-position:0px -874px;}

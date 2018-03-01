@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+	
+
+<head>
+		
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta charset="utf-8">
+	
+	<!--[if lte IE 7]>
+	<script>window.location.href='/atualize-seu-navegador';</script>
+	<![endif]-->
+	
+		<title>HDI Seguros - Smartia Seguros Online</title>
+		<meta name="author" content="Smartia" />
+		<meta name="description" content="Economize no seguro do seu carro no Smartia, calcule f&aacute;cil e r&aacute;pido o pre&ccedil;o em v&aacute;rias seguradoras e compre na hora." />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+
+	<!-- Favicons and touch icons -->
+	<!-- For retina-display iPads -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png" href="../resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For retina-display iPhones -->
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png" href="../resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For iPad 1 -->
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png" href="../resources/v3/images/common/ipad_72x72.png"/>
+	<!-- For iPhone 3G, iPod Touch and Android -->
+	<link rel="apple-touch-icon-precomposed" type="image/png" href="../resources/v3/images/common/iphone_57x57.png" />
+	<!-- For Nokia 
+	<link rel="shortcut icon" type="image/png" href="/resources/v3/images/common/iphone_57x57.png" />
+	<link rel="icon" type="image/png" href="/resources/v3/images/common/64x64.png" />
+	-->
+	<link rel="shortcut icon" href="../resources/v3/images/common/favicon.ico" />
+	
+	<!-- Site theme -->
+	
+		<link href='../resources/styles/v3-common.css' rel="stylesheet"/>
+				
+	
+	<link href='../resources/styles/landing-pages.css' rel="stylesheet"/>
+			
+	
+	<script type="text/javascript">
+		window.idSessaoSmartia = "S171121EJY29J1XAY3AXA59HX5X";
+		window.baseURL = /";
+		window.base = "";
+		window.revNumber = "LOCAL_1511284763132";
+	</script>
+	
+
+	
+	
+	
+	
+	<!--[if lte IE 8]>
+	  <script src="/resources/scripts/v3-old-ie.js"></script>
+	<![endif]-->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20687946-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-20687946-1');
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://www.smartia.com.br/resources/jquery.cookie.js" type="text/javascript" ></script>
+<script src="https://www.smartia.com.br/resources/track_referrer.js" type="text/javascript" ></script>
+</head>
+
+	<body>
+		<!-- ClickTale Top part -->
+		<script type="text/javascript">
+			var WRInitTime=(new Date()).getTime();
+		</script>
+		<!-- ClickTale end of Top part -->
+		
+		<!-- Google Tag Manager -->
+		
+		<noscript><iframe src="http://www.googletagmanager.com/ns.gabrielhtml?id=GTM-WXLWLP"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WXLWLP');</script>
+		<!-- End Google Tag Manager -->
+		<div class="body-content">
+			
+
+
+
+
+
+
+
+
+
+	<div class="header-wrapper">
+		<header class="cabecalho" data-spy="affix" data-offset-top="190">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<a href="/">
+							<img class="logo" src="../resources/v3/images/common/logo.png" alt="Smartia Seguros Online"/>
+							<img class="logo compacto" src="../resources/v3/images/common/logo-compacto.png" alt="Smartia Seguros Online"/>
+						</a>
+						<div class="menus">
+							<nav class="atalhos">
+								<ul class="nav nav-pills">
+									<div class="build-number">LOCAL</div>
+<li class="blog"><a href="../blog"><b class="sprite-header blog-icon"></b>Blog</a></li>
+<li class="atalho-atendimento"><a id="atendimentoSmartia" role="button" data-toggle="modal" href="#modalAtendimento"><span class="texto"><b class="sprite-header atend-icon"></b>&nbsp;</span><!--  <span class="sprite-header atend-fone ir">0800 Smartia</span> -->Atendimento</a></li>
+								</ul>
+							</nav>
+							<nav class="menubar">
+								<ul class="nav nav-pills menuitens">
+									<li class="dropdown menu-produtos">
+  <a id="dropProdutos" role="button" data-hover="dropdown" href="javascript:void(0);">Produtos <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuProdutos" class="dropdown-menu" role="menu" aria-labelledby="dropProdutos">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../seguro-auto/simulacao-preco/veiculo">Seguro Automóvel</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../seguro-caminhao">Seguro Caminhão</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../seguro-taxi">Seguro Táxi</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../seguro-frota">Seguro Frota</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../seguro-empresa">Seguro Empresa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-como-funciona">
+  <a id="dropComoFunciona" role="button" data-hover="dropdown" href="javascript:void(0);">Como funciona <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuComoFunciona" class="dropdown-menu" role="menu" aria-labelledby="dropComoFunciona">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../como-funciona-seguro-online">Seguro online</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../seguradoras">Seguradoras</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../como-acionar-seu-seguro">Acionando seu seguro</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../perguntas-frequentes">Perguntas frequentes</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../dicionario-de-seguros">Dicionário de seguros</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-sobre-a-smartia">
+  <a id="dropSobreASmartia" role="button" data-hover="dropdown" href="javascript:void(0);">Sobre a smartia <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuSobreSmartia" class="dropdown-menu" role="menu" aria-labelledby="dropSobreASmartia">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../quem-somos">Quem somos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../depoimentos">Depoimentos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../sala-de-imprensa">Sala de imprensa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-contato">
+  <a id="dropContato" role="button" data-hover="dropdown" href="javascript:void(0);">Contato <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuContato" class="dropdown-menu" role="menu" aria-labelledby="dropContato">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../fale-conosco">Fale conosco</a></li>
+	 
+  </ul>
+</li>
+<li class="simular-agora"><a class="btn btn-primary" href="#" onclick="document.getElementById('centro_banner_form').submit();" rel="nofollow">Simule seu Seguro Auto <b class="right-caret"></b></a></li>
+<li class="social">
+	<div class="google">
+		<g:plusone size="medium" annotation="none"></g:plusone>
+	</div>
+	<div class="facebook">
+		<div class="fb-wrapper">
+			<div class="fb-like" data-href="https://www.facebook.com/SmartiaSeguros" data-width="30" data-show-faces="false" data-send="false" data-action="like" data-layout="button_count" data-font="tahoma"></div>
+		</div>
+	</div>
+</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+	</div>
+
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+<div class="page-title">
+	<div class="container single-page">		
+		<ol class="breadcrumb">
+			<li><a href="/">Início</a></li>
+		  
+			<li class="active">HDI Seguros</li>
+		
+		</ol>
+		<h1>HDI Seguros</h1>
+		
+			<a href="#" onclick="document.getElementById('centro_banner_form').submit();" class="big-simule-button" rel="nofollow">Simule seu Seguro Auto</a>
+		
+	</div>
+</div>
+
+		
+		<div class="container">
+			<span class="double-border"></span>
+			
+			<div class="row">
+				<div id="seguradoras" class="col-md-12 col-sm-12 col-xs-12 hdi">
+					<main class="page-with-aside acionando-seu-seguro">
+						<div class="seguradora-box"><img src="../resources/v3/images/landing-pages/seguradoras/logos/hdi_logo.jpg" alt=""></div>
+						<div class="simule-agora">
+							<p>Simule o <strong>valor do seguro</strong> do seu carro agora mesmo!</p>
+							<a href="../seguro-auto/simulacao-preco/veiculo" class="simule-button">Simular agora<b class="right-caret"></b></a>
+							<p class="small-info">e em at&eacute; outras <strong>5 seguradoras</strong>.</p>
+						</div>
+						
+						<div style="clear:both;"></div>
+						<div class="seguradoras-descricao">
+							<h2>Conhe&ccedil;a a seguradora HDI</h2>
+							<p>
+								Fundado em 1903, em Frankfurt, o Grupo HDI - Haftpflichtverband der Deutschen Industrie, est&aacute; posicionado como o terceiro maior grupo segurador da Alemanha e o terceiro maior ressegurador do mundo, atuando em mais de cento e cinquenta pa&iacute;ses.
+							</p>
+							<p>
+								Em 1996, a organiza&ccedil;&atilde;o passa por uma importante transforma&ccedil;&atilde;o, assumindo como holding uma empresa jovem e din&acirc;mica - a Talanx. Com o alinhamento de sua estrutura, consolidou-se assim, um grupo multimarca, flex&iacute;vel e com capital forte o bastante para fazer frente a um mercado altamente competitivo.
+							</p>
+							<p>
+								Atualmente, o Grupo HDI Seguros atende noventa por cento das maiores empresas alem&atilde;s, al&eacute;m de ter conquistado grande parte do mercado europeu, consolidando-se como uma s&oacute;lida organiza&ccedil;&atilde;o na &aacute;rea de seguro. Est&aacute; presente em pa&iacute;ses como EUA, It&aacute;lia, &Aacute;ustria, B&eacute;lgica, Espanha, Irlanda, Luxemburgo, Austr&aacute;lia, Holanda e tamb&eacute;m no Brasil, representado pelo HDI Seguros.
+							</p>
+							<p>
+								O maior patrim&ocirc;nio do grupo &eacute; o relacionamento com seus clientes, Por isso, os profissionais da HDI s&atilde;o altamente especializados em analisar caso a caso, considerando o estilo de vida, cultura, condi&ccedil;&otilde;es s&oacute;cio-econ&ocirc;micas e riscos ambientais, oferecendo solu&ccedil;&otilde;es para pessoas de origens diferentes, mas todas com um desejo em comum: prote&ccedil;&atilde;o.
+							</p>
+							<h2>HDI Seguros no Brasil</h2>
+							<p>
+								H&aacute; trinta e seis anos no Brasil, a HDI Seguros acompanha a mesma filosofia do Grupo HDI, acreditando que seus clientes s&atilde;o o fator mais importante da sua miss&atilde;o. Com sede em S&atilde;o Paulo e mais de sessenta filiais espalhadas pelo Brasil a HDI Seguros oferece solu&ccedil;&otilde;es adequadas a cada caso, sempre com a melhor rela&ccedil;&atilde;o custo-benef&iacute;cio.
+							</p>
+							<div class="seguradora-pictures">
+								<img src="../resources/v3/images/landing-pages/seguradoras/fotos/hdi01.jpg" alt="">
+								<img src="../resources/v3/images/landing-pages/seguradoras/fotos/hdi02.jpg" alt="">
+								<img src="../resources/v3/images/landing-pages/seguradoras/fotos/hdi03.jpg" alt="">
+								<img src="../resources/v3/images/landing-pages/seguradoras/fotos/hdi04.jpg" alt="">
+							</div>
+							<h2>Conhe&ccedil;a as vantagens em contratar o seguro HDI Auto</h2>
+							<p>
+								Atualmente, o principal produto da organiza&ccedil;&atilde;o &eacute; o HDI Auto Perfil, um seguro t&atilde;o diferenciado que ganhou amplo reconhecimento. Mas a marca registrada continua sendo o HDI Bate-Pronto, um sistema de atendimento de sinistros extremamente &aacute;gil e focado na efici&ecirc;ncia.
+							</p>
+							<p>
+								Na HDI Auto Perfil s&atilde;o considerados os dados mais freq&uuml;entes dos condutores e os h&aacute;bitos de utiliza&ccedil;&atilde;o do ve&iacute;culo, assim voc&ecirc; aciona as coberturas de acordo com suas necessidades, obtendo um pre&ccedil;o muito mais justo na sua proposta de seguro. A confiabilidade que s&oacute; a HDI pode oferecer &eacute; mais uma das vantagens do HDI Auto Perfil, tendo a certeza de que ir&aacute; receber um atendimento &aacute;gil e eficaz na hora de obter sua indeniza&ccedil;&atilde;o. Assist&ecirc;ncia funeral familiar para segurado, c&ocirc;njuge, e filhos at&eacute; 21.
+							</p>
+							<div class="seguradoras-primary-box">
+								<div class="textbox">
+									<h4>Simule o valor do seguro na <strong>HDI Seguros</strong></h4>
+									<p>e em at&eacute; outras <strong>5 seguradoras</strong></p>
+								</div>
+								<a href="../seguro-auto/simulacao-preco/veiculo" class="bt-simule-secondary">Simule agora seu seguro <b class="right-caret"></b></a>
+							</div>
+						
+						</div>
+					
+					</main>
+					<aside class="aside-with-page">
+						<ul class="aside-links">
+							
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		<li><a class="" href="../como-funciona-seguro-online">Seguro online</a></li>
+		<li><a class="active" href="../seguradoras">Seguradoras</a></li>
+		<li><a class="" href="../como-acionar-seu-seguro">Acionando seu seguro</a></li>
+		
+		<li><a class="" href="../perguntas-frequentes">FAQ - Perguntas Frequentes</a></li>
+		<li><a class=" last" href="../dicionario-de-seguros">Dicionário do “Segurês”</a></li>
+	
+	
+
+						</ul>
+						<div class="aside-box">
+							<h2 class="info-util">Informa&ccedil;&otilde;es &uacute;teis</h2>
+							<ul class="seguradoras">
+								<li class="first">
+									<h3>Assist&ecirc;ncia 24 Horas</h3><br>
+									<p>
+									3003 1434 (Regi&otilde;es Metropolitanas e Capitais) <br><br>
+									3003 4434 (Regi&otilde;es Metropolitanas e Capitais) <br><br>
+									0800 777 7434 (Demais Localidades)
+									</p>
+								</li>
+								<li>
+									<h3>Sinistros</h3><br>
+									<p>
+									4002 1261 (Regi&otilde;es Metropolitanas e Capitais) <br><br>
+									0800 701 5430 (Demais Localidades)
+									</p>
+								</li>
+								<li class="last">
+									<h3>Servi&ccedil;o de Atendimento ao Cliente (SAC)</h3><br>
+									<p>
+									0800 722 7149
+									</p>
+								</li>
+							</ul>
+						</div>
+						<br>
+					</aside>
+					<br/>
+				</div>
+			</div>
+		</div>
+	
+		</div>
+		
+<footer class="rodape">
+	<div class="links">
+	<div class="container">
+		<div class="row">
+			<ul class="col-md-12 col-sm-12 col-xs-12" role="presentation">
+				<li><a href="../politica-de-privacidade" title="Veja a política de privacidade da Smartia">Política de privacidade</a></li>
+				<li class="divider">|</li>
+				<li><a href="../termos-de-uso" title="Veja os termos de uso da Smartia">Termos de uso</a></li>
+				<li class="divider">|</li>
+				<li><a href="../seguranca" title="Tudo sobre a segurança de seus dados em nosso site">Segurança</a></li>
+				<li class="divider">|</li>
+				<li><a href="../cotacao-de-seguro" title="Entenda a cotação de Seguro">Cotação de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="../sobre-seguro-auto" title="Saiba mais sobre seguro auto">Seguro Auto</a></li>
+				<li class="divider">|</li>
+				<li><a href="../valor-de-seguro" title="Saiba o valor do seu seguro">Valor de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="../simulacao-de-seguros" title="Entenda a simulação de seguros">Simulação de Seguros</a></li>
+				<li class="divider">|</li>
+				<li><a href="../franquia-de-seguros" title="Saiba mais sobre franquia de seguros">Franquia de Seguros</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row imagens">
+		<div class="siga-nos col-md-4 col-sm-4 col-xs-4">
+			Siga-nos 
+			<ul class="inline">
+				<li><a href="http://www.facebook.com/SmartiaSeguros" target="_blank" alt="Curta nossa página do Facebook"><b class="sprite-dinamico share-facebook ir">Curta nossa página do Facebook</b></a></li> 
+				<li><a href="http://twitter.com/#!/smartiaseguros/" target="_blank" alt="Siga a Smartia no Twitter"><b class="sprite-dinamico share-twitter ir">Siga a Smartia no Twitter</b></a></li>
+				
+				<li><a href="http://www.youtube.com/user/SmartiaSeguros" target="_blank" alt="Assista os vídeos da nossa página do Youtube"><b class="sprite-dinamico share-youtube ir">Assista os vídeos da nossa página do Youtube</b></a></li>
+				<li><a href="https://plus.google.com/+SmartiaBrSeguros" rel="publisher" target="_blank" alt="Não deixe de acessar nossa página do Google Plus"><b class="sprite-dinamico share-google-plus ir">Não deixe de acessar nossa página do Google Plus</b></a></li>
+			</ul>
+		</div>
+		<div class="site-seguro col-md-4 col-sm-4 col-xs-4 logos">
+			<div class="descricao col-md-4 col-sm-4 col-xs-4">
+				Site seguro, cotação segura:
+			</div>
+			<div class="logo col-md-3 col-sm-3 col-xs-3">
+				<a href="javascript:vopenw('Certisign')"><b class="sprite-fixo logo-certisign ir">Site seguro - validado por CertiSign</b></a>
+			</div>
+		</div>
+		<div class="corretor col-md-4 col-sm-4 col-xs-4 logos">
+			<div class="descricao ">
+				Aqui tem corretor:
+			</div>
+			<div class="logo lg-etica col-md-3 col-sm-3 col-xs-3 col-md-offset-2 col-sm-offset-2 col-xs-offset-2">
+				<a href="https://www.fenacor.org.br/Servicos/CodigoDeEtica" target="_blank"><b class="sprite-fixo logo-tem-corretor ir">Código de ética Fenacor.</b></a>
+			</div>
+			<div class="logo lg-fenacor col-md-4 col-sm-4 col-xs-4">
+				<a href="http://www.fenacor.com.br/" target="_blank"><b class="sprite-fixo logo-fenacor ir">Fenacor</b></a>
+			</div>
+			<div class="logo lg-sincor col-md-3 col-sm-3 col-xs-3">
+				<a href="http://www.sincor-rj.com/" target="_blank"><b class="sprite-fixo logo-sincor ir">Sincor-RJ</b></a>
+			</div>
+		</div>
+	</div>
+	<div class="row copyrights">
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<p class="copyright">
+				© Copyright 2017 Smartia. Todos os direitos reservados.
+			</p>
+			<p class="texto-copyright">
+				Smartia ® é de propriedade da Eurodemand do Brasil S.A, registrada sob o CNPJ 17.467.253/0001-72, situada à Av. Brigadeiro Faria Lima 201 - 11º andar | São Paulo, SP 05426-100. Este portal faz parte do grupo de sites de seguros e finanças de nossa empresa. Preencha o nosso formulário para solicitar o seu seguro auto e receber o contato de um de nossos corretores em sua região. Para entrar em contato com nossa equipe utilize nosso formulário de contato.
+			</p>
+		</div>
+	</div>
+</div>
+
+</footer>
+
+		
+<section class="modal fade modal-atendimento" id="modalAtendimento" tabindex="-1" role="dialog" aria-labelledby="modalAtendimentoLabel" aria-hidden="true">
+  <div class="modal-dialog">
+	<div class="modal-content">
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">fechar <span class="glyphicon glyphicon-remove-sign"></span></button>
+	  </div>
+	  <div class="modal-body">
+	  	<div class="inline">
+			<h1 id="modalAtendimentoLabel" class="modal-title"><i class="sprite-adicional sprite-atendente"></i></h1>
+			<p class="subtitulo">Serviço de atendimento ao consumidor</p>
+		</div>
+		<h2>4007-2532</h2>
+		<div class="small">* Somente Regi&otilde;es metropolinas. Demais localidades: (11) 4007-2532</div>
+		<p>Através da nossa central de atendimento você pode comprar um seguro novo, fazer uma renovação ou endosso, tirar dúvidas e acionar seu seguro.</p>
+		<p class="horarios">Atendimento de segunda a sexta das 08:30 às 19:00.</p>
+		
+	  </div>
+	</div>
+  </div>
+</section>
+
+		<script src='../resources/styles/v3-common.js' type="text/javascript"></script>
+			<script src='../resources/styles/landing-pages.js' type="text/javascript"></script>
+			
+		<!--[if lte IE 8]><script>window.setTimeout("$('html').removeClass('hideall')", 3000);</script><![endif]-->
+		<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.async = true;
+  js.src = "http://connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		
+	<form id="centro_banner_form" method="get" action="https://melhor.smartia.com.br/" style="visibility: hidden" >
+           					 
+<input type="hidden" name="aff_id" value="1189" id="aff_id" class="aff_id" />
+
+				<input type="hidden" name="centro_utm_source" value="" id="centro_utm_source" class="centro_utm_source" />
+				<input type="hidden" name="centro_utm_medium" value="" id="centro_utm_medium" class="centro_utm_medium" />
+				<input type="hidden" name="centro_utm_campaign" value="" id="centro_utm_campaign" class="centro_utm_campaign" />
+				<input type="hidden" name="centro_referrer" value="" id="centro_referrer" class="centro_referrer" />
+				<input type="hidden" name="centro_landing_page_url" value="" id="centro_landing_page_url" class="centro_landing_page_url" />
+				<input type="hidden" name="centro_session_landing_page_url" value="" id="centro_session_landing_page_url" class="centro_session_landing_page_url" />
+
+               	<input type="submit" class="btn btn-primary large button vemm-event-go-to-form" value="Solicitar">
+               
+			</form> 
+		
+	</body>
+
+</html>

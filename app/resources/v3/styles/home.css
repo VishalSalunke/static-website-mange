@@ -1,0 +1,543 @@
+
+#carousel a.veja-mais:hover  {
+	color: #f3b030;	
+}
+#carousel .veja-mais {
+	color: #f3b030;	
+	font-size: 15px;
+}
+#carousel .veja-mais .glyphicon {
+	margin-top: -8px;
+	font-size: 19px;
+	vertical-align: middle;
+	margin-left: 8px;
+	color: #8f8d87;
+} 
+
+#carousel .carousel-inner > section {
+	height: 315px;
+}
+
+#carousel .banner-principal {
+	background: #f0af31 url("../images/home/banners/principal/bg.jpg") repeat-x;
+}
+#carousel .banner-principal .imagem {
+	position: absolute;
+	background-image: url("../images/home/banners/principal/imagem.png");
+	background-repeat: no-repeat;
+	width: 714px;
+	height: 287px;
+	top: 28px;
+}
+#carousel .banner-principal .descricao {
+	float: left;
+	margin-left: 259px;
+	margin-top: 22px;
+}
+#carousel .banner-principal h2 {
+    text-align: left;
+    color: white;
+    font-size: 38px;
+    font-family: "alwyn-new-web-n1", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    letter-spacing: -3px;
+}
+#carousel .banner-principal span {
+	display: block;
+}
+#carousel .banner-principal span.linha2 {
+	padding-left: 37px
+}
+#carousel .banner-principal span.linha3 {
+	padding-left: 56px
+}
+#carousel .banner-principal span b {
+	font-family: "alwyn-new-web-n5", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 500;
+}
+
+#carousel .banner-mobile {
+	background: #f9f9f9 url("../images/home/banners/mobile/bg.png") ;
+	background-position: center center;
+}
+#carousel .banner-mobile .imagem {
+	position: absolute;
+	background-image: url("../images/home/banners/mobile/imagem.png") ;
+	width: 293px;
+	height: 295px;
+	top: 28px
+}
+#carousel .banner-mobile .descricao {
+	width: 422px;
+	margin-left: 257px;
+	margin-top: -8px;
+	font-family: "alwyn-new-web-n1", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	font-weight: 100;
+	line-height: 24px;
+	padding-top: 50px;
+}
+#carousel .banner-mobile .descricao h2 {
+	font-size: 54px;
+	font-weight: 500;
+	font-family: "alwyn-new-web-n5", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: -3px;
+}
+#carousel .banner-mobile .descricao .detalhes {
+	padding-left: 32px;
+}
+#carousel .banner-mobile .descricao .subtitulo {
+	color: #F6B332;
+	font-family: "alwyn-new-web-n1", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 23px;
+	letter-spacing: -1px;
+	font-weight: 100;
+}
+#carousel .banner-mobile .descricao .subtitulo b {
+	font-weight: 500;
+	font-family: "alwyn-new-web-n5", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;	
+}
+
+#carousel .banner-mobile .descricao ul {
+	padding: 0px;
+	margin: 0px;
+	font-size: 15px;
+}
+#carousel .banner-mobile .descricao li:before {
+	content: "- ";
+}
+#carousel .banner-mobile .descricao li {
+	list-style-type: none;
+}
+#carousel .banner-mobile .descricao .adicional {
+	padding: 7px 5px;
+}
+
+#carousel .banner-como-funciona {
+	/* background: #f9f9f9 url("../images/home/banners/como-funciona/bg.png"); */
+	background: #F9F9F9 url("../images/home/banners/mobile/bg.png");
+	background-position: center center;
+}
+#carousel .banner-como-funciona .imagem {
+	position: absolute;
+	background-image: url("../images/home/banners/como-funciona/imagem.png");
+	width: 384px;
+	height: 319px;
+	margin-top: -4px;
+	background-repeat: no-repeat;
+}
+#carousel .banner-como-funciona .descricao {
+	float: left;
+	margin-left: 384px;
+	margin-top: 40px;
+	width: 270px;
+}
+#carousel .banner-como-funciona h2 {
+	text-align: left;
+	color: #8f8d87;
+	font-size: 25pt;
+	font-family: "alwyn-new-web-n1", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	line-height: 37px;
+	letter-spacing: -2px;
+}
+#carousel .banner-como-funciona h2 b {
+	font-family: "alwyn-new-web-n5", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	color: #f6b332;
+}
+
+
+#carousel .banner-seguradoras .imagem {
+  position: absolute;
+  background-image: url("../images/home/banners/seguradoras/logos-seguradoras-parceiras.png");
+  width: 675px;
+  height: 159px;
+  top: 125px;
+  left: -20px;
+}
+
+#carousel .banner-seguradoras .descricao {
+  text-align: center;
+  margin-top: 15px;
+  margin-left: -20px; }
+
+#carousel .banner-seguradoras h2 {
+  font-size: 36px;
+  letter-spacing: -2px;
+  text-align: center;
+  line-height: 40px; }
+
+#carousel .banner-seguradoras h2 span {
+  display: block;
+  font-size: 48px;
+  font-family: "alwyn-new-web-n5", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500; }
+
+
+#carousel main {
+	position: absolute;
+	right: 15px;
+	z-index: 400;
+	background-color: white;
+	width: 28.9%;
+	height: 191px;
+	padding: 0px;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 65px;
+	border: 1px solid #f6dba;
+	-webkit-border-radius: 14px;
+	-moz-border-radius: 14px;
+	border-radius: 14px;
+	/*
+	-webkit-box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.1);
+	 border: 3px solid rgb(246, 219, 163); */
+	border: 1px solid rgb(221, 221, 221);
+}
+#carousel main h1 {
+	color: #8f8e89;
+	font-family: "alwyn-new-web-n3", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.68em;
+	margin-top: 8px;
+	font-weight: 300;
+	letter-spacing: -2px;
+	line-height: 25px;
+	padding: 5px 4.6%;
+	text-align: center;
+}
+#carousel main h1 span {
+	font-family: "alwyn-new-web-n4", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #f7b334;
+	font-weight: 400;
+}
+#carousel main .btn-primary {
+	font-size: 30px;
+	font-weight: 500;
+	margin-top: 7px;
+	padding: 17px 0px;
+	width: 247px;
+	position: absolute;
+	margin-left: 0;
+	left: 7%;
+	bottom: 9%;
+	text-align: center;
+}
+
+#carousel main .btn-primary  .right-caret {
+	border-bottom-width: 7px;
+	border-top-width: 7px;
+	border-left-width: 6px;
+	margin-left: 2px;
+}
+
+
+
+#carousel .carousel-indicators {
+	bottom: -45px;
+}
+#carousel .carousel-indicators li {
+	background-color: white;
+	border-color: #9c9a95;
+	width: 13px;
+	height: 13px
+}
+#carousel .carousel-indicators li.active {
+	margin: 1px;
+	border: 1px solid  #9c9a95;
+	background-color: #9c9a95;
+}
+
+section.sobre-o-smartia > h1 {
+	font-size: 36px;
+	font-size: 38px;
+letter-spacing: -2px;
+}
+
+.como-funciona {
+	margin-top: 30px;
+	background-image: url(../images/home/como-funciona.png);
+	background-repeat: no-repeat;
+	background-position: 35px 0px;
+	height: 276px;
+	margin-bottom: 45px;
+}
+.como-funciona > div {
+	margin-top: 213px;
+	margin-left: 63px;
+	display: inline-block;
+	bottom: 10px;
+	color: #f7b334;
+	width: 145px;
+	vertical-align: top;
+	text-align: center;
+}
+.como-funciona > div span {
+	font-size: 30px;
+	font-family: "alwyn-new-web-n5", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	letter-spacing: -1px;
+}
+.como-funciona > div.resultado {
+	margin-left: 98px;
+	width: 216px;
+	margin-top: 233px;
+	line-height: 20px;
+}
+.como-funciona > div.resultado span {
+	font-size: 24px;
+	letter-spacing: -1px;
+}
+.como-funciona > div.resultado b {
+	font-size: 30px;
+	font-weight: 500;
+	letter-spacing: 0;
+}
+
+.sobre-o-smartia {
+	margin-top: 36px;
+}
+
+.sobre-o-smartia h1 {
+	margin-bottom: 26px;
+}
+.sobre-o-smartia p {
+	text-align: center;
+}
+
+.video-center-default{
+	padding-top: 20px !important;
+	width: 100% !important;
+	text-align: center !important;
+}
+
+.vantagens {
+	margin-top: 16px;
+}
+.vantagens ul {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+.vantagens li {
+	font-family: "open-sans-n1", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	color: #9c9a95;
+}
+.vantagens .segunda-coluna {
+	margin-left: -39px;
+}
+.vantagens .cobertura-atendimento img {
+	margin-top: -48px;
+	float: right;
+}
+
+.seguradoras-parceiras {
+	margin-top: 59px;
+}
+.seguradoras-parceiras ol {
+	padding-left: 0px;
+	background: #f4f3f3;
+}
+.seguradoras-parceiras > h1 {
+	font-size: 29px;
+	padding-bottom :21px;
+	text-align: center;
+}
+.seguradoras-parceiras li {
+	display: inline;
+	list-style-type:  none;
+	margin: 0px 1px;
+}
+
+.relacionados {
+	background-color: #efeded;
+	padding-top: 38px;
+	margin-top: 10px;
+}
+.relacionados .carousel-inner {
+	height: 266px;
+}
+.relacionados .carousel-indicators {
+	bottom: 41px;
+}
+.relacionados .carousel-indicators li {
+	border: 1px solid #bbb;
+	background: #bbb;
+}
+.relacionados .carousel-indicators .active {
+	background-color: #888;  
+}
+.relacionados .carousel > footer {
+	margin-bottom: 43px;
+}
+.relacionados article > footer {
+	padding-right: 20px;	
+}
+.relacionados .carousel > footer > a strong {
+	text-transform: uppercase;
+}
+.relacionados article > footer > a {
+	font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	float: right;
+	color: #f7b334;
+	font-size: 13px;
+	font-weight: 700;
+}
+
+.relacionados article > footer > a .glyphicon {
+	font-size: 8px;
+	top: 0;
+}
+
+.posts-recentes time {
+	float: left;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+.posts-recentes h3 {
+	font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 25px;
+	letter-spacing: -1px;
+}
+.posts-recentes h3 a {
+	color: #9C9A95;
+}
+.posts-recentes article {
+	padding: 0;
+	padding-right: 10px;
+}
+.posts-recentes article.first {
+	padding-right: 20px;
+}
+.posts-recentes p {
+	font-size: 14px;
+}
+.posts-recentes time span {
+	display: block;
+	padding: 8px;
+	font-family: "open-sans-n3", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	vertical-align: center;
+	width: 38px;
+}
+.posts-recentes .day {
+	font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: white;
+	color: #8f8e89;
+	font-weight: 700;
+	font-size: 17px;
+	line-height: 24px;
+	height: 40px;
+}
+.relacionados article > p > a {
+	font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #f7b334;
+	font-size: 13px;
+	font-weight: 700;
+}
+
+.relacionados article > p > a .glyphicon {
+	font-size: 8px;
+	top: 0;
+}
+
+
+.posts-recentes .month {
+	font-family: "open-sans-i3", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: #f7b334;
+	color: white;
+	font-size: 13px;
+	line-height: 5px;
+	font-weight: 300;
+	margin-top: 3px;
+	height: 20px;
+}
+
+.depoimentos {
+	padding-left: 0;
+}
+.depoimentos blockquote {
+	 background-color: #f7b334;
+	           border: 1px solid #f7b334;
+-webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+        border-radius: 7px;
+		text-align: center;
+		padding: 0px;
+		
+}
+.depoimentos blockquote span {
+	color: white;
+	font-size: 17px;
+	font-style: italic;
+	padding: 0;
+	display: block;
+	margin: 12px 29px;
+}
+.depoimentos blockquote span:before {
+	font-family: "Trebuchet MS", serif;
+	font-size: 46pt;
+	color: white;
+	font-weight: normal;
+	content: "“";
+	line-height: 46pt;
+	position: absolute;
+	margin-top: -8px;
+	padding: 0;
+	text-indent: 0;
+	margin-left: -33px;
+}
+.ie .depoimentos blockquote span:before {
+	margin-left: -29px;
+}
+.depoimentos blockquote span:after {
+	font-family: "Trebuchet MS", serif;
+	font-size: 46pt;
+	color: white;
+	font-weight: normal;
+	content: "”";
+	line-height: 46pt;
+	position: absolute;
+	padding: 0;
+	text-indent: 0;
+	margin-left: -6px;
+}
+
+.depoimentos blockquote .seta {
+	display: block;
+	position: absolute;
+	border-bottom: 0;
+	border-top: 14px solid #f7b334;
+	border-left: 14px solid transparent;
+	border-right: 14px solid transparent;
+	margin-left: 26px;
+}
+.depoimentos figure {
+	padding: 5px;
+	padding-top: 20px;
+}
+.depoimentos figcaption {
+	margin-top: 25px;
+}
+.depoimentos figcaption img {
+	border: 2px solid white;
+}
+.depoimentos figcaption .autor {
+	margin-top: 10px;
+	display: block;
+	font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	font-size: 17px;
+}
+.depoimentos figcaption b {
+	font-size: 17px;
+}
+
+/* ----- out-----*/
+#atendimentoSmartia {
+	display:none;
+	
+}

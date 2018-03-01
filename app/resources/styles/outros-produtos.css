@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+
+#SnapABug_Button {display: none;}
+
+
+div.sugestao{display:none;}
+form div.sugestao span{font-weight:bold;text-decoration:underline;cursor:pointer;}

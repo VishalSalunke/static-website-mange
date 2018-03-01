@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+<head>
+
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<!--[if lte IE 7]>
+	<script>window.location.href='/atualize-seu-navegador';</script>
+	<![endif]-->
+	
+		<title>Dúvidas e Perguntas sobre Seguro Online? Veja aqui dicas e nossa ajuda - Smartia Seguros Online</title>
+		<meta name="author" content="Smartia" />
+		<meta name="description" content="Está tendo dificuldade ao optar pela compra de seu seguro online? Leia aqui as dúvidas mais frequentes, e aproveite para acabar com sua indecisão." />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+
+	<!-- Favicons and touch icons -->
+	<!-- For retina-display iPads -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png" href="/resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For retina-display iPhones -->
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png" href="/resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For iPad 1 -->
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png" href="/resources/v3/images/common/ipad_72x72.png"/>
+	<!-- For iPhone 3G, iPod Touch and Android -->
+	<link rel="apple-touch-icon-precomposed" type="image/png" href="/resources/v3/images/common/iphone_57x57.png" />
+	<!-- For Nokia 
+	<link rel="shortcut icon" type="image/png" href="/resources/v3/images/common/iphone_57x57.png" />
+	<link rel="icon" type="image/png" href="/resources/v3/images/common/64x64.png" />
+	-->
+	<link rel="shortcut icon" href="/resources/v3/images/common/favicon.ico" />
+	
+	<!-- Site theme -->
+	
+		<link href='resources/styles/v3-common.css' rel="stylesheet"/>
+				
+	
+	<link href='resources/styles/estaticas.css' rel="stylesheet"/>
+			
+	
+	
+	
+
+	
+	
+	
+	
+	<!--[if lte IE 8]>
+	  <script src="/resources/scripts/v3-old-ie.js"></script>
+	<![endif]-->
+		<script type="text/javascript">
+		window.idSessaoSmartia = "S171121EJY29J1XAY3AXA59HX5X";
+		window.baseURL = "/";
+		window.base = "";
+		window.revNumber = "LOCAL_1511284763132";
+	</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20687946-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-20687946-1');
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://www.smartia.com.br/resources/jquery.cookie.js" type="text/javascript" ></script>
+<script src="https://www.smartia.com.br/resources/track_referrer.js" type="text/javascript" ></script>
+</head>
+
+	<body>
+		
+		
+		
+		<div class="body-content">
+			
+
+
+
+
+
+
+
+
+
+	<div class="header-wrapper">
+		<header class="cabecalho" >
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<a href="/">
+							<img class="logo" src="/resources/v3/images/common/logo.png" alt="Smartia Seguros Online"/>
+							<img class="logo compacto" src="/resources/v3/images/common/logo-compacto.png" alt="Smartia Seguros Online"/>
+						</a>
+						<div class="menus">
+							<nav class="atalhos">
+								<ul class="nav nav-pills">
+									<div class="build-number">LOCAL</div>
+<li class="blog"><a href="blog"><b class="sprite-header blog-icon"></b>Blog</a></li>
+<li class="atalho-atendimento"><a id="atendimentoSmartia" role="button" data-toggle="modal" href="#modalAtendimento"><span class="texto"><b class="sprite-header atend-icon"></b>&nbsp;</span><!--  <span class="sprite-header atend-fone ir">0800 Smartia</span> -->Atendimento</a></li>
+								</ul>
+							</nav>
+							<nav class="menubar">
+								<ul class="nav nav-pills menuitens">
+									<li class="dropdown menu-produtos">
+  <a id="dropProdutos" role="button" data-hover="dropdown" href="javascript:void(0);">Produtos <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuProdutos" class="dropdown-menu" role="menu" aria-labelledby="dropProdutos">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="seguro-auto/simulacao-preco/veiculo">Seguro Automóvel</a></li>
+	<li role="presentation" class="divider"></li>
+	 
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="seguro-empresa">Seguro Empresa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-como-funciona">
+  <a id="dropComoFunciona" role="button" data-hover="dropdown" href="javascript:void(0);">Como funciona <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuComoFunciona" class="dropdown-menu" role="menu" aria-labelledby="dropComoFunciona">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="como-funciona-seguro-online">Seguro online</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="seguradoras">Seguradoras</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="como-acionar-seu-seguro">Acionando seu seguro</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="perguntas-frequentes">Perguntas frequentes</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="dicionario-de-seguros">Dicionário de seguros</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-sobre-a-smartia">
+  <a id="dropSobreASmartia" role="button" data-hover="dropdown" href="javascript:void(0);">Sobre a smartia <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuSobreSmartia" class="dropdown-menu" role="menu" aria-labelledby="dropSobreASmartia">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="quem-somos">Quem somos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="depoimentos">Depoimentos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="sala-de-imprensa">Sala de imprensa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-contato">
+  <a id="dropContato" role="button" data-hover="dropdown" href="javascript:void(0);">Contato <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuContato" class="dropdown-menu" role="menu" aria-labelledby="dropContato">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="fale-conosco">Fale conosco</a></li>
+	 
+  </ul>
+</li>
+<li class="simular-agora">
+	<a class="btn btn-primary" href="#" onclick="document.getElementById('centro_banner_form').submit();" rel="nofollow">Simule seu Seguro Auto <b class="right-caret"></b></a>
+</li>
+<li class="social">
+	<div class="google">
+		<g:plusone size="medium" annotation="none"></g:plusone>
+	</div>
+	<div class="facebook">
+		<div class="fb-wrapper">
+			<div class="fb-like" data-href="https://www.facebook.com/SmartiaSeguros" data-width="30" data-show-faces="false" data-send="false" data-action="like" data-layout="button_count" data-font="tahoma"></div>
+		</div>
+	</div>
+</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+	</div>
+
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+<div class="page-title">
+	<div class="container single-page">		
+		<ol class="breadcrumb">
+			<li><a href="/">Início</a></li>
+		  
+			<li class="active">FAQ - Perguntas Frequentes</li>
+		
+		</ol>
+		<h1>FAQ - Perguntas Frequentes</h1>
+		
+			<a href="#" onclick="document.getElementById('centro_banner_form').submit();" class="big-simule-button" rel="nofollow">Simule seu Seguro Auto</a>
+		
+	</div>
+</div>
+
+	
+		<div class="container">	
+			<span class="double-border"></span>
+			
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<main class="page-with-aside with-padding institucional"> 
+						
+						<h2 class="yellow big mb-15">Dúvidas sobre seguro online</h2>
+						<div class="video-center-default" align="center">
+							<iframe width="654" height="380" src="https://www.youtube.com/embed/5XlypuUF0DA" frameborder="0" allowfullscreen></iframe>
+						</div>
+						<div class="faq">
+							<h4 class="accordion-title">Como é o processo de contratação e cobertura do risco no seguro de automóvel?</h4>
+							<div class="accordion-content current">
+								<p>A contratação se dá através de:</p>
+								<p>
+									1) Entrega da proposta de seguro, com respectivo protocolo (físico ou eletrônico); <br /> 
+									2) Inspeção do risco, nota fiscal ou confirmação de renovação;  <br />
+									3) Pagamento da primeira parcela ou parcela única dentro do vencimento estipulado pela seguradora. 
+								</p>
+								<p>É comum a concessão do prazo de 3 a 5 dias úteis (ou corridos) para pagamento da primeira parcela. Após a realização dos três passos, a seguradora dispõe de 15 dias para analisar e, eventualmente, recusar o risco. Considerando que o risco esteja dentro da política de aceitação da companhia divulgada aos corretores, até que a eventual recusa seja consumada ao corretor o risco está coberto, exceto nos casos de fraude comprovada.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">Quais as principais garantias oferecidas no seguro de automóvel?</h4>
+							<div class="accordion-content">
+								<p>As garantias dividem-se basicamente em:</p>
+
+<p>Coberturas básicas: cobrem incêndio, roubo/furto, colisão, acidentes pessoais de passageiros, danos corporais e danos materiais;</p>
+
+<p>Coberturas adicionais: garantem, por exemplo, utilização de carro reserva, danos nos vidros, lanternas e retrovisores, danos morais ao segurado;</p>
+
+<p>Serviços de assistência: garantem, por exemplo, reboque 24h, chaveiro, troca de pneus, dentre inúmeros outros.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que são coberturas básicas?</h4>
+							<div class="accordion-content">
+								<p>São aquelas que garantem os danos relativos ao veículo segurado propriamente dito (CASCO).<p>
+
+<p>COMPREENSIVA (Colisão + Incêndio + Roubo): Cobre os casos de acidentes de trânsito, colisão, capotagem, tombamento, derrapagem, atos danosos praticados por terceiros, submersão parcial ou total do veículo proveniente de alagamento, enchentes ou inundações, inclusive nos casos de veículos guardados em subsolos, ressaca, vendaval, granizo, furacão, terremoto, raios, incêndio ou explosão, roubo ou furto parcial ou total.</p>
+
+<p>As despesas necessárias ao socorro e salvamento do veículo, em consequência de um dos riscos cobertos, serão reembolsáveis em qualquer uma das coberturas básicas.</p>
+
+<p>INCêNDIO E ROUBO: Cobre os casos de incêndio ou explosão, raios, roubo ou furto total do veículo. Também cobre colisão, capotagem e derrapagem, quando decorrentes de roubo ou furto total do veículo.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">Quais são as modalidades de contratação do seguro de automóvel?</h4>
+							<div class="accordion-content">
+								<p>As seguradoras podem oferecer duas modalidades de contratação: Valor de Mercado Referenciado (VMR) e Valor Determinado (VD).</p>
+
+<p>Valor de Mercado Referenciado é a forma de contratação que garante ao segurado, em caso de indenização integral, o pagamento de quantia variável, em moeda corrente nacional, determinada de acordo com uma tabela de referência de média dos valores de mercado praticados para veículos (a mais utilizada é a elaborada pela FIPE - Fundação Instituto de Pesquisas Econômicas), previamente fixada na proposta de seguro, conjugada com o fator de ajuste, em percentual a ser aplicado sobre a tabela estabelecida, na data da liquidação do sinistro.</p>
+
+<p>Valor Determinado é a forma de contratação que garante ao segurado, em caso de indenização integral, o pagamento de quantia fixa, em moeda corrente nacional, estipulada pelas partes no ato da contratação da apólice de seguro. Este valor poderá contemplar os opcionais existentes, além de levar em conta o ano de fabricação, tipo, modelo e o estado de conservação do veículo. Nos casos de veículo zero Km, deverá ser considerado como limite máximo de indenização, o valor da nota fiscal de compra.</p>
+
+<p>Cabe registrar que, de acordo com o Código Civil, um bem não pode ser segurado por valor maior do que vale. Portanto, no caso de contratação da modalidade de Valor Determinado, as seguradoras limitam o Limite Máximo de Indenização (LMI) ao valor médio de mercado do veículo. Após a escolha de uma modalidade de contratação, esta não poderá ser alterada durante a vigência do contrato.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que são coberturas adicionais?</h4>
+							<div class="accordion-content">
+								<p>As coberturas adicionais são aquelas concedidas mediante cobrança de prêmio adicional. Elas podem ser relativas:</p>
+
+<p>Ao veículo segurado: Acessórios, carrocerias, equipamentos, blindagem e kit gás;</p>
+
+<p>Aos serviços fornecidos: Danos a vidros, lanternas, faróis e lentes de retrovisores, assistência ao veículo e aos passageiros (assistência 24hs) e carro reserva;</p>
+
+<p>Às atividades profissionais: Despesas extraordinárias e diárias de indisponibilidade de veículo ou perda de faturamento;</p>
+
+<p>Aos limites de cobertura: Ampliação da extensão de perímetro e valor de novo.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que cobre a garantia da blindagem do veículo?</h4>
+							<div class="accordion-content">
+								<p>Estão cobertos os danos causados à blindagem do veículo, decorrentes de eventos causados por colisão, incêndio e roubo. Para a contratação dessa garantia é necessário apresentar nota fiscal e certificado de qualidade.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que cobre a garantia do kit gás?</h4>
+							<div class="accordion-content">
+								<p>Estão cobertos os danos causados ao equipamento de kit gás, decorrentes de eventos causados por colisão, incêndio e roubo. Para a contratação dessa garantia é necessário apresentar o Certificado de Segurança Veicular, expedido por instituição técnica licenciada, bem como uma regularização junto ao DETRAN.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que cobre a garantia de carro reserva?</h4>
+							<div class="accordion-content">
+								<p>Garante ao segurado o direito à locação de veículo pelo número de dias contratados na apólice. As opções mais praticadas pelas seguradoras são: 7, 15, 30 ou 45 dias, em caso de sinistro coberto pelo seguro e quando o valor dos prejuízos for superior à franquia fixada para o veículo segurado. Algumas seguradoras oferecem essa cobertura, em caso de perda parcial, pelo período compreendido entre a data do sinistro e a entrega do veículo pela oficina, e, em caso de indenização integral, da data do sinistro até a data da efetiva indenização. Há, também, a opção de algumas seguradoras oferecerem o carro reserva mesmo no caso em que o segurado seja o terceiro no acidente e o sinistro esteja sendo tratado em outra seguradora.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que é a garantia de despesas extraordinárias?</h4>
+							<div class="accordion-content">
+								<p>Na ocorrência de um sinistro de perda total do veículo, a seguradora garante ao segurado uma indenização adicional correspondente a um percentual do valor indenizado, para o pagamento de despesas extras, decorrentes do sinistro, sem necessidade de comprovação das despesas.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que é cobertura de RCF (Responsabilidade Civil Facultativa)?</h4>
+							<div class="accordion-content">
+								<p>Visa reembolsar ao segurado a indenização à qual esteja obrigado, judicial ou extrajudicialmente, a pagar em consequência de danos corporais e/ou materiais involuntários causados a terceiros.</p>
+
+<p>Ela pode ser contratada de forma isolada, ficando sujeita às regras de vistoria prévia da seguradora, e não há acréscimo no valor da franquia do seguro.</p>
+
+<p>Ela pode ser dividida entre garantia básica e garantias adicionais.</p>
+
+<p>A garantia básica possui as coberturas contra Danos Materiais e/ou Danos Corporais (pessoais) involuntários, causados a terceiros, que decorram de acidentes, provocados pelo veículo descriminado na apólice, ou pela carga transportada, limitadas ao valor contratado.</p>
+
+<p>As garantias adicionais cobrem, por exemplo: Danos Morais, Carga e Descarga, Contaminação e/ou Poluição, Veículos Rebocadores, Reboques ou Semi-Reboques desatrelados de rebocadores, Extensão de Cobertura para Países da América do Sul, entre outras.</p>
+
+<p>Na maioria dos casos a seguradora indeniza diretamente o terceiro ou o prestador de serviço responsável pela reposição do bem, mas também estão cobertas as despesas com custas judiciais e honorários de advogados, em caso do segurado ser responsabilizado civilmente em sentença judicial transitada em julgado ou em acordo judicial ou extrajudicial.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que é cobertura de APP (Acidentes Pessoais de Passageiros)?</h4>
+							<div class="accordion-content">
+								<p>O objetivo é a indenização por danos decorrentes de acidentes pessoais ocorridos aos passageiros, quando transportados em veículos de uso particular ou público e destinados a este fim.</p>
+
+<p>Considera-se acidente pessoal o evento com data caracterizada, de origem externa, súbito, involuntário e violento, causador de lesão física que, por si só e independente de toda e qualquer outra causa, tenha como consequência direta a morte ou invalidez permanente total ou parcial dos passageiros ou torne necessário o tratamento médico.</p>
+
+<p>Se, no momento do acidente, o número de ocupantes excederem a capacidade oficial do veículo segurado, a garantia não será coberta pelo seguro.</p>
+
+<p>A cobertura de APP para menores de 14 anos de idade compreenderá apenas o reembolso das despesas funerárias.</p>
+
+<p>A garantia básica possui coberturas contra Morte (M) e Invalidez Permanente (IP) e a garantia adicional cobre Despesas Médico-Hospitalares (DMH).</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que cobre os Serviços de Assistência 24hs?</h4>
+							<div class="accordion-content">
+								<p>As seguradoras estão regulamentadas a ofertar serviços de assistência, caracterizados como atividades complementares aos contratos de seguros.</p>
+
+<p>A cobertura de Assistência 24hs garante assistência ao veículo segurado e a seus ocupantes na ocorrência de eventos previstos no contrato do seguro (colisão, incêndio e roubo), assim como o de prestar assistência ao segurado em caso de pane elétrica, pane mecânica, falta de combustível (pane seca), troca de pneus, serviço de chaveiro, dentre outras.!</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que é franquia?</h4>
+							<div class="accordion-content">
+								<p>A franquia é um valor, determinado na apólice, que representa a participação do segurado nos prejuízos resultantes de cada sinistro de perda parcial. O segurado deverá escolher o valor da franquia apropriado ao seu risco, com orientação do corretor. As franquias podem ser básica (ou obrigatória), facultativa e reduzida.</p>
+
+<p>Ao contratar um seguro com franquia, o segurado reduz parte do risco da seguradora, diminuindo, consequentemente, o prêmio do seguro. O valor da franquia é estabelecido de acordo com ano, marca, modelo, características, categoria tarifária do veículo, e varia de seguradora para seguradora.</p>
+
+<p>O segurado está isento do pagamento de franquia nos casos de danos causados por incêndio, queda de raio e/ou explosão, e nos casos de indenização integral do veículo segurado.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que é bônus e como funciona o critério de bonificação?</h4>
+							<div class="accordion-content">
+								<p>Bônus é um desconto expresso em classes e atua como indicador da experiência do segurado. é concedido por ocasião da renovação da sua apólice, em função da experiência do condutor do veículo, geralmente aquele definido no Questionário de Avaliação de Riscos (perfil) e representado pelo histórico de renovações de cada apólice/item. Ele representa a experiência do segurado em função dos sinistros ocorridos e indenizáveis, a cada período de um ano de vigência de seguro. Na renovação da apólice, serão reduzidas tantas classes de bônus quantos forem os sinistros ocorridos naquela vigência.</p>
+
+<p>O bônus é único e, portanto abrange as coberturas de Casco, RCF e APP.</p>
+
+<p>Por ser um direito pessoal e intransferível, nos casos de alteração do segurado ou condutor principal no contrato de seguro, o bônus será excluído. Entretanto, admite-se a transferência de bônus entre segurados quando houver transferência entre cônjuges, entre pais e filhos e entre pessoa jurídica para pessoa física, se comprovado que o novo segurado era condutor do veículo.</p>
+
+<p>Os atendimentos prestados aos segurados por pane elétrica/mecânica e demais atendimentos ligados aos planos de assistência 24hs, assim como os serviços de reparos de vidros, carro reserva e outros serviços que não estejam ligados a sinistros indenizáveis, não serão considerados sinistros e, portanto, não devem ser considerados no cálculo de classe de bônus.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">Como as Seguradoras avaliam o risco e precificam o valor do seguro do meu carro?</h4>
+							<div class="accordion-content">
+								<p>As seguradoras avaliam o risco por meio do "Questionário de Avaliação do Risco", que deve ser respondido pelo segurado com exatidão, pois é parte integrante da proposta de seguro e visa, mediante análise dos riscos, agravar ou conceder descontos nos prêmios dos seguros.</p>
+
+<p>Foi criado por algumas seguradoras para mensurar o risco de acordo com o perfil e hábitos do segurado e/ou condutor. Assim, são obtidos preços mais ajustados aos riscos assumidos.</p>
+
+<p>Todos os dados declarados no questionário poderão ser auditados a qualquer momento pela seguradora, podendo ela negar a indenização, em caso de sinistro, quando constatadas inverdades, omissões ou irregularidades no preenchimento do questionário.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">O que devo fazer em caso de sinistro?</h4>
+							<div class="accordion-content">
+								<p>O primeiro procedimento é contatar a delegacia ou policial mais próximo e pedir que seja feito um Boletim de Ocorrência (BO).</p>
+
+<p>O segundo passo é entrar em contato diretamente com a sua seguradora, para informar a ocorrência, efetuar o aviso de sinistro e juntar a documentação requerida contratualmente pelo seguro do carro.</p>
+
+<p>A indenização integral será paga até 30 dias após a entrega de toda a documentação.</p>
+							</div>
+						</div>
+						
+						<hr class="dotted full line" />
+						
+						<div class="faq">
+							<h4 class="accordion-title">A Seguradora pode recusar a fazer o seguro do meu automóvel?</h4>
+							<div class="accordion-content">
+								<p>Sim. As normas para recusa não estão especificadas, mas podem ser recusadas por motivos como veículos de mais de 10 anos, chassi remarcado, irregularidades junto ao Detran, de pagamentos, entre outros.</p>
+							</div>
+						</div>
+						
+						<p class="alert">É fundamental a participação do CORRETOR DE SEGUROS no assessoramento ao cliente no momento da contratação do Seguro de Automóveis.</p>
+						 
+						
+					</main>
+					
+					<aside class="aside-with-page">
+						<ul class="aside-links">
+							
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		<li><a class="" href="como-funciona-seguro-online">Seguro online</a></li>
+		<li><a class="" href="seguradoras">Seguradoras</a></li>
+		<li><a class="" href="como-acionar-seu-seguro">Acionando seu seguro</a></li>
+		
+		<li><a class="active" href="perguntas-frequentes">FAQ - Perguntas Frequentes</a></li>
+		<li><a class=" last" href="dicionario-de-seguros">Dicionário do “Segurês”</a></li>
+	
+	
+
+						</ul>
+					</aside>
+					
+					<br />
+					
+				</div>
+			</div>
+		</div>
+	
+		</div>
+		
+<footer class="rodape">
+	<div class="links">
+	<div class="container">
+		<div class="row">
+			<ul class="col-md-12 col-sm-12 col-xs-12" role="presentation">
+				<li><a href="politica-de-privacidade" title="Veja a política de privacidade da Smartia">Política de privacidade</a></li>
+				<li class="divider">|</li>
+				<li><a href="termos-de-uso" title="Veja os termos de uso da Smartia">Termos de uso</a></li>
+				<li class="divider">|</li>
+				<li><a href="seguranca" title="Tudo sobre a segurança de seus dados em nosso site">Segurança</a></li>
+				<li class="divider">|</li>
+				<li><a href="cotacao-de-seguro" title="Entenda a cotação de Seguro">Cotação de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="sobre-seguro-auto" title="Saiba mais sobre seguro auto">Seguro Auto</a></li>
+				<li class="divider">|</li>
+				<li><a href="valor-de-seguro" title="Saiba o valor do seu seguro">Valor de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="simulacao-de-seguros" title="Entenda a simulação de seguros">Simulação de Seguros</a></li>
+				<li class="divider">|</li>
+				<li><a href="franquia-de-seguros" title="Saiba mais sobre franquia de seguros">Franquia de Seguros</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row imagens">
+		<div class="siga-nos col-md-4 col-sm-4 col-xs-4">
+			Siga-nos 
+			<ul class="inline">
+				<li><a href="https://www.facebook.com/SmartiaSeguros" target="_blank" alt="Curta nossa página do Facebook"><b class="sprite-dinamico share-facebook ir">Curta nossa página do Facebook</b></a></li> 
+				<li><a href="https://twitter.com/smartiaseguros/" target="_blank" alt="Siga a Smartia no Twitter"><b class="sprite-dinamico share-twitter ir">Siga a Smartia no Twitter</b></a></li>
+				
+				<li><a href="https://www.youtube.com/user/SmartiaSeguros" target="_blank" alt="Assista os vídeos da nossa página do Youtube"><b class="sprite-dinamico share-youtube ir">Assista os vídeos da nossa página do Youtube</b></a></li>
+				<li><a href="https://plus.google.com/+SmartiaBrSeguros" rel="publisher" target="_blank" alt="Não deixe de acessar nossa página do Google Plus"><b class="sprite-dinamico share-google-plus ir">Não deixe de acessar nossa página do Google Plus</b></a></li>
+			</ul>
+		</div>
+		<div class="site-seguro col-md-4 col-sm-4 col-xs-4 logos">
+			<div class="descricao col-md-4 col-sm-4 col-xs-4">
+				Site seguro, cotação segura:
+			</div>
+			<div class="logo col-md-3 col-sm-3 col-xs-3">
+				<a href="javascript:vopenw('Certisign')"><b class="sprite-fixo logo-certisign ir">Site seguro - validado por CertiSign</b></a>
+			</div>
+		</div>
+		
+	</div>
+	<div class="row copyrights">
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<p class="copyright">
+				© Copyright 2017 Smartia. Todos os direitos reservados.
+			</p>
+			<p class="texto-copyright">
+				Smartia ® é de propriedade da Eurodemand do Brasil S.A, registrada sob o CNPJ 17.467.253/0001-72, situada à Av. Brigadeiro Faria Lima 201 - 11º andar | São Paulo, SP 05426-100. Este portal faz parte do grupo de sites de seguros e finanças de nossa empresa. Preencha o nosso formulário para solicitar o seu seguro auto e receber o contato de um de nossos corretores em sua região. Para entrar em contato com nossa equipe utilize nosso formulário de contato.
+			</p>
+		</div>
+	</div>
+</div>
+
+</footer>
+
+		
+<section class="modal fade modal-atendimento" id="modalAtendimento" tabindex="-1" role="dialog" aria-labelledby="modalAtendimentoLabel" aria-hidden="true">
+  <div class="modal-dialog">
+	<div class="modal-content">
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">fechar <span class="glyphicon glyphicon-remove-sign"></span></button>
+	  </div>
+	  <div class="modal-body">
+	  	<div class="inline">
+			<h1 id="modalAtendimentoLabel" class="modal-title"><i class="sprite-adicional sprite-atendente"></i></h1>
+			<p class="subtitulo">Serviço de atendimento ao consumidor</p>
+		</div>
+		<h2>4007-2532</h2>
+		<div class="small">* Somente Regi&otilde;es metropolinas. Demais localidades: (11) 4007-2532</div>
+		<p>Através da nossa central de atendimento você pode comprar um seguro novo, fazer uma renovação ou endosso, tirar dúvidas e acionar seu seguro.</p>
+		<p class="horarios">Atendimento de segunda a sexta das 08:30 às 19:00.</p>
+		
+	  </div>
+	</div>
+  </div>
+</section>
+
+		<script src='resources/styles/v3-common.js' type="text/javascript"></script>
+			<script src='resources/styles/estaticas.js' type="text/javascript" async></script>
+			
+		<!--[if lte IE 8]><script>window.setTimeout("$('html').removeClass('hideall')", 3000);</script><![endif]-->
+		<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.async = true;
+  js.src = "https://connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		
+	<form id="centro_banner_form" method="get" action="https://melhor.smartia.com.br/" style="visibility: hidden" >
+           					 
+<input type="hidden" name="aff_id" value="1189" id="aff_id" class="aff_id" />
+
+				<input type="hidden" name="centro_utm_source" value="" id="centro_utm_source" class="centro_utm_source" />
+				<input type="hidden" name="centro_utm_medium" value="" id="centro_utm_medium" class="centro_utm_medium" />
+				<input type="hidden" name="centro_utm_campaign" value="" id="centro_utm_campaign" class="centro_utm_campaign" />
+				<input type="hidden" name="centro_referrer" value="" id="centro_referrer" class="centro_referrer" />
+				<input type="hidden" name="centro_landing_page_url" value="" id="centro_landing_page_url" class="centro_landing_page_url" />
+				<input type="hidden" name="centro_session_landing_page_url" value="" id="centro_session_landing_page_url" class="centro_session_landing_page_url" />
+
+               	<input type="submit" class="btn btn-primary large button vemm-event-go-to-form" value="Solicitar">
+               
+			</form> 
+		
+	</body>
+</html>

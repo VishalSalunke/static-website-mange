@@ -1,0 +1,1726 @@
+#modal_finalizarmulticalculo {
+	width:850px;
+}
+#modal_finalizarmulticalculo.modal{padding:20px 30px 0!important;}
+#modal_finalizarmulticalculo.modal p{font-size:0.8em;}
+#modal_finalizarmulticalculo .cotacaoPreco, #modal_finalizarmulticalculo .cotacaoPrecoCarregando, #modal_finalizarmulticalculo .cotacaoPrecoOffline{height:auto;margin:0!important;}
+#modal_finalizarmulticalculo .cotacaoPreco, #modal_finalizarmulticalculo .corretor-area .tbl table td, #modal_finalizarmulticalculo .corretor-area .tbl table th{padding:0;}
+#modal_finalizarmulticalculo .cotacaoPreco, #modal_finalizarmulticalculo .cotacaoPreco .valor{height:auto;}
+#modal_finalizarmulticalculo .form{font-size:0.9em;}
+#modal_finalizarmulticalculo .form .result-oportunidade{white-space:nowrap;}
+#modal_finalizarmulticalculo .form textarea{height:100px;}
+#modal_finalizarmulticalculo .grid-2-12{margin-top:90px;}
+#modal_finalizarmulticalculo .grid-3-12{margin-top:32px;}
+#modal_finalizarmulticalculo .corretor-area{padding-bottom:0;}
+
+.botaoIncluirSalesForce a{display:block;width:197px;height:49px;background:url(/static/images/admin/corretor/corretor-sprite.png) no-repeat -184px -204px;margin:0 auto;}
+.botaoIncluirSalesForce a span{visibility:hidden;}
+.botaoIncluirSalesForce a:hover{background-position:-184px -254px;}
+.botaoIncluirSalesForce a:active{background-position:-184px -304px;}
+
+#placaChassiContainer{width:355px; z-index: 2;}
+
+
+#bg_Modal{position: fixed!important; top: 0px; left: 0px; background-color: white; z-index: 1; opacity: 0.5; display: none; width: 100%; height: 100%;}
+body.stateBgModal #bg_Modal {display:block;}
+
+
+#comprePeloTelefone{width:660px;padding:35px!important;z-index: 2;margin:100px 0 0 0;}
+#comprePeloTelefone .conteudo-modal{background:#fff url(/static/images/layout/mulher-modal.png) no-repeat 442px 123px;border:1px solid #cfcfcf;}
+#comprePeloTelefone .conteudo-modal h3{background:#EDA512 url(/static/images/layout/global-sprite-2.png) no-repeat -657px -3px;display:block;border:1px solid #fff;height:43px;color:#fff;font-size:2.4em;letter-spacing:-1px;padding:12px 0 0 45px;}
+#comprePeloTelefone p{margin:0;padding:0;color:#6b6b6b;font-size:1.2em;line-height:20px;}
+#comprePeloTelefone p.cod-operadora, #atendimento p.cod-operadora{color:#404040;margin:10px 0;font-size:1.1em;line-height:15px;}
+#comprePeloTelefone .conteudo-modal .numeros-telefones{padding:20px 15px 0 15px;}
+#comprePeloTelefone .conteudo-modal .numeros-telefones ul{margin:0;}
+#comprePeloTelefone .conteudo-modal .numeros-telefones ul li{display:block;margin:15px 0 30px 0;}
+#comprePeloTelefone .conteudo-modal .numeros-telefones ul li p{font-size:1.6em;font-weight:bold;}
+#comprePeloTelefone .conteudo-modal .numeros-telefones ul li p span{font-size:2.2em;color:#404040;display:block;padding-top:12px;}
+#comprePeloTelefone .conteudo-modal .numeros-telefones p.atendimento{width:333px;}
+#comprePeloTelefone .conteudo-modal .numeros-telefones p.tarifas{font-size:1.1em;margin:20px 0 10px 0;line-height:15px;width:417px;display:block;}
+#atendimento p.tarifas{font-size:1.1em;margin:0;line-height:15px;display:block;}
+
+#atendimento{width:660px;padding:35px!important;z-index: 2;position:relative;}
+#atendimento .conteudo-modal{background-color:#fff;border:1px solid #cfcfcf;}
+#atendimento .conteudo-modal h3{background:#EDA512 url(/static/images/layout/global-sprite-2.png) no-repeat 5px -5px;display:block;border:1px solid #fff;height:43px;color:#fff;font-size:2.4em;letter-spacing:-1px;padding:12px 0 0 54px;}
+#atendimento p{margin:0 0 15px 0;padding:0;color:#6b6b6b;font-size:1.2em;line-height:20px;}
+#atendimento .conteudo-modal .numeros-telefones{padding:20px 15px;}
+#atendimento .conteudo-modal .numeros-telefones p.mensagem{margin-top:50px;}
+#atendimento .conteudo-modal .numeros-telefones ul{margin:0;}
+#atendimento .conteudo-modal .numeros-telefones ul li{display:block;margin:15px 0 30px 0;}
+#atendimento .conteudo-modal .numeros-telefones ul li p{font-size:1.6em;font-weight:bold;}
+#atendimento .conteudo-modal .numeros-telefones ul li p span{font-size:2.2em;color:#404040;display:block;padding-top:12px;}
+
+#loginCadastro{width:766px;padding:35px!important;z-index: 2;position:relative;}
+#loginCadastro .conteudo-modal{background-color:#fff;border:1px solid #cfcfcf;}
+#loginCadastro .conteudo-modal h3{background:#EDA512;display:block;border:1px solid #fff;height:43px;color:#fff;font-size:2.4em;letter-spacing:-1px;padding:12px 0 0 20px;}
+#loginCadastro .conteudo-modal .login{width:340px;border-right:1px solid #cbcbcb;float:left;padding:0 0 0 0;}
+#loginCadastro .conteudo-modal .login h4{font-size:1.7em;color:#666;}
+#loginCadastro .conteudo-modal .login label{}
+
+#loginCadastro .conteudo-modal .cadastro{float:right;}
+#loginCadastro .conteudo-modal .cadastro h4{font-size:1.7em;color:#666;}
+
+
+
+.email_login{background:url(/static/images/login/icon_login.png) no-repeat 10px center transparent;}
+.senha_login{background:url(/static/images/login/icon_senha.png) no-repeat 10px center transparent;}
+
+@charset "utf-8";
+
+
+
+html, body{height:100%;margin:0;padding:0;}
+body{margin:0;padding:0;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;;font-size:62.5%;background:#f4f4ee url(/static/images/layout/bg_body.jpg);}
+ul, ol{list-style:none;margin:0;padding:0;}
+img{border:0;}
+h1, h2, h3, h4, p{margin:0;}
+a{color:inherit;cursor:pointer;text-decoration:none;}
+div:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.left{float:left;}
+.right{float:right;}
+.clear, .limpar{clear:both;}
+.last{margin-right:0!important;}
+.center{text-align:center;}
+a::-moz-focus-inner{border:0;}
+input:focus, textarea:focus, select:focus, a:focus{outline:1;outline-style:dotted;outline-color:gray;outline-width:1px;}
+
+
+.container{margin:0 auto;width:950px;padding:0 25px;position:relative;}
+.header{height:110px;background:#eeecec url(/static/images/layout/bg_header.png) repeat-x;margin-bottom:50px;}
+.content .container{margin-bottom:60px;}
+.content .footer .container{margin-bottom:0;}
+
+
+h1 a{display:block;width:200px;background:transparent url(/static/images/layout/global-sprite-1.png) no-repeat -12px -12px;height:63px;margin-top:16px;}
+h1 a span{visibility:hidden;}
+h1{float:left;margin-top:4px;}
+h4{letter-spacing:-1px;font-weight:normal; margin-bottom:10px; color:#57931B;}
+
+.cufon{display:none;}
+
+
+@font-face{font-family:'alwyn-new-web-n1';src:url('/static/fonts/alwyn_new_th_regular.eot');src:url('/static/fonts/alwyn_new_th_regular.ttf') format('truetype'),
+    url('/static/alwyn_new_th_regular.svg#font') format('svg');}@font-face{font-family:'alwyn-new-web-n3';src:url('/static/fonts/alwyn_new_lt_regular.eot');src:url('/static/fonts/alwyn_new_lt_regular.ttf') format('truetype'),
+    url('/static/alwyn_new_lt_regular.svg#font') format('svg');}@font-face{font-family:'alwyn-new-web-n4';src:url('/static/fonts/alwyn_new_rg_regular.eot');src:url('/static/fonts/alwyn_new_rg_regular.ttf') format('truetype'),
+    url('/static/alwyn_new_rg_regular.svg#font') format('svg');}@font-face{font-family:'alwyn-new-web-n5';src:url('/static/fonts/alwyn_new_lt_bold.eot');src:url('/static/fonts/alwyn_new_lt_bold.ttf') format('truetype'),
+    url('/static/alwyn_new_lt_bold.svg#font') format('svg');}@font-face{font-family:'alwyn-new-web-n7';src:url('/static/fonts/alwyn_new_rg_bold.eot');src:url('/static/fonts/alwyn_new_rg_bold.ttf') format('truetype'),
+    url('/static/alwyn_new_rg_bold.svg#font') format('svg');}
+
+#SnapABug_Button {display: none;}
+
+
+.header .container{position:relative;}
+.revision_number{position:absolute;right:30px;top:10px;font-size:1.3em;color:#6E757C;font-weight:bold;color:#BBB;display:none;}
+
+
+.tools{background:#414545 url(/static/images/layout/global-sprite-1.png) repeat-x 0 -374px;height:44px;border-bottom:1px solid #fff;}
+.tools ul{float:left;list-style:none;font-size:1.2em;}
+.tools ul li{float:left;margin:13px 0px 6px 0px;}
+.tools ul li span{margin-right:-10px;}
+.tools ul li a{background:transparent url(/static/images/layout/global-sprite-1.png) no-repeat;padding:0 10px;cursor:pointer;height:20px;color:#d9d9d9;display:block;}
+.tools ul li a.atendimento{background-position: -365px -452px;padding:0 60px 6px 27px;}
+.tools ul li a:hover.atendimento{background-position:-365px -490px;}
+.tools ul li a.compre-pelo-telefone{background-position: -18px -453px;padding:0 0 6px 18px;}
+.tools ul li a:hover.compre-pelo-telefone{background-position:-18px -487px;}
+.tools ul li a:hover{color:#fff;text-decoration:underline;}
+.tools ul.modais-atendimento{float:right;}
+
+.tools ul.modais-login-cadastro{color:#D9D9D9;}
+.tools ul.modais-login-cadastro li a{display:inline;}
+
+
+ul.nav{margin:65px 0 0 25px;float:right;position:relative;}
+ul.nav li{float:left;font-size:1.7em;padding:0 4px;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;}
+ul.nav li a{color:#404545;font-weight:normal;padding:8px;display:block;}
+ul.nav li:hover{color:#5a6c7c;background:#e5e5e4;}
+ul.nav li.last{border-right:none;padding-right:0;}
+ul.nav li.chat-online-container{display:none;}
+ul.nav li a.chat-icon{padding-left:20px;background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -10px -82px;}
+body.stateChatOnline ul.nav li.chat-online-container{display:block;}
+
+ 
+div.logo-smartia-sem-header {float: left;margin-top: 4px;}
+div.logo-smartia-sem-header a {display: block;width: 267px;background: transparent url(/static/images/layout/global-sprite-1.png) no-repeat -12px -10px;height: 72px;margin-top: 16px;}
+
+
+.chamada{margin-bottom:20px;}
+.chamada h2{color:#39434d;font-size:5.0em;letter-spacing:-4.0px;font-weight:bold;display:block;width:469px;margin:70px 0 30px 0;}
+.chamada p{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#2c3945;font-size:1.6em;display:block;margin-bottom:30px;line-height:1.55em;}
+.chamada p span{font-weight:bold;}
+.chamada .chamada-1{float:left;width:429px;}
+.chamada .chamada-1 .btn_simular{float:left;}
+.chamada .chamada-1 .btn_simular a{display:block;width:380px;height:83px;background:url(/static/images/layout/global-sprite-1.png) no-repeat -10px -96px;margin:0 auto;margin-bottom:30px;}
+.chamada .chamada-1 .btn_simular a:hover{background-position:-10px -184px;}
+.chamada .chamada-1 .btn_simular a:active{background-position:-10px -273px;}
+.chamada .chamada-1 .btn_simular a span{visibility:hidden;}
+
+.chamada .chamada-2{float:right;width:520px;}
+
+.chamada .chamada-2 .video{width:615px;height:450px;background:transparent url(/static/images/layout/img-lupa.png) no-repeat -40px 0;}
+.chamada .chamada-2 .video .content{text-align:center;}
+.chamada .chamada-2 .video .content a.img_lupa{display:block;height:308px; width:484px;}
+.chamada .chamada-2 .video .content object{border:1px solid #fff;}
+
+.chamada .chamada-2 .video .content ol.passos{margin:30px 0px 0 28px;width:490px;}
+.chamada .chamada-2 .video .content ol.passos li{width:135px;color:#474747;font-size:1.2em;line-height:1.4em;float:left;margin:0 15px;text-align:left;}
+.chamada .chamada-2 .video .content ol.passos li.last{margin-right:25px;}
+.chamada .chamada-2 .video .content ol.passos li p{width:auto;font-size:1em;}
+.chamada .chamada-2 .video .content ol.passos h3{color:#c9c7c7;font-size:2em;letter-spacing:-1px;margin-bottom:5px;padding-left:35px;height:27px;padding-top:4px;}
+.chamada .chamada-2 .video .content ol.passos .preencha h3{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -11px -127px;}
+.chamada .chamada-2 .video .content ol.passos .compare h3{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -11px -174px;}
+.chamada .chamada-2 .video .content ol.passos .escolha h3{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -11px -221px;}
+.chamada .chamada-2 .video .content ol.passos .preencha h3 span{color:#b1d568;}
+.chamada .chamada-2 .video .content ol.passos .compare h3 span{color:#80be2b;}
+.chamada .chamada-2 .video .content ol.passos .escolha h3 span{color:#529916;}
+.interna{margin-top:13px;padding:0 16px;width:963px;}
+
+.depoimentos{text-align:center;margin:45px auto;clear:both;background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -10px -568px;width:953px;height:88px;padding:0;text-align:left;position:relative;}
+.depoimento-random{}
+.depoimento-random p{color:#666;font-size:1.5em;line-height:1.2em;padding:20px 0 0px 49px;}
+.depoimento-random p span{width:880px;height:39px;display:block;overflow:hidden;}
+.depoimento-random .author{color:#929292;font-size:1.1em;text-align:right;display:block;padding:5px 15px 0 0;}
+.depoimentos a.mais{color:#af8902;font-size:1.2em;position:absolute;right:0px;bottom:-25px;}
+.depoimentos a.mais:hover{text-decoration:underline;}
+.depoimentos h3{color:#c9c7c7;font-size:3.1em;letter-spacing:-2.5px;margin-bottom:9px;}
+.depoimentos h3 span{font-size:0.85em;color:#a1c753;}
+
+
+.diferenciais-smartia{height:330px;margin:15px 0 30px 0;}
+.diferenciais-smartia h4{color:#656565;font-size:1.6em;margin-bottom:25px;}
+.diferenciais-smartia ul{margin-left:11px;}
+.diferenciais-smartia ul li{width:313px;float:left;display:block;}
+.diferenciais-smartia ul li a.bg-imagem div.gratis{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -161px -1041px;padding:0;height:113px;width:113px;float:left;position:relative;top:-6px;left:-6px;}
+.diferenciais-smartia ul li a.bg-imagem div.desconto{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -18px -1040px;padding:0;height:113px;width:113px;float:left;position:relative;top:-6px;left:-6px;}
+.diferenciais-smartia ul li a.bg-imagem{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -597px -191px;width:286px;height:171px;display:block;}
+.diferenciais-smartia ul li a.bg-imagem img{margin:-112px 0 0 1px;width:284px;height:169px;}
+.diferenciais-smartia ul li a.texto-imagem{padding-right:45px;display:block;}
+.diferenciais-smartia ul li a.texto-imagem h3{font-weight:bold;font-size:1.8em;color:#444;text-shadow:0.05em 0.05em #fff;margin:10px 0;letter-spacing:-0.1em;}
+.diferenciais-smartia ul li a.texto-imagem p{font-size:1.3em;color:#444;text-shadow:0.05em 0.05em #fff;}
+.diferenciais-smartia ul li a:hover.texto-imagem{text-decoration:underline;}
+
+
+
+.box_seguradoras{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -10px -693px;height:115px;width:953px;margin-bottom:50px;}
+.box_seguradoras h4{color:#656565;font-size:1.6em;width:166px;text-align:center;padding:1px 0 0 26px;}
+.box_seguradoras a{display:block;width:952px;height:85px;}
+.box_seguradoras .relacao-seguradoras{margin:0 auto;width:940px;}
+.box_seguradoras .relacao-seguradoras li{float:left;margin:14px 39px 0 39px;}
+.box_seguradoras .relacao-seguradoras li img{width:75px;}
+.box_seguradoras .relacao-seguradoras li.logos-horizontais img{width:85px;}
+
+
+
+.container .content-social .seguir_twitter, .container .content-social .curtir_facebook, .container .content-social .google_rede{float:right;}
+.container .content-social{width:370px;float:right;}
+.container .content-social .seguir_twitter{width:150px;}
+.container .content-social .seguir_twitter span{float:left;}
+.container .content-social .seguir_twitter .button-twitt{width:60px;}
+.container .content-social .seguir_twitter .button-follow{width:245px;}
+.container .content-social .google_rede{width:70px;margin-right:0px;}
+
+
+.footer{background:#414545 url(/static/images/layout/bg_footer.png) top repeat-x;}
+.footer .container{padding-top:30px;}
+
+
+.footer-social{float:left;width:367px;margin-left:25px;}
+.footer-social ul li a{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat;display:block;color:#dadada;font-size:1.2em;margin-bottom:13px;padding-left:50px;cursor:pointer;height:36px;text-shadow:0.05em 0.05em #000;}
+.footer-social ul li a:hover{color:#fbf0cf;text-decoration:underline;}
+.footer-social ul li a strong{color:#fbf0cf;}
+.footer-social ul li a:hover strong{color:#e7cd7e;}
+.footer-social ul li.social-blog a{background-position:-11px -847px;}
+.footer-social ul li.social-twitter a{background-position:-11px -911px;}
+.footer-social ul li.social-facebook a{background-position:-12px -976px;}
+.footer-social ul li.social-googleplus a{background-position:-11px -1041px; margin-bottom: 38px;}
+
+
+.menu-footer{float:left;width:510px;}
+.menu-footer ul{float:right;}
+.menu-footer ul.menu-central{margin:0 55px;}
+.menu-footer ul li{margin:3px 0 5px 0;}
+.menu-footer ul li a{color:#fbf0cf;font-size:1.2em;text-shadow:0.05em 0.05em #000;}
+.menu-footer ul li a:hover{color:#e7cd7e;text-decoration:underline;}
+
+.divisao-vertical{float:left; background:transparent url(/static/images/layout/divisao-vert.png) repeat-y;height:180px;width:2px;margin:0 19px 0 24px;}
+
+
+.footer-selos-entidades{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -6px -296px;float:left;width:510px;height:72px;margin-top:50px;}
+.footer-selos-entidades ul{margin:9px 0 0 62px;}
+.footer-selos-entidades ul li a{display:block;float:left;height:50px;}
+.footer-selos-entidades ul li.entidade-quemtemcorretor a{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -13px -397px;width:63px;margin:0 0 0 0;}
+.footer-selos-entidades ul li.entidade-fenacor a{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat  -174px -406px;width:98px;margin:8px 80px 0 80px;}
+.footer-selos-entidades ul li.entidade-sincor a{background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat -369px -407px;width:71px;margin-top:8px;} 
+
+
+.footer-disclaimer{padding-bottom:10px;clear:both;}
+.footer-disclaimer .footer-copyright-disclaimer{float:left;display:block;color:#777776;font-size:1em;line-height:1.4em;margin:5px 0 0px;width:772px;}
+.footer-disclaimer .footer-copyright-disclaimer .copyright{color:#dadada;padding-bottom:20px;}
+.divisao{background:transparent url(/static/images/layout/footer-divisao.png) repeat-x;border:none;height:5px;clear:both;width:100%;margin:10px 0 20px;float:left;}
+
+
+.footer-selos-seguranca{float:right;padding:0px;}
+.footer-selos-seguranca a{display:block;background:transparent url(/static/images/layout/global-sprite-2.png) no-repeat;margin:18px 11px 10px 0;}
+.footer-selos-seguranca a.certisign{background-position:-9px -480px;height:45px;width:93px;}
+.footer-selos-seguranca a.verisign{background-position:-156px -485px;height:42px;width:80px;}
+
+
+.tela_interna{width:622px;background:#FFF;border:1px solid #dddad7;padding:20px 18px 25px;float:left;}
+.tela_interna h2{font-size:2.6em;color:#575757;margin-bottom:20px;margin-left:-3px;}
+.tela_interna h1{font-size:2.3em;color:#575757;margin-bottom:20px;margin-left:-3px;float: none;margin-top: 0;}
+.full{width:912px;}
+.coluna_direita{float:left;margin-left:30px; width:199px;}
+
+.tela_interna h3{font-size:1.5em;color:#57931b;letter-spacing:-0.35px;margin-bottom:15px;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;}
+.tela_interna p, .tela_interna li{color:#71706c;font-size:1.3em;margin-bottom:20px;}
+.tela_interna p{line-height:1.5em;}
+.tela_interna ul{margin-bottom:20px;}
+.tela_interna li{margin-bottom:5px;}
+
+.box_interno{width:269px;padding-top:12px;margin-bottom:20px;}
+.box_interno p{color:#71706c;font-size:1.2em;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;margin-bottom:10px;line-height:1.5em;}
+.btn_simular3 a{display:block;width:250px;height:58px;background:url(/static/images/layout/estaticas/estaticas-sprite.png) no-repeat -33px -919px;cursor:pointer;}
+.btn_simular3 a span{visibility:hidden;}
+.btn_simular3 a:hover{background-position:-33px -997px;}
+.btn_simular3 a:active{background-position:-33px -1075px;}
+
+
+.menu_lista h4{font-weight:bold;color:#7c9b62;font-size:1.9em;display:block;width:100%;border-bottom:1px dashed #b9b9b4;margin-bottom:8px;margin-top:12px;height:24px;}
+.menu_lista li{margin-top:0px; border-top:1px solid #e9e2e5; border-bottom:1px solid #fbfbfb; width:250px; display:block;}
+.menu_lista li.sem-borda-topo{border-top:none;}
+.menu_lista li.sem-borda-rodape{border-bottom:none;}
+.menu_lista a{color:#7c9b62;font-size:1.4em; padding:8px 32px 8px 8px; width:211px; display:block;}
+.menu_lista a:hover{color:#61794d; background: #eaeaea;}
+.coluna_direita .box_interno h4{color:#71706c; font-size:2.3em; margin-bottom:10px; width:205px;}
+
+
+.releases .release-txt{width:590px;background:#FFF;border:1px solid #dddad7;padding:20px 18px 5px;float:left;}
+.releases h2{color:#57931b;font-weight:bold;font-size:1.8em;}
+.releases .release-txt h4{color:#71706c;font-size:1.3em;margin-bottom:20px;}
+.releases .release-txt p{color:#71706c;font-size:1.2em;margin-bottom:20px;line-height:1.5em;}
+.releases .release-lista, .sala-de-imprensa .assessoria{float:left;margin:10px 0 0 20px;width:290px;}
+.releases .release-lista li{margin-bottom:10px;padding:5px 0;}
+.releases .release-lista li a{color:#71706c;font-size:1.2em;}
+.releases .release-lista li a.selected{color:#57931b;font-weight:bold;}
+.releases .release-lista li a:hover{color:#57931b;}
+
+.sala-de-imprensa ol{margin:0 0 20px 20px;}
+.sala-de-imprensa ol li.item{list-style-type:decimal;}
+.sala-de-imprensa ol li{color:#71706c;font-size:1.2em;line-height:1.5em;}
+.sala-de-imprensa ol li.title{margin-left:-20px;font-weight:bold;margin-bottom:10px;}
+
+.sala-de-imprensa h3{font-size:1.6em;color:#575757;margin-bottom:10px;}
+.sala-de-imprensa .mais{margin-top:40px;float:left;width:950px;}
+.sala-de-imprensa .mais p, .sala-de-imprensa .assessoria p{color:#71706c;font-size:1.2em;line-height:1.5em;}
+.sala-de-imprensa .clipping{float:left;margin-right:20px;width:950px;}
+.sala-de-imprensa .clipping ul{font-size:1.2em;color:#71706C;}
+.sala-de-imprensa .clipping li{line-height:24px;}
+.sala-de-imprensa .clipping li .data{width:80px;display:block;float:left;}
+.sala-de-imprensa .clipping li a{color:#AC8202;margin-right:5px;}
+.sala-de-imprensa .clipping li a:hover{text-decoration:underline;}
+
+
+.sala-de-imprensa .assessoria{margin-top:25px;}
+.releases .release-lista, .sala-de-imprensa .mais .assessoria{display:none;}
+
+
+
+.tela-interna-full h2{color:#39434D;font-size:3.8em;text-shadow:#fff 0 2px;text-align:left;margin-bottom:40px;}
+.tela-interna-full h1{color:#39434D;font-size:3.8em;text-shadow:#fff 0 2px;text-align:left;margin-bottom:40px;}
+.todos-depoimentos{display:block;margin:8px;float:left;}
+.todos-depoimentos .depoimento{float:left;position:relative;background:transparent url(/static/images/layout/estaticas/estaticas-sprite.png) no-repeat -26px -464px;border:1px solid #eae7e3;margin:0 4px 8px 4px;cursor:pointer;width:280px;overflow:hidden;padding:20px 10px 20px 10px;}
+.todos-depoimentos .depoimento:hover{background-position:-332px -464px;}
+.todos-depoimentos .depoimento div{background:transparent url(/static/images/layout/ico_quote_01.png) left top  no-repeat;height:100px;}
+.todos-depoimentos .depoimento .complete{display:none;}
+.todos-depoimentos .depoimento p{padding:5px 5px 20px 30px;font-size:1.3em;line-height:1.4em;}
+.todos-depoimentos .depoimento span{font-weight:bold;color:#89969a;margin:-10px 0 0 30px;font-size:1em;display:block;}
+.todos-depoimentos .depoimento p span{font-weight:normal;color:#2c3945;margin-left:0;font-size:1em;}
+.todos-depoimentos .depoimento a{position:absolute;top:10px;right:0;font-size:2.4em;z-index:999;font-weight:bold;display:none;width:20px;height:20px;background:transparent url(/static/images/layout/estaticas/estaticas-sprite.png) no-repeat -220px -55px;display:block;text-indent:-9999px;overflow:hidden;display:none;}
+.todos-depoimentos .depoimento-open{width:592px;background:none;border:none;cursor:default;float:left;display:inline-block;margin-bottom:0;height:110px;}
+.todos-depoimentos .depoimento-open:hover{background:none;}
+.todos-depoimentos .depoimento-open span{color:#347647;font-size:1em;line-height:1.4em;text-shadow:#fff 0 2px;padding:0 5px 0 0;}
+.todos-depoimentos .depoimento-open p span{color:#347647;font-size:1.1em;line-height:1.4em;text-shadow:#fff 0 2px;}
+.todos-depoimentos .depoimento.depoimento-open.maior{height:260px!important;}
+.todos-depoimentos .faca-o-seu{background:none;border:none;padding-top:10px;cursor:default;}
+.todos-depoimentos .faca-o-seu:hover{background:none;}
+.todos-depoimentos .faca-o-seu div{background:none;cursor:default;}
+.todos-depoimentos .faca-o-seu h3{color:#ac8202;font-size:2em;font-weight:normal;margin-top:10px;}
+.todos-depoimentos .faca-o-seu p{background:none;color:#575757;padding-left:0;font-size:1.3em;line-height:1.5em;}
+.todos-depoimentos .faca-o-seu a{position:relative;color:#AC8202;display:inline;background:none;font-size:1em;overflow:visible;text-indent:0;width:auto;height:auto;top:0;}
+.todos-depoimentos .faca-o-seu a:hover{text-decoration:underline;}
+.btn_satisfeito a{background:url("/static/images/layout/estaticas/estaticas-sprite.png") no-repeat -24px -277px;display:block;height:51px;margin:30px auto;width:569px;}
+.btn_satisfeito a span{visibility:hidden;}
+.btn_satisfeito a:hover{background-position:-24px -331px;}
+.btn_satisfeito a:active{background-position:-24px -385px;}
+
+
+.outros-seguros h2{font-size:3.2em;text-align:left;margin-bottom:30px;}
+.outros-seguros .seguros-online .seguro{float:left;margin:0 28px 80px;position:relative;}
+.outros-seguros .seguros-online .seguro .internal{display:block;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;background:transparent url(/static/images/layout/estaticas/estaticas-sprite.png) no-repeat -30px -644px;width:134px;height:115px;border:4px solid #d5dcdf;}
+.outros-seguros .seguros-online .seguro.first{margin-left:0;}
+.outros-seguros .seguros-online .seguro.last{margin-right:0;}
+.outros-seguros .seguros-online .seguro h4{color:#2c3945;text-align:center;margin:5px;}
+.outros-seguros .seguros-online .seguro .internal img{width:100px;height:100px;padding:7px 17px;}
+.outros-seguros .seguros-online .seguro.offline .internal, .seguros-online .seguro.offline h4{opacity:0.4;filter:alpha(opacity='40')!important;}
+.outros-seguros .seguros-online .seguro.online .embreve{display:none;}
+.outros-seguros .seguros-online .seguro.offline .embreve{display:block;}
+.outros-seguros .seguros-online .seguro .embreve{width:159px;height:40px;border-radius:0px;-webkit-border-radius:0px;-moz-border-radius:0px;background:transparent url(/static/images/layout/estaticas/estaticas-sprite.png) no-repeat -31px -43px;position:absolute;top:45px;left:-8px;border:none;z-index:999;}
+.outros-seguros .outros-seguros-form{display:none;width:750px;margin:0 auto 100px;}
+.outros-seguros .outros-seguros-form p{font-size:1.3em;color:#2c3945;text-shadow:0.05em 0.05em #fff;line-height:1.6em;margin-bottom:5px;}
+.outros-seguros .outros-seguros-form .form-txt{width:584px!important;float:left;margin-right:0!important;height:48px;font-size:2em;}
+.outros-seguros .btn_enviarform{width:143px;float:right;}
+.outros-seguros .btn_enviarform a{display:block;width:143px;height:48px;background:url(/static/images/layout/estaticas/estaticas-sprite.png) no-repeat -34px -115px;float:right;}
+.outros-seguros .btn_enviarform a span{visibility:hidden;}
+.outros-seguros .btn_enviarform a:hover{background-position:-34px -165px;}
+.outros-seguros .btn_enviarform a:active{background-position:-34px -215px;}
+.outros-seguros .seguros-corretora{background:#e3e3e3;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;border:4px solid #e9e9e9;clear:both;}
+.outros-seguros .seguros-corretora p{font-size:1.3em;color:#2c3945;padding:0 20px;margin:13px 0;text-align:center;}
+.outros-seguros .seguros-corretora p span{color:#d99b22;font-weight:bold;}
+.outros-seguros .seguros-corretora a{color:#AC8202;}
+.outros-seguros .seguros-corretora a:hover{color:#CA3C2F;text-decoration:underline;}
+
+
+.box_sucesso_faleconosco, .box_erro_faleconosco{background:#DFF2BF;font-size:1.4em;text-align:center;color:#4F8A10;padding:10px;border:1px solid #4F8A10;display:none; margin-bottom:15px;}
+.carrengando_faleconosco{background-image:url(/static/images/loading_autocomplete.gif);height:24px;width:24px;margin-left:10px;display:none;}
+.box_erro_faleconosco{background:#FF8899;color:#FF0000;border:1px solid #FF0000;}
+#max_mensagem{float:right;font-weight:normal;font-size:1.2em;}
+.btn_enviar{float:right;}
+.btn_enviar a{display:block;width:89px;height:36px;background:url(/static/images/layout/estaticas/estaticas-sprite.png) no-repeat -432px -116px;margin:0 auto;}
+.btn_enviar a span{visibility:hidden;}
+.btn_enviar a:hover{background-position:-432px -162px;}
+.btn_enviar a:active{background-position:-432px -208px;}
+
+
+.btn_Recalcular a{background-position: -553px -116px!important;width:120px!important;margin-top:13px;}
+.btn_Recalcular a:hover{background-position: -553px -162px !important;}
+.btn_Recalcular a:active{background-position: -553px -208px!important;}
+
+
+
+.como-funciona img{margin-top:20px;}
+.como-funciona .text-except{margin-top:20px;margin-bottom:-10px;}
+.como-funciona .cm01, .como-funciona .cm02, .como-funciona .cm03, .como-funciona .cm04{padding:8px 8px 0 50px;margin-bottom:10px;}
+.como-funciona .cm01 h4, .como-funciona .cm02 h4, .como-funciona .cm03 h4, .como-funciona .cm04 h4{color:#57931b;font-size:1.8em;}
+.como-funciona .cm02, .como-funciona .cm03, .como-funciona .cm04{margin-top:30px;}
+.como-funciona .cm01{background:#edf9e5 url(/static/images/layout/estaticas/como-funciona/cm_01.jpg) left top no-repeat;}
+.como-funciona .cm02{background:#edf9e5 url(/static/images/layout/estaticas/como-funciona/cm_02.jpg) left top no-repeat;}
+.como-funciona .cm03{background:#edf9e5 url(/static/images/layout/estaticas/como-funciona/cm_03.jpg) left top no-repeat;}
+.como-funciona .cm04{background:#edf9e5 url(/static/images/layout/estaticas/como-funciona/cm_04.jpg) left top no-repeat;}
+
+
+
+.faq h3{cursor:pointer;border-bottom:1px dashed #E8E8E8;padding-bottom:10px;}
+.faq div{display:none;}
+
+
+.termosdeuso ol li{margin-bottom:15px;}
+.termosdeuso ol li ul li{margin:15px 0 0 40px;font-size:1em;}
+.termosdeuso ol li ul{list-style-type:upper-alpha;}
+.termosdeuso strong{color:#575757;}
+.termosdeuso a{color:#ac8202;text-decoration:underline;font-size:1em;}
+.termosdeuso a:hover{color:#CA3C2F;}
+
+
+.sinistro img.tooltip-workshop{margin-top:0px; margin-bottom:-3px; margin-left:2px;}
+.sinistro ol{}
+.sinistro img{margin:20px 0 20px 0;}
+.sinistro img.last{margin-bottom:0px;}
+.sinistro .text-except-sinistro{ margin-bottom:0px;}
+.tela_interna .sinistro li {margin-top:10px;}
+.sinistro p.text-car-workshop{margin-top:0px;margin-bottom:0px; font-size:1em;}
+.sinistro .cm01, .sinistro .cm02, .sinistro .cm03, .sinistro .cm04{padding:8px 8px 0 50px; margin-top:0px;}
+.sinistro .cm01 h4, .sinistro .cm02 h4, .sinistro .cm03 h4, .sinistro .cm04 h4{color:#57931b;font-size:1.8em;}
+.sinistro .cm02{margin-top:20px;}
+.sinistro .cm01{background:#edf9e5 url(/static/images/layout/estaticas/como-funciona/cm_01.jpg) left top no-repeat;}
+.sinistro .cm02{background:#edf9e5 url(/static/images/layout/estaticas/como-funciona/cm_02.jpg) left top no-repeat;}
+.sinistro .cm03{background:#edf9e5 url(/static/images/layout/estaticas/como-funciona/cm_03.jpg) left top no-repeat;}
+.sinistro .cm04{background:#edf9e5 url(/static/images/layout/estaticas/sinistro/cm_04.jpg) left top no-repeat;}
+ul.list-tooltip{padding:10px;}
+.bold {font-weight:bold;}
+.coluna_direita.tela-sinistro{width:255px; margin-left:17px;}
+.coluna_direita.tela-sinistro h4.seguradoras{font-size:2.4em; color:#71706c; margin:21px 0 22px 0;}
+.coluna_direita.tela-sinistro .seguradora {width:253px;}
+.coluna_direita.tela-sinistro .seguradora a {border-right:1px solid #e9e2e5; display:block; width:94px; float:left;}
+.coluna_direita.tela-sinistro .seguradora.primeira {padding-bottom:10px; border-bottom:1px solid #e9e2e5;}
+.coluna_direita.tela-sinistro .seguradora.geral {padding:10px 0 10px 0; border-top:1px solid #fff;  border-bottom:1px solid #e9e2e5;}
+.coluna_direita.tela-sinistro .seguradora.ultima {padding-top:10px; border-top:1px solid #fff;}
+.coluna_direita.tela-sinistro .seguradora .info-seguradora {float:left; border-left:1px solid #fff; padding-left:10px; height:105px;}
+.coluna_direita.tela-sinistro .seguradora .info-seguradora .tel-sinistro, .coluna_direita .seguradora .info-seguradora .tel-assistencia {color:#71706C; font-size:1.2em;} 
+.coluna_direita.tela-sinistro .seguradora .info-seguradora p{color:#71706c; font-size:1.2em; font-weight:bold;}
+.coluna_direita.tela-sinistro .seguradora .info-seguradora .tel-assistencia{margin-top:5px; display:block;}
+.coluna_direita.tela-sinistro .seguradora .info-seguradora .tel-sinistro{margin-top:7px; display:block;}
+.coluna_direita.tela-sinistro .seguradora .info-seguradora a {color: #AF8902; margin-top:13px;}
+.coluna_direita.tela-sinistro .seguradora .info-seguradora a:hover{ text-decoration:underline; }
+
+
+.acesso-avante {padding-bottom: 250px;}
+.acesso-avante div.logo-avante{float: left;}
+.acesso-avante div.botao-avante{float: left; width: 300px; height: 57px; margin: 14px 0 0 30px;}
+.acesso-avante div.botao-avante a{width: 300px; height: 57px; background: url(/static/images/layout/estaticas/btn_avante.png) no-repeat 0px 0px; display: block; text-indent: -9999px;}
+.acesso-avante div.botao-avante a:hover{background: url(/static/images/layout/estaticas/btn_avante.png) no-repeat 0px -65px;}
+
+
+
+.form_header h2{float:left;font-size:2.6em;color:#575757; display: none;}
+
+.form_padrao{width:650px;float:left;}
+.form_padrao h2{float:left;font-size:2.6em;color:#575757;}
+.form_padrao form{clear:both;}
+.form_padrao legend{display:none;}
+.form_padrao .form_group{background:#fff;border:1px solid #dddad7;padding:20px 18px 25px;margin-bottom:6px;border-top:4px solid #E5E5E5;}
+.form_padrao .form_group h3{font-size:1.5em;color:#575757;margin-bottom:10px;}
+.form_padrao .form_group ul.vertical li {clear: both;}
+.form_padrao .intro_desc{clear:both;padding-top:10px;font-size:1.2em;padding-bottom:13px;color:#474747;}
+.form_padrao .intro_desc span{color:#474747;font-weight:bold;}
+.form_padrao .obs{float:left;margin-top:10px!important;color:#575757!important;font-size:1.2em!important;display:block;}
+.selo_form{margin:0px 10px 0 10px;float:right;}
+
+
+.wizard p.txt-contact span{display:block; margin-bottom:9px;padding-left:15px;width:194px;}
+.wizard{background-color:#fff; border:1px solid #dddad7;width:285px;float:left;margin:0 0 0px 12px;}
+.wizard p.txt-contact {background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat 127px -640px;color:#878787;font-size:1.2em;padding:10px 0 13px 0; display:none;}
+.wizard p.txt-contact span.h-atendimento{font-size:0.9em;margin:0;}
+.wizard p.txt-contact span.small{font-size:0.8em;margin-bottom: 5px; margin-top: -5px;}
+.wizard p.txt-contact span strong{display:block;font-size:1.3em; margin-top: 3px;}
+.wizard p.txt-contact i {font-family: "Lucida Grande", "Lucida Sans", Verdana, Sans-Serif; font-style: normal; padding-left: 15px;}
+.wizard h3.need-help{background:#eda512;padding:10px 0 10px 10px;color:#fff; font-size:1.6em;font-weight:bold; margin:1px 1px 1px 1px;text-shadow:none!important;}
+.wizard a{color:#af8300;}
+.wizard a:hover{text-decoration:underline;}
+.wizard p.txt-contact span.txt-chat-online{display:none;}
+.wizard p.txt-contact span.txt-chat-offline{display:block;}
+body.stateChatOnline .wizard p.txt-contact span.txt-chat-online{display:block;}
+body.stateChatOnline .wizard p.txt-contact span.txt-chat-offline{display:none;}
+.wizard i{width: 160px; display: inline-block;}
+
+
+.wizard .perguntas-respostas{border-top:1px solid #e0e0e0;margin:0px 0 15px 0;}
+.wizard .perguntas-respostas h3{color:#474747;font-size:1.3em;font-weight:normal;padding:18px 0 0px 15px;}
+.wizard .perguntas-respostas ul{padding:15px 15px 0 15px;font-size:1.1em;}
+.wizard .perguntas-respostas ul li{padding:2px 0 15px 0;}
+.wizard .perguntas-respostas ul li.pergunta{color:#af8300;cursor:pointer;line-height:13px;}
+.wizard .perguntas-respostas ul li:hover.pergunta{text-decoration:underline;}
+.wizard .perguntas-respostas ul li.resposta{display:none;}
+.wizard .perguntas-respostas ul li p{color:#878787;padding:3px 20px 15px 8px;text-align:justify;font-size:1.0em;}
+
+
+.progress-bar{margin:0 0 15px 0px;float:right;}
+.progress-bar ul.steps{background:transparent url(/static/images/layout/form-padrao/progress-bar.png) no-repeat;width:492px;}
+.progress-bar ul.steps li{display:block;float:left;padding:12px 0px 0 0px;width:82px;text-align:center;}
+.progress-bar ul.steps li.progress-active{background:transparent url(/static/images/layout/form-padrao/progress.png) repeat-x top;}
+.progress-bar ul.steps li a{font-size:1.1em;color:#8fb92a;}
+.progress-bar ul.steps li a:hover{color:#508b16;-moz-transition: all 0.4s ease-in;-o-transition: all 0.4s ease-in;-webkit-transition-duration: 0.4s, 0.4s;-webkit-transition-timing-function: linear, ease-in;}
+.progress-bar ul.steps li a.active{color:#508b16;}
+.progress-bar ul.steps li span{font-size:1.1em;color:#979797;}
+
+
+
+.link_apoio{background:none!important;padding:0!important;color:#AC8202!important;}
+.link_apoio_campo{color:#7C9B62;background:none!important;padding:0!important;}
+
+.form_padrao .botoes_acao{padding-top:20px;}
+.form_padrao .botoes_acao .btn_proximopasso, .form_padrao .botoes_acao .btn_simular2{float:right;}
+.form_padrao .botoes_acao .btn_cancelar, .form_padrao .btn_passoanterior{float:left;}
+.form_padrao .botoes_acao.calcular_seguro{margin:0 auto; padding:0px;}
+.form_padrao .botoes_acao.calcular_seguro .btn_simular2{float:none!important;}
+.form_padrao .botoes_acao.calcular_seguro .btn_passoanterior2{float:none!important;}
+
+.form_padrao .perguntaQuemEhSegurado li{float:none;display:block;}
+.form_padrao .perguntaQuemEhSegurado ul{float:left;}
+
+.form_padrao .form-cpf{clear:both;}
+.form_padrao .form-cpf p{
+	color:#71706c;
+	font-size:1.1em;
+	line-height:1.6em;
+	padding:13px 0 0 20px;
+	width:370px;
+	background: transparent url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -21px -1078px;
+	height:72px;
+}
+.form_padrao .form-cpf .form-small{width:100%!important;}
+.form_padrao .form-cpf .relacao-seguradoras{margin:10px 0 20px;}
+.form_padrao .form-cpf .relacao-seguradoras li{float:left;margin:3px!important;line-height:middle;}
+.form_padrao .form-cpf .relacao-seguradoras li img{width:55px;}
+.form_padrao .form-cpf-bg{position:absolute;bottom:-5px;left:0;background:transparent url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -24px -569px;height:4px;width:675px;display:block;clear:both;}
+.form_padrao .form-placa p{color:#666;font-size:1.1em;line-height:1.6em;padding:16px 0 0 20px; margin-bottom:10px; background: #fbfbc9 url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -20px -1160px; }
+
+.form_padrao .btn_proximopasso a{display:block;width:164px;height:37px;background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -299px -19px;margin:0 auto;}
+.form_padrao .btn_proximopasso a span{visibility:hidden;}
+.form_padrao .btn_proximopasso a:hover{background-position:-299px -56px;}
+.form_padrao .btn_proximopasso a:active{background-position:-299px -93px;}
+
+.form_padrao .btn_passoanterior a{display:block;width:125px;height:14px;background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -199px -268px;margin:10px auto 0;}
+.form_padrao .btn_passoanterior a span{visibility:hidden;}
+.form_padrao .btn_passoanterior a:hover{background-position:-199px -305px;}
+
+.form_padrao .calcular_seguro .btn_calcular_seg a{display:block;width:251px;height:62px;background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -18px -19px;margin:0 auto;}
+.form_padrao .calcular_seguro .btn_calcular_seg a span{visibility:hidden;}
+.form_padrao .calcular_seguro .btn_calcular_seg a:hover{background-position:-18px -85px;}
+.form_padrao .calcular_seguro .btn_calcular_seg a.app-event-block:hover{background-position:-18px -85px!important;}
+.form_padrao .calcular_seguro .btn_calcular_seg a:active{background-position:-18px -151px;}
+
+#textoEndereco, #textoEnderecoCepCirculacao{width:345px;background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -19px -389px;padding-left:35px;height:30px;position:absolute;right:0px;top:0px;}
+#textoEndereco span, #textoEnderecoCepCirculacao span{color:#666;font-size:1.2em;float:left;padding-top:10px;}
+
+.form_padrao .calcular_seguro .btn_passoanterior2 a{display:block;width:125px;height:14px;background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -22px -268px;margin:10px auto 0;}
+.form_padrao .calcular_seguro .btn_passoanterior2 a span{visibility:hidden;}
+.form_padrao .calcular_seguro .btn_passoanterior2 a:hover{background-position:-22px -305px;}
+
+.form_padrao .concordo{margin:0 auto;background:#fafaf9;clear:both;margin-bottom:33px;padding:20px 5px 20px 16px;}
+.form_padrao .concordo .form-lbl{color:#484848!important;font-size:1.2em;font-weight:bold!important;}
+.form_padrao .concordo a{color:#af8300;font-size:1.2em;}
+.form_padrao .concordo a:hover{text-decoration:underline;}
+.form_padrao .concordo .termouso *{float:left;margin-top:0!important;margin-bottom:0!important;}
+.form_padrao .concordo .termouso a{margin-left:3px!important;margin-right:3px!important;font-weight:bold;margin-top:-1px!important;}
+
+.marcadagua-parent{position:relative;}
+.marcadagua_text{position:absolute;left:11px;top:8px;*top:10px;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;font-size:1.3em!important;color:#bbb;display:none;}
+.marcadagua_frm_modelo{left:40px;*left:39px;}
+.marcadagua_frm_cpf{left:31px;*left:30px;*top:9px;}
+
+.frm_modelo, .frm_cpf{position:relative;}
+.frm_modelo i, .frm_cpf i{background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -22px -444px;width:16px;height:14px;position:absolute;left:10px;top:10px;z-index:2;}
+.frm_cpf i{background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -25px -486px;left:8px;}
+.form .frm_modelo input{padding-left:38px;}
+.form .frm_cpf input{padding-left:29px;}
+
+
+
+div.container-descricao-fabricante{font-size: 1.2em;color: #888;margin: 15px 0 10px 0;}
+div.container-descricao-fabricante div h4{margin: 0 0 5px 0;color: #474747;}
+div.container-descricao-fabricante h4{color: #888;letter-spacing: normal;}
+div.container-descricao-fabricante div.descricao-fabricante{margin: 10px 0 0 0;font-size: 0.8em;}
+div.container-descricao-fabricante div.descricao-fabricante p{font-weight: normal;}
+
+
+
+.form div .porque{clear:both;}
+.form div .porque a{color:#7C9B62;font-size:1.1em;font-weight:bold;margin-top:5px;text-shadow:none;cursor:pointer;}
+.form div .porque a:hover{text-decoration:underline;}
+
+div.sugestao{font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;font-size:1.3em;color:#666;padding-top:5px;display:none;}
+form div.sugestao span{color:#7C9B62;font-weight:bold;text-decoration:underline;cursor:pointer;}
+
+
+.tooltip_padrao.tooltip_parcelamento{width:680px;}
+.grid-parcelamento{border:1px solid #dee2e4;border-bottom:none;width:96%;margin:2%;}
+.grid-parcelamento td{border-bottom:1px solid #dee2e4;padding:0 10px;height:50px;background:transparent url(/static/images/bg_grid_parcelamento.png) left top repeat-x;}
+.grid-parcelamento .forma-parcelamento{color:#575757;text-align:right;width:128px;white-space:nowrap;}
+.grid-parcelamento .forma-parcelamento span{font-weight:bold;}
+.grid-parcelamento .valor-parcelamento .sp02{font-size:1.1em;margin:-3px 5px 0 0;}
+.grid-parcelamento .valor-parcelamento .sp03{font-size:1.6em;margin-top:5px;float:left;}
+.grid-parcelamento .valor-parcelamento .sp05{font-size:1em;margin-top:10px;float:left;}
+.grid-parcelamento .valor-parcelamento.prioritario{font-size:1.4em;}
+.grid-parcelamento .valor-parcelamento.prioritario .sp03{margin-top:8px;}
+.grid-parcelamento .valor-parcelamento .parcelas-iguais{display:none;}
+.grid-parcelamento .stateParcelasIguais .valor-parcelamento .parcelas-iguais{display:block;}
+.grid-parcelamento .stateParcelasIguais .valor-parcelamento .parcelas-diferentes{display:none;}
+
+
+.tooltip_highlight{background-color:#FBFBC9;border:1px solid #D9C68B!important;display:block; padding: 8px 8px 8px 30px !important;line-height:1.4em;color:#474747;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;;-moz-border-radius:5px;border-radius:5px;-webkit-border-radius:5px;}
+.ico_tooltip{cursor:pointer;}
+.ico_tooltip img{margin-left:4px;margin-bottom:3px;padding:0!important;}
+.tooltip{display:none;clear:both;width:300px;position:absolute;margin:0px!important;background-color:#FDFDFD;border:1px solid #bebebe;font-size:13px;-moz-box-shadow:1px 1px 5px #bebebe;-webkit-box-shadow:1px 1px 5px #bebebe;z-index:9999;border:3px solid #C7C7C7;}
+.tooltip_title{display:none;}
+.tooltip_padrao{width:450px;background-color:#FDFDFD;}
+.tooltip p{padding:10px;font-size:1em;line-height:1.4em;color:#474747;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;}
+.tooltip p.texto-chassi{ float: left; padding: 38px 32px 0 10px; width: 168px;}
+.tooltip_padrao img{float: left; padding: 10px 0;}
+.tooltip .tooltip_titulo{background:#f5f3ef;padding:5px;font-weight:bold;}
+.tooltip .tooltip_titulo img{float:right;}
+.tooltip .descricao_pacote{padding:10px;display:block;}
+
+
+.lista_seguradoras{border:1px solid #dddad7;background:#ffffff url(/static/images/bg_lista_seg.jpg) repeat-x top;padding:0px 0px 25px;text-align:center;}
+.sp01{color:#7f7f7f;font-size:1.1em;margin-right:2px;}
+.sp01 strong{font-size:1.2em;color:#D99B22;}
+.sp01 span.precoEntrada{font-size:1.0em;color:#D99B22;}
+.sp02{color:#d99b22;font-size:1.2em;display:block;float:left;line-height:2.2em;margin-right:5px;}
+.sp03{letter-spacing:-2px;}
+.sp03, .sp05{color:#d99b22;font-size:3em;font-family:Helvetica,Arial,sans-serif;}
+.sp04{color:#2d2d2c;font-size:1.2em;letter-spacing:-0.5px;}
+.sp05{font-size:1.3em;}
+.franquia{white-space:nowrap;}
+.parcelas-decrescentes{white-space: nowrap; display: block; padding-bottom: 5px;}
+.tooltip_erro{width:184px;background:url(/static/images/lista-seguradoras/tooltip_erro01.png) no-repeat;padding-top:12px;position:absolute;top:72px;left:-30px;z-index:2;}
+.tooltip_erro ul li{background:#FFF url(/static/images/lista-seguradoras/tooltip_erro02.png) repeat-y;padding:10px;}
+.tooltip_erro ul{background:url(/static/images/lista-seguradoras/tooltip_erro03.png) no-repeat bottom;padding-bottom:5px;}
+.tooltip_alerta ul{padding:12px;padding-top:0px;}
+.tooltip_alerta ul li{padding-bottom:5px;}
+.cotacaoPrecoIndisponivel{position:relative;text-align:center;height:71px;padding:0;}
+.cotacaoPreco, .cotacaoPrecoCarregando{height:90px;margin:0 auto;padding:10px 0 0;}
+.cotacaoPreco p{float:left;}
+.lista-seguradoras .cotacaoPrecoOffline{height:71px;}
+.lista-seguradoras .cotacaoIndisponivel{display: none;}
+.lista-seguradoras .stateCotacaoIndisponivel .cotacaoIndisponivel{display: block;}
+.lista-seguradoras .stateCotacaoIndisponivel .cotacaoDisponivel{display: none;}
+div a.link-auxiliar{margin-top:10px;font-size:1.4em;color:blue;text-decoration:underline;}
+
+.loading-seguradora-box{width:60px;margin:0 auto;}
+.loading-seguradora-box .loading-seguradora{margin-left:4px;}
+.loading-seguradora{background-image:url(/static/images/lista-seguradoras/loading-gauge.png);background-position:0px 0px;background-repeat:no-repeat;width:56px;height:56px;line-height:0px;}
+.textoPrecoCarregando{color:#7F7F7F;text-align:center;width:63px;}
+.textoPrecoCarregando span{margin:0 auto;}
+
+
+.modal{position:absolute;width:510px;background:#FFF url(/static/images/layout/form-padrao/bg_form_esp.jpg) bottom repeat-x;border:1px solid gray;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;padding:20px 40px;position:relative;}
+.modal h2, .modal h3{color:#575757;letter-spacing:-0.5px;}
+.modal h2{font-size:3.5em;}
+.modal h3{font-size:2.0em;}
+.modal p{font-size:1.2em;color:#474747;padding:5px 0;margin-top:5px;}
+.modal .ico_fechar{position:absolute;top:9px;right:11px;width:15px;height:15px;}
+.modal p.telefone1{float:left;font-size:1.2em;margin-right:10px;}
+.modal p.localizacao{padding:0;color:#9D9D9D;}
+
+
+.bg_alternativo{background:url(/static/images/bg_alternativo_body.png);}
+.erro404 h1{text-align:center;width:100%;}
+.erro404{width:486px;margin:0 auto;margin-top:50px;}
+.disclaimer, .disclaimer2{height:304px;float:left;width:100%;}
+.disclaimer{background:url(/static/images/bg404.jpg);}
+.disclaimer2{background:url(/static/images/bg505.jpg);}
+.disclaimer p{padding:220px 120px;color:#3f3f3f;font-size:1.4em;font-weight:bold;text-align:center;letter-spacing:1px;line-height:20px;}
+.disclaimer p a{color:#AC8202;text-decoration:underline;}
+.disclaimer p a:hover{color:#f6c100;}
+
+
+ul.navegadores{clear:both;width:100%;}
+.navegadores li{float:left;margin-right:10px;}
+
+
+.coluna_central{width:530px;float:left;margin-right:25px;}
+.aviso{margin-bottom:15px;}
+.aviso_decalque{width:46px;height:60px;background:#fffffe url(/static/images/decalque.jpg) top right no-repeat;position:absolute;right:-2px;top:-1px;}
+.com_expose .aviso_decalque{background:#fffffe url(/static/images/decalque.png) top right no-repeat;}
+.aviso_sombra{width:133px;height:11px;background:url(/static/images/aviso_sombra.jpg);position:absolute;bottom:-12px;right:0;}
+.aviso h2{color:#575757;font-size:1.8em;margin:12px 0 0 0;letter-spacing:-0.5px;float:left;}
+.aviso p{font-size:1.2em;clear:both;}
+.aviso img{float:left;margin:10px;margin-top:5px;}
+.sbtt{color:#71706c;margin-left:21px;margin-top:3px;}
+.condgerais{margin:0 auto 10px;display:block;}
+.sbtt a, .condgerais, ul.wizard li a.link_apoio, .link_apoio, .tela_interna p a{color:#AF8300;}
+.sbtt a:hover, .condgerais a:hover,ul.wizard li a.link_apoio:hover, .link_apoio:hover, .tela_interna p a:hover{text-decoration:underline;}
+.sbtt2{color:#85c12e;text-shadow:0.05em 0.05em #CDD8C5;padding-top:5px;}
+.sbtt3{color:#7c9b62;font-size:0.9em;margin-top:13px;}
+
+
+#modal_compararseguradoras.modal{padding:20px 30px!important;}
+#modal_contratarseguro{width:650px;}
+#modal_contato{width:510px;}
+#modal_compararseguradoras{width:850px;}
+
+
+.coluna_centraldireita{width:753px;float:left;}
+.aviso_corretores{height:79px;border:1px solid #dddad7;position:relative;background:#fffffe;margin-bottom:15px;padding:12px;}
+.aviso_corretores h2{color:#7c9b62;font-size:1.8em;letter-spacing:-1px;}
+.aviso_corretores p{font-size:1.2em;letter-spacing:-0.5px;}
+.aviso_corretores img, .aviso_contrate img{float:left;}
+.corret{margin-top:10px;border:1px solid #DDDAD7;}
+.av_content{background:url(/static/images/seta.jpg) top left no-repeat;float:left;margin-top:6px;padding:8px 0 0 64px;width:520px;}
+.av_content p{color:#71706c;letter-spacing:-0.5px;line-height:1.2em;margin-top:9px;}
+
+
+.lista_extrato{border:1px solid #dddad7;background:#ffffff url(/static/images/bg_lista_seg.jpg) repeat-x top;padding:0px 0px 25px;text-align:center;}
+.cotacao{border-collapse:collapse;margin:0 20px;width:489px;text-align:left;}
+.cotacao td img{padding:10px 0;}
+.cotacao .theader{border:none!important;}
+.cotacao .theader th{height:39px;text-align:center;color:#727171;font-size:1.2em;font-weight:bold;}
+.cotacao td{padding:14px 4px;}
+.cotacao tr{border-bottom:1px dashed #e4e4e4;}
+.cotacao tr.linha_alternada{background:#fbfbfb;}
+.escolha_cor{float:right;}
+a.escolha_cor{display:block;width:100px;height:59px;background:url(/static/images/btn_corretor.jpg) no-repeat;float:right;}
+a.escolha_cor span{visibility:hidden;}
+.cotacao td.firstlastcell{padding:0;width:101px;}
+.firstlastcell .botaoSolicitarOrcamento{margin-top:35px;}
+.firstlastcell .condgerais{margin-top:11px;}
+.appcotacaoinativa .firstlastcell .botaoSolicitarOrcamento{margin-top:10px;}
+.cotacao .cot_form_especifico{width:138px;}
+.cotacaoEstimado .vermais a{margin:0 auto;text-align:center!important;display:block;}
+
+.botaoSolicitarOrcamento a{display:block;width:108px;height:59px;background:url(/static/images/btn_solicitarorcamento.png) no-repeat top;margin:0 auto;}
+.botaoSolicitarOrcamento a span{visibility:hidden;}
+.botaoSolicitarOrcamento a:hover{background-position:0 -59px;}
+.botaoSolicitarOrcamento a:active{background-position:0 -118px;}
+.lista_form_erro{font-size:1.1em;color:#7F7F7F;margin:0 auto;}
+.appcotacaoinativa .lista_form_erro{width:auto;}
+.lista_form_erro a{text-decoration:underline;color:#AC8202;}
+.lista_form_erro a:hover{text-decoration:underline;color:#CA3C2F;}
+.cotacaoVerCoberturas{margin:0 auto;}
+.btn_voltaroriginal a{display:block;width:178px;height:29px;background:url(/static/images/btn_voltar_inicio.png) no-repeat top;margin:0 auto;float:left;margin-top:5px;}
+.btn_voltaroriginal a span{visibility:hidden;}
+.btn_voltaroriginal a:hover{background-position:0 -29px;}
+.btn_voltaroriginal a:active{background-position:0 -58px;}
+.botaoFormEspecifico01 a{display:block;width:126px;height:51px;background:url(/static/images/btn_form_especifico.png) no-repeat top;margin:0 auto;float:left;}
+.botaoFormEspecifico01 a span{visibility:hidden;}
+.botaoFormEspecifico01 a:hover{background-position:0 -51px;}
+.botaoFormEspecifico01 a:active{background-position:0 -102px;}
+.botaoFormEspecifico02 a{display:block;width:106px;height:39px;background:url(/static/images/btn_form_especifico2.png) no-repeat top;margin:0 auto;float:left;}
+.botaoFormEspecifico02 a span{visibility:hidden;}
+.botaoFormEspecifico02 a:hover{background-position:0 -40px;}
+.botaoFormEspecifico02 a:active{background-position:0 -80px;}
+.legenda_seguradoras{text-align:center;padding-top:20px;color:#71706C;}
+#modal_compararseguradoras .lista_form_erro{font-size:1em;}
+#modal_compararseguradoras .tooltip_erro{left:-60px;}
+#modal_compararseguradoras .cotacaoPreco, #modal_compararseguradoras .cotacaoPrecoCarregando, #modal_compararseguradoras .cotacaoPrecoIndisponivel{height:auto;padding-top:0;margin:0 auto;}
+#modal_compararseguradoras .cotacaoPrecoOffline{height:auto;padding-top:10px;}
+#modal_compararseguradoras .grid-compare td.title span{margin-top:0;}
+
+
+.stateCotacaoConcluidaComSucesso .cotacaoPrecoCarregando, 
+.stateCotacaoConcluidaComSucesso .cotacaoErro,
+.stateCotacaoConcluidaComErro .cotacaoPreco, 
+.stateCotacaoConcluidaComErro .cotacaoPrecoCarregando,
+.stateCotacaoPendente .cotacaoPreco, 
+.stateCotacaoPendente .cotacaoErro {display:none;}
+
+.cotacaoPrecoCarregando {width:60px;margin:0px auto 0 40px;}
+.cotacaoPrecoCarregando .cotacaoGauge {margin-left:4px;}
+.cotacaoPrecoCarregando .cotacaoGaugeAnimation{background-image:url(/static/images/lista-seguradoras/loading-gauge.png);background-position:0px 0px;background-repeat:no-repeat;width:56px;height:56px;}
+.cotacaoPrecoCarregando .cotacaoGaugeTexto {color:#7F7F7F;text-align:center;width:63px;}
+.cotacaoPrecoCarregando .cotacaoGaugeTexto span{margin:0 auto;}
+
+
+
+.lista_corretores{border:1px solid #dddad7;background:#ffffff url(/static/images/bg_lista_seg.jpg) repeat-x top;padding:0px 0px 25px;}
+.corretores{border-collapse:collapse;margin:0 20px;width:709px;}
+.corretores .theader{border:none!important;}
+.corretores .theader label{float:left;}
+.corretores .theader th{padding:14px 0 29px 11px;text-align:left;color:#727171;font-size:1.2em;font-weight:bold;}
+.corretores td{padding:18px 13px;vertical-align:top;}
+.f_contrate .foto{padding:18px 0 18px 17px;float:left;}
+.corretores td.tdmapa{padding:0 13px;}
+.corretores tr{border-top:1px dashed #e4e4e4;}
+.corretores tr.linha_alternada{background:#fbfbfb;}
+.corretores h3, .form .nome_corretor{font-size:2em;font-weight:normal;}
+.form .nome_corretor{margin-top:10px;}
+.localizacao a{text-decoration:underline;color:#ac8202;}
+.localizacao a:hover{color:#7d6005;}
+.localizacao{color:#2d2d2c;font-size:1.2em;letter-spacing:-0.5px;margin-top:13px;}
+.destaque, .destaque_linha_alternada{background:#fdebb3;}
+.avaliacao{color:#1e1e1e;font-weight:bold;font-size:1.1em;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;}
+.destaque .localizacao{color:#7e7559;}
+.foto{background:url(/static/images/bg_foto.png) left top no-repeat;width:70px;}
+.foto_cp{margin-left:5px;margin-bottom:5px;position:relative;}
+.foto .tipocor{width:25px;height:22px;position:absolute;right:22px;bottom:-6px;}
+.cor_destaque{color:#7d6005;font-size:1em;position:absolute;top:-13px;right:-10px;padding:1px 4px;display:block;background:#FFF;width:124px;}
+.cor_botao{position:relative;padding-top:10px;}
+.destaque_linha_alternada{background:#f9efcd;}
+.cotacaoBotaoEscolhaCorretor2 a{display:block;width:101px;height:48px;background:url(/static/images/btn_escolhercorretor.png) no-repeat top;margin:0 auto;}
+.cotacaoBotaoEscolhaCorretor2 a span{visibility:hidden;}
+.cotacaoBotaoEscolhaCorretor2 a:hover{background-position:0 -48px;}
+.cotacaoBotaoEscolhaCorretor2 a:active{background-position:0 -96px;}
+.mapa_google{width:217px;height:200px;}
+.fechar_mapa{background:#FFFFFF;border:1px solid #CCCCCC;display:block;font-size:1.2em;margin:10px 0;padding:6px;text-align:center;width:100px;}
+
+
+
+#pg{width:700px;background-color:#FFFFFF;text-align:center;font-size:12px;padding:10px;margin-top:40px;}
+
+#pg span{padding:5px;}
+#pg a{font-size:13px;text-decoration:none;color:#000000;border:1px solid #dddddd;padding:5px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;margin:0 2px;}
+#pg a:hover{font-size:13px;text-decoration:none;color:#000000;border:1px solid #A7A7A7;background-color:white;padding:5px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
+
+#pg a.current{font-size:13px;text-decoration:none;color:#000000;background-color:#F3F8F2;padding:5px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
+
+#pg span.disabled{font-size:13px;text-decoration:none;color:#C6C7C7;border:1px solid #C6C7C7;background-color:white;padding:5px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;// Rounds the corners;Works for Mozilla only;}
+
+
+.opcoes_avancadas{float:left;border:1px solid #dddad7;background:#FFF;width:190px;padding:3px;}
+.opcoes_avancadas_interna{border:1px solid #dfdcd9;position:relative;}
+.opcoes_avancadas_interna .opcoes_desc{padding:13px 17px;border-bottom:1px solid #d8d6cf;}
+.opcoes_avancadas_interna .opcoes_desc p{margin-bottom:5px;}
+.opcoes_avancadas h2{padding:9px 20px;background:url(/static/images/bg_opavan_tit.jpg) top repeat-x;color:#575757;position:relative;font-size:1.8em;font-weight:bold;}
+.bg_op_left{background:url(/static/images/bg_op_left.jpg);display:block;width:4px;height:37px;left:-1px;top:0;position:absolute;}
+.bg_op_right{background:url(/static/images/bg_op_right.jpg);display:block;width:4px;height:37px;right:-1px;top:0;position:absolute;}
+ div.revisarcob{display:block;font-size:1.6em;color:#789b57;padding:10px 0;text-align:center;letter-spacing:-0.35px;background:url(/static/images/bg_revcob.jpg) repeat-y;}
+.pull a.seta-baixo{display:block;width:214px;height:17px;background:url(/static/images/op_av_pull.png) no-repeat;position:absolute;bottom:-14px;}
+.pull a.seta-baixo span{visibility:hidden;}
+.pull a.seta-cima{display:block;width:214px;height:17px;background:url(/static/images/op_av_pull.png) no-repeat;position:absolute;bottom:-14px;background-position:0 -17px;}
+.pull a.seta-cima span{visibility:hidden;}
+.opcoes_avancadas_interna legend{display:none!important;}
+.btn_recalcular{margin-top:15px!important;padding-bottom:0!important;}
+
+.formulario_avanc{border-top:1px solid #D8D6CF;background:url("/static/images/bg_revcob.jpg") repeat-y scroll 0 0 transparent;padding:14px 13px;*padding:0px 20px 2px 5px;}
+.btn_recalcular a{display:block;width:162px;height:38px;background:url(/static/images/btn_recalcular.png) no-repeat top;margin:0 auto;}
+.btn_recalcular a span{visibility:hidden;}
+.btn_recalcular a:hover{background-position:0 -38px;}
+.btn_recalcular a:active{background-position:0 -76px;}
+a.off:hover, a.off:active{background-position:0 0!important;}
+.formulario_avanc .grid-12-12{position:relative;}
+.formulario_avanc .grid-12-12 .ico_tooltip{position:absolute;right:0;top:4px;*right:10px;}
+.sublink{text-align:center;}
+.sublink a{font-size:1.1em;color:#8d8d8d;text-decoration:underline;}
+
+
+.form_especifico{width:797px;height:520px;background:#FFF url(/static/images/layout/form-padrao/bg_form_esp.jpg) bottom repeat-x;border-radius:20px;-webkit-border-radius:10px;-moz-border-radius:10px;text-align:left;}
+.form-especifico-logo{width:100%;text-align:center;}
+.col-1{width:150px;float:left;padding:52px 15px 0 25px;}
+.col-1 img{margin-bottom:20px;}
+.col-1 p{font-size:1.2em;color:#474747;letter-spacing:-0.35px;line-height:1.5em;margin-bottom:10px;}
+.form_especifico h2{font-size:2.2em;color:#575757;letter-spacing:-0.5px;}
+.col-2{width:600px;float:left;padding-top:10px;position:relative;}
+.frame{border:1px solid #dedede;overflow-y:scroll;overflow-x:hidden;background:#f9f8f7;height:312px;width:548px;padding:18px;position:relative;}
+.form_esp_atalhos{margin-top:15px;padding:7px;background:#ebebea;border:1px solid #dedede;width:570px;}
+.form_esp_atalhos li{display:inline;font-size:1.3em;}
+.form_esp_atalhos li a{color:#575757;background:#f8f8f8;border-radius:20px;-webkit-border-radius:20px;-moz-border-radius:20px;padding:2px 10px;margin:0 5px;}
+.form_esp_atalhos li a:hover{background:#cbdfd0;}
+.frame legend{font-size:1.8em;color:#b2b2b2;font-weight:bold;border-bottom:1px dashed #e3e2e1;display:block;width:100%;margin-bottom:10px;padding:5px;background:#EDF0E6;}
+.frame form div{margin-left:0!important;}
+.frame .ico_tooltip{margin-bottom:10px;}
+.frame form span{font-size:1.2em;color:#3d3737;}
+.col-3{float:left;width:752px;border-top:1px dashed #e3e2e1;margin:10px 10px 0 25px;padding-top:18px;}
+.btn_cancelar a{display:block;width:92px;height:37px;background:url(/static/images/btn_cancelar.png) no-repeat top;margin:0 auto;}
+.btn_cancelar a span{visibility:hidden;}
+.btn_cancelar a:hover{background-position:0 -37px;}
+.btn_recalcular2 a{display:block;width:110px;height:39px;background:url(/static/images/btn_recalcular2.png) no-repeat top;margin:0 auto;}
+.btn_recalcular2 a span{visibility:hidden;}
+.btn_recalcular2 a:hover{background-position:0 -39px;}
+.btn_recalcular2 a:active{background-position:0 -78px;}
+.btn_cancelar , .btn_recalcular2{float:right;}
+.form_especifico .btn_cancelar{width:70px;}
+.form_especifico .btn_recalcular2{width:150px;}
+.btn_voltaroriginal{float:left;}
+.cotacao td .ico_fechar img, .cotacao td .col-1 img{padding:0;}
+.erro_fundo{display:none;color:white;font-weight:bold;text-align:center;position:fixed;top:50%;width:100%;font-size:1.2em;}
+.chamada_form_especifico{position:absolute;top:263px;margin-left:300px;display:none;height:79px;border:1px solid #dddad7;background:#fffffe;margin-bottom:15px;padding:12px;}
+.chamada_form_especifico2{color:#7c9b62;font-size:1.8em;letter-spacing:-1px;}
+.chamada_form_especifico p{font-size:1.2em;letter-spacing:-0.5px;}
+.chamada_form_especifico img{float:left;}
+.form_especifico .frm_cpf i{top:34px;}
+.expose_form_completo{position:absolute;width:243px;height:226px;top:0;left:20px;background:url(/static/images/ex_seta.png) no-repeat;padding:20px 20px 20px 70px;display:none;}
+.expose_form_completo h2{font-size:1.9em;}
+.expose_form_completo .sbtt3{margin-left:0;font-size:1.2em;margin-bottom:23px;}
+.btn_simule02 a{display:block;width:223px;height:49px;background:url(/static/images/btn_int_simule.png) no-repeat top;margin:0 auto 10px;}
+.btn_simule02 a span{visibility:hidden;}
+.btn_simule02 a:hover{background-position:0 -49px;}
+.btn_simule02 a:active{background-position:0 -98px;}
+.box_ajuda{float:right;border:1px solid #dddad7;background:#FFF;width:301px;padding:3px;margin-left:20px;}
+.box_ajuda_interna{border:1px solid #dfdcd9;position:relative;}
+.box_ajuda h2{padding:12px 20px 9px 22px;background:url(/static/images/bg_opavan_tit.jpg) top repeat-x;color:#575757;position:relative;font-size:1.4em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #CBD6D2;}
+.opcoes_desc{background:#f5f4f2 url(/static/images/bg_op_avanc2.jpg) repeat-y;padding:13px 23px 0 23px;}
+.opcoes_desc ul{list-style-type:decimal;list-style-position:inside;}
+.opcoes_desc ul li{margin-bottom:10px;}
+.coluna_direita .box_ajuda .opcoes_desc ul li a{text-decoration:none;}
+.coluna_direita .box_ajuda .opcoes_desc ul li a:hover{color:#CA3C2F;}
+.opcoes_desc p{letter-spacing:-0.2px;font-size:1.3em;color:#71706c;y;letter-spacing:-0.5px;line-height:1.4em;margin-bottom:17px;}
+.form .form_destaque{color:#EBB729;}
+
+.btn_simular2 a{display:block;width:112px;height:37px;background:url(/static/images/btn_simular2.png) no-repeat top;margin:0 auto;}
+.btn_simular2 a span{visibility:hidden;}
+.btn_simular2 a:hover{background-position:0 -37px;}
+.btn_simular2 a:active{background-position:0 -74px;}
+
+.obs{float:left;margin-top:10px!important;color:#575757!important;font-size:1.2em!important;display:block;}
+.intro_desc{font-size:1.2em;padding-bottom:13px;color:#474747}
+.intro_desc span{color:#474747; font-weight:bold;}
+
+.coluna_direita .box_ajuda{float:none;margin-left:0;margin-bottom:20px;}
+.coluna_direita .box_ajuda li a{color:#ac8202;text-decoration:underline;font-size:1.2em;}
+.btn_querocontinuar a{display:block;width:189px;height:46px;background:url(/static/images/btn_entendi.png) no-repeat top;margin:0 auto;margin-top:10px;}
+.btn_querocontinuar a span{visibility:hidden;}
+.btn_querocontinuar a:hover{background-position:0 -46px;}
+.btn_querocontinuar a:active{background-position:0 -92px;}
+.btn_continuar a{display:block;width:200px;height:45px;background:url(/static/images/btn_continuar.png) no-repeat top;margin:0 auto;margin-top:10px;}
+.btn_continuar a span{visibility:hidden;}
+.btn_continuara:hover{background-position:0 -46px;}
+.btn_continuar a:active{background-position:0 -92px;}
+
+
+.ct_header{background:#f4f8f3;border-bottom:1px dashed #dee3dd;margin-bottom:33px;}
+.ct_header h5{font-size:1.2em;color:#727171;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;padding:20px 0 20px 27px;font-weight:bold;margin:0;}
+.extrato{width:322px;height:243px;background:url(/static/images/bg_contrate.jpg);margin-left:25px;text-align:center;float:left;margin-bottom:20px;}
+.extrato p{padding-top:65px;letter-spacing:-0.5px;color:#474747;font-size:1.4em;line-height:1.7em;margin-bottom:12px;}
+.extrato p span{color:#000000;font-size:1.8em;}
+.btn_extrato a{display:block;width:176px;height:41px;background:url(/static/images/btn_extrato.jpg) no-repeat top;margin:0 auto;}
+.btn_extrato a span{visibility:hidden;}
+.f_contrate legend{display:none;}
+.btn_solicitarcontato{margin-top:10px;height:80px;}
+.btn_solicitarcontato a{display:block;width:378px;height:86px;background:url(/static/images/btn_solicitarcontato.png) no-repeat top;margin:0 auto;margin-bottom:20px;}
+.btn_solicitarcontato a span{visibility:hidden;}
+.btn_solicitarcontato a:hover{background-position:0 -88px;}
+.btn_solicitarcontato a:active{background-position:0 -176px;}
+.lista_extrato{text-align:left;}
+.cont_plus{color:#7C9B62;display:block;float:left;font-family:arial;font-size:3.2em;font-weight:bold;height:70px;line-height:80px;margin:0 10px 0 5px;text-shadow:0.05em 0.01em #CCCCCC;width:20px;}
+
+
+.aviso_contrate{height:79px;border:1px solid #dddad7;position:relative;background:#fffffe;margin-bottom:15px;padding:12px;}
+.aviso_contrate h2{color:#7c9b62;font-size:1.8em;letter-spacing:-1px;}
+.aviso_contrate p{font-size:1.2em;letter-spacing:-0.5px;}
+.aviso_contrate .av_content{width:420px;}
+.av_content{float:left;margin-top:6px;padding:8px 0 0 70px;width:520px;}
+.av_content p{color:#71706c;line-height:1.2em;margin-top:9px;letter-spacing:0px;}
+
+
+#modal_contratarseguro.modal{padding-bottom:10px;}
+#modal_contratarseguro .form label{white-space:nowrap;}
+#modal_contratarseguro .btn_solicitarcontato{margin-top:0;}
+
+.subt{margin-bottom:20px;}
+.btn_outrasim{border-top:1px dashed #e3e2e1;padding-top:10px;margin-top:30px;}
+.btn_outrasim a{display:block;width:337px;height:64px;background:url(/static/images/btn_outrasim.png) no-repeat top;margin:0 auto;margin-top:16px;}
+.btn_outrasim a span{visibility:hidden;}
+.btn_outrasim a:hover{background-position:0 -64px;}
+.btn_outrasim a:active{background-position:0 -128px;}
+
+.btn_enviar2 a{display:block;width:150px;height:54px;background:url(/static/images/layout/form-padrao/calculo-sprite.png) no-repeat -499px -19px;margin:0 auto;margin-top:10px;}
+.btn_enviar2 a span{visibility:hidden;}
+.btn_enviar2 a:hover{background-position:-499px -74px;}
+.btn_enviar2 a:active{background-position:-499px -130px;}
+
+.btn_fecharjanela a{display:block;width:243px;height:60px;background:url(/static/images/btn_fechar_janela.png) no-repeat top;margin:0 auto;margin-top:10px;}
+.btn_fecharjanela a span{visibility:hidden;}
+.btn_fecharjanela a:hover{background-position:0 -61px;}
+.btn_fecharjanela a:active{background-position:0 -122px;}
+.form .parabens_corretor{margin-top:10px;background:#FBFBFB;border-top:1px dashed #E4E4E4;border-bottom:1px dashed #E4E4E4;margin-bottom:5px;position:relative;}
+.parabens_corretor h3{float:left;margin-right:10px;}
+.parabens_corretor .susep{font-size:1.1em;color:#9D9D9D;letter-spacing:-0.5px;padding-top:14px;}
+.form .corretor_escolhido{position:absolute;bottom:5px;right:5px;background:#FFF;padding:5px;border:1px dotted #E4E4E4;font-size:1.2em;}
+.conteudo_aguarde, .conteudo_parabens{text-align:center;}
+.conteudo_parabens strong{font-weight:bold;font-size:1.2em;color:#789B57;}
+.conteudo_parabens p.antispam{margin:20px 0;color:#777;}
+.conteudo_parabens p.antispam span{color:#999;}
+
+.contato_telefone #dddProposta.form-small{width:45px!important;margin-right:2px!important;}
+.contato_telefone #telefoneProposta.form-small{width:140px!important;margin-left:0px!important;}
+
+
+.termos_uso{width:491px;background:#FFF url(/static/images/layout/form-padrao/bg_form_esp.jpg) bottom repeat-x;border-radius:20px;-webkit-border-radius:20px;-moz-border-radius:20px;padding:30px 40px;position:relative;}
+.termos_uso h2{font-size:3.5em;color:#575757;text-align:center;margin-bottom:40px;letter-spacing:-0.5px;}
+.termos_uso p{font-size:1.2em;color:#474747;letter-spacing:-0.5px;}
+
+
+.de_bonus {color:#d99b22;}
+.parabens_compare{width:850px!important;}
+.conteudo_compare .grid{display:block;height:400px;max-height:400px;overflow-y:auto;overflow-x:hidden;width:852px;}
+.grid-compare{width:100%;margin-top:0;border:none;border-collapse:collapse;}
+.grid-compare.compare-header{border-bottom:0;width:836px;}
+.grid-compare th.th_seguradora{padding:10px 0;width:160px;}
+.grid-compare th img{width:60px;}
+.grid-compare tr.linha-alternada td{background:#fbfcfe url(/static/images/bg_linha_alternada.png) left bottom repeat-x;width:150px;}
+.grid-compare tr.linha-titulo td{background:#f1f9f2 url(/static/images/bg_linha_titulo.png) left bottom repeat-x;padding:10px;width:100%;}
+.grid-compare td{padding:32px 13px;vertical-align:center;color:#8d8d8d;font-size:1.2em;text-align:center;border:1px solid #dddad7;}
+.grid-compare td.result{border-top:none;}
+.grid-compare tr.linha_branca td.result, .grid-compare tr.linha_branca td.title, .grid-compare tr.linha_branca td.resultseg{background-color:#fff;}
+.grid-compare tr.linha_cinza td.result, .grid-compare tr.linha_cinza td.title, .grid-compare tr.linha_cinza td.resultseg{background-color:#f7f7f7;}
+.grid-compare td.title, .grid-compare th.title{vertical-align:middle;border-top:none;border-left:none;padding:20px 0 20px!important;text-align:left;font-size:1.1em;margin:0!important;}
+.grid-compare td.title span{color:#575757;font-size:1.3em;margin:0px 0 0 10px;display:block;}
+.grid-compare tr.linha-titulo td.title span{font-size:1.4em;margin-left:0;color:#2d2c2c;}
+.grid-compare .cotacaoPreco{font-size:0.6em;margin:0 10px;}
+.grid-compare .cotacaoPreco .sp02{font-size:1.6em;line-height:1.4em;}
+.grid-compare .cotacaoPreco .sp01{color:#575757;font-size:1.2em;}
+th.last-child{padding-right:18px!important;}
+.grid-compare td.ao_topo{vertical-align:top;}
+.grid-compare .cotacaoPreco .compar_sp02, .grid-compare .cotacaoPreco .compar_sp03, .grid-compare .cotacaoPreco .compar_sp03, .grid-compare .cotacaoPreco .compar_sp05, .grid-compare .cotacaoPreco .virg_preco{float:none;display:inline;margin-right:5px;}
+.grid-compare .cotacaoPreco .preco_comparativo{width:79px;float:right;width:94px;}
+.calculo_erro{float:right;}
+.preco_comparativo p{width:94px;}
+.grid-compare .diferencial_title{text-align:center;}
+.grid-compare .diferencial_item{text-align:left;padding-left:20px;background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/comparativo-seguradoras-sprite.png) no-repeat -45px -454px;line-height:16px;margin-bottom:10px;display:block;}
+.grid-compare .diferencial_txt, .grid-compare .diferencial_item{text-align:left;}
+.grid-compare .diferencial_txt, .grid-compare .diferencial_title{line-height:15px!important;}
+.grid-compare .diferencial_title.disponivel_sim, .grid-compare .diferencial_title.disponivel_nao, .grid-compare .diferencial_title.disponivel_depende{margin-bottom:0!important;height:20px!important;}
+.grid-compare .sem_margin{text-align:left;}
+.grid-compare br{display:none;}
+.grid .titulo_comparacao{font-size:36px;color:#555455;margin-bottom:16px;display:block; width:600px;}
+.grid .titulo_coberturas{font-size:36px;color:#555455;margin-bottom:16px;display:none; width:600px;}
+.grid .troca_pac{float:right;margin:0 7px 7px 0;font-size:13px;color:#6c757c;}
+.cabecalho_tabela{background-color:#fff;vertical-align:top;}
+.cabecalho_tabela .tipo_plano{font-size:24px;color:#d99b22;}
+.cabecalho_tabela .segur_1, .cabecalho_tabela .segur_2, .cabecalho_tabela .segur_3{padding:22px 0 0 13px;}
+.dados .cifrao_cot{color:#d99b22;font-size:14px;}
+.dados .valor_cot{color:#d99b22;font-size:24px;font-weight:bold;letter-spacing:-2px;}
+.dados .franq{color:#575757;font-size:11px;}
+.dados .valor_franq{color:#d99b22;font-size:11px;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;}
+.dados .valor_parcel a{color:#d99b22;font-size:11px;text-decoration:underline;}
+.segur_1 img{float:left;}
+.segur_1 .dados{float:left;width:128px;}
+.segur_2 img{float:left;}
+.segur_2 .content{float:left;width:128px;}
+.tipo_plano span br{margin-bottom:12px;}
+.dados .valor_parcel a{margin-top:6px;display:block;}
+.segur_3 img{float:left;}
+.segur_3 .dados{float:left;width:128px;}
+.troca_pac a{text-decoration:underline;color:#c49a2b;}
+.cabecalho_tabela .tresd1{background:#fff url(/static/images/1.jpg) no-repeat;text-align:left;border:none;}
+.cabecalho_tabela .tresd2{background:#fff url(/static/images/2.jpg) no-repeat;border-top:none;border-bottom:none;text-align:left;}
+.cabecalho_tabela .tresd3{background:#fff url(/static/images/3.jpg) no-repeat;border-top:none;border-bottom:none;text-align:left;}
+.cabecalho_tabela .tresd4{background:#fff url(/static/images/4.jpg) no-repeat;border-top:none;border-right:none;border-bottom:none;text-align:left;}
+.grid-compare td.resultseg{vertical-align:top;margin-top:32px;}
+.txt_alinhado_esq{text-align:left;margin-top:17px;}
+.sem_margim{text-align:left;}
+.cabecalho_tabela td{border:1px solid #dddad7;border-right:0!important;}
+.grid-compare .espaco{width:4px;padding:0px;border-left:none;border-top:none;border-bottom:none;}
+.grid-compare .espaco2{width:2px;padding:0px;border:none;}
+.title a{border-bottom:1px dashed #bababa;}
+.title a.incendio{width:159px;}
+.title a.franquia{width:65px;}
+.title a.danos_mat{width:190px;}
+.title a.danos_corp{width:192px;}
+.title a.danos_mor{width:174px;}
+.title a.acidentes_morte{width:174px;}
+.title a.acidentes_inval{width:174px;}
+.grid-compare .txt_negrito{font-weight:bold;margin-bottom:10px;}
+
+.cabecalho_tabela .col_semborda{border-top:none;}
+
+
+.selos{position:absolute;top:5px;right:5px;}
+.selos li{float:right;}
+.selos .quemtemcorretor{position:absolute;right:0;top:25px;}
+
+
+.app-event-block{opacity:0.3;filter:alpha(opacity='30')!important;cursor:default!important;}
+
+.app-event-block-semopacity{cursor:default!important;}
+.app-event-block-semopacity:hover{background-position:0 0!important;}
+
+.btn_lista_seguradoras .app-event-block{opacity:0.7;filter:alpha(opacity='70')!important;cursor:default!important;}
+
+
+
+#fade_bg{display:none;background:#fff;position:fixed;left:0;top:0;width:100%;height:100%;opacity:0.5;filter:alpha(opacity='50')!important;z-index:8888;}
+#fade_bg img{position:fixed;top:50%;left:50%;margin-top:-33;margin-left:-33;opacity:1;}
+#fade_bg span{position:fixed;top:50%;left:50%;opacity:1;}
+.form_especifico{position:fixed;top:50%;left:50%;z-index:8889;display:none;}
+
+*html #fade_bg{position:absolute;}
+*html .form_especifico{position:absolute;}
+*html #fade_bg{position:absolute;}
+*html .popup_block{position:absolute;}
+#fade_bg_duvidas{display:none;background:#fff;position:fixed;left:0;top:0;width:100%;height:100%;opacity:0.5;filter:alpha(opacity='50')!important;z-index:8888;}
+#fade_bg_compararpacotes{display:none;background:#fff;position:fixed;left:0;top:0;width:100%;height:100%;opacity:0.5;filter:alpha(opacity='50')!important;z-index:8888;}
+.ancora-de-campo-com-ajuda{float:left;}
+.form_especifico{border-width:1px;border-style:solid!important;border-color:#888!important;}
+
+.fatalerror{z-index:9999!important;text-align:center;position:absolute;width:491px;background:#FFF url(/static/images/layout/form-padrao/bg_form_esp.jpg) bottom repeat-x;border:1px solid gray;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;padding:30px 40px;position:relative;}
+.fatalerror-title{font-size:3.0em;color:#575757;margin-bottom:20px;letter-spacing:-0.5px;}
+.fatalerror-text{font-size:1.4em;color:#474747;letter-spacing:-0.5px;text-align:center;padding:5px 0;clear:both;}
+.fatalerror .ico_fechar{display:block;width:15px;height:15px;background-image:url(/static/images/ico_fechar.png);}
+.fatalerror .ico_fechar span{visibility:hidden;}
+
+
+.tooltip_condutor_principal{width:450px;background-color:#FDFDFD;}
+.tooltip_formespecifico{width:400px;background-color:#FDFDFD;float:left;}
+
+
+.console_logger{position:fixed;bottom:0;height:200px;background-color:white;width:100%;border-top:3px solid black;overflow-y:scroll;overflow-x:scroll;}
+.console_logger li{display:block;word-wrap:normal;white-space:nowrap;}
+
+.display_none{display:none;}
+.container_comparativo .result, .container_comparativo .cabecalho_seguradora{display:none;}
+.troca_pac .selected a{color:#888;text-decoration:none;cursor:default;}
+
+
+.comparativo-seguradoras .cabecalho_seguradora .dados .cotacaoPreco, .comparativo-seguradoras .cabecalho_seguradora .dados .cotacaoPrecoCarregando, .comparativo-seguradoras .cabecalho_seguradora .dados .cotacaoPrecoIndiponivel{padding:0;margin:0;}
+  
+  
+.comparativo-seguradoras.ver-coberturas .titulo_comparacao{display:none!important;}
+.comparativo-seguradoras .titulo_comparacao{display:block;}
+.comparativo-seguradoras.ver-coberturas .titulo_coberturas{display:block!important;}
+.comparativo-seguradoras .titulo_coberturas{display:none;}
+
+.comparativo-seguradoras .primeira{background:transparent url(/static/images/1.jpg) repeat-x;border:0;text-align:left;width:4px;}
+.comparativo-seguradoras .cabecalho_tabela{background-color:transparent;height:118px;}
+.comparativo-seguradoras .cabecalho_tabela td{padding:0;margin:0;}
+.comparativo-seguradoras .sombra_linha{height:20px;}
+.comparativo-seguradoras .sombra_linha .sombra{background:#fff url(/static/images/2.jpg) repeat-x 0px -118px;border-top:none;border-bottom:none;text-align:left;}
+.comparativo-seguradoras .sombra_linha td{padding:0;}
+.comparativo-seguradoras .sombra_linha td.cabecalho_seguradora{padding:0;height:20px;}
+.comparativo-seguradoras .cabecalho_seguradora_header{background:#fff url(/static/images/2.jpg) repeat-x;border-top:none;border-bottom:none;text-align:left;width:235px;height:100px;}
+.comparativo-seguradoras .cabecalho_seguradora{background:#fff url(/static/images/2.jpg) repeat-x;border-top:none;border-bottom:none;text-align:left;height:100px;}
+.comparativo-seguradoras .cabecalho_seguradora .dados{float:right;width:120px;padding-top:28px;}
+.comparativo-seguradoras .grid-compare .linha_cinza .title, .comparativo-seguradoras .grid-compare .linha_branca .title{vertical-align:top;}
+.comparativo-seguradoras .grid-compare .linha_cinza .title span, .comparativo-seguradoras .grid-compare .linha_branca .title span{padding-top:10px;}
+.comparativo-seguradoras .cabecalho_seguradora .logo-seguradora{float:left;}
+.comparativo-seguradoras .cabecalho_tabela .ultima{background:transparent url(/static/images/4.jpg) no-repeat -236px 0px;width:4px;border:none!important;}
+.comparativo-seguradoras .espaco{width:4px;padding:0px;border-left:none;border-top:none;border-bottom:none;}
+.comparativo-seguradoras .espacoFinal{width:4px;padding:0px;border:none;}
+.comparativo-seguradoras .cabecalho_tabela .tipo_plano{padding:20px 0 0 10px;}
+.comparativo-seguradoras .cabecalho_seguradora img{padding:20px 0 0 10px;width:70px;}
+.comparativo-seguradoras .preco_comparativo p{width:auto;}
+.comparativo-seguradoras .cotacaoPreco, .comparativo-seguradoras .cotacaoPrecoCarregando, .comparativo-seguradoras{width:130px;}
+.comparativo-seguradoras .cotacaoPrecoCarregando{margin:0 0 0 -10px!important;}
+.comparativo-seguradoras .grid-compare .cotacaoPreco{font-size:0.8em;}
+.comparativo-seguradoras .lista_form_erro{font-size:1em;}
+.comparativo-seguradoras .loading-seguradora{float:left;}
+.comparativo-seguradoras .textoPrecoCarregando{margin:-42px 0 0 70px;text-align:left;float:left;}
+.comparativo-seguradoras tr{border-bottom:none;height:70px;}
+.comparativo-seguradoras tr.linha_1{height:60px;}
+.comparativo-seguradoras .linha_1 td{padding:0 0 15px!important;}
+.comparativo-seguradoras .cotacaoPreco .compar_sp02, .comparativo-seguradoras .cotacaoPreco .compar_sp03, .comparativo-seguradoras .cotacaoPreco .compar_sp03, .comparativo-seguradoras .cotacaoPreco .compar_sp05, .comparativo-seguradoras .cotacaoPreco .virg_preco{margin-right:0;}
+.comparativo-seguradoras .content-header{width:213px;margin:0 auto;padding:0 10px;}
+.comparativo-seguradoras .btn_fechar {float:left;}
+.container-dados-compra .btn_fechar {float:right;}
+.comparativo-seguradoras .btn_fechar a, .container-dados-compra .btn_fechar a{background:url("/static/images/lista-seguradoras/comparativo-seguradoras/comparativo-seguradoras-sprite.png") no-repeat scroll -199px -29px transparent;height:34px;width:82px;display:block;margin-bottom:15px;}
+.comparativo-seguradoras .btn_fechar a:hover, .container-dados-compra .btn_fechar a:hover{background-position:-199px -75px;}
+ .comparativo-seguradoras .btn_fechar a:active, .container-dados-compra .btn_fechar a:active{background-position:-199px -121px;}
+ .comparativo-seguradoras .btn_fechar a span, .container-dados-compra .btn_fechar a span{visibility:hidden;}
+
+
+.form div span.contador_mensagem, .form div span.contador_mensagemProposta{font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;color:#bbb;}
+.form div span.negativo{color:red;}
+
+
+
+
+.diferencial_txt, .diferencial_title{display:block;line-height:18px;margin-bottom:10px;}
+.diferencial_txt, .diferencial_ind{text-align:center;}
+.diferencial_ind{clear:both;}
+.diferencial_title, p.diferencial{text-align:left;}
+p.diferencial{margin-bottom:10px;}
+.diferencial_title.disponivel_sim, .diferencial_title.disponivel_nao, .diferencial_title.disponivel_depende{display:inline-block!important;padding:2px 0 0 25px;height:35px;}
+.disponivel_sim{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/comparativo-seguradoras-sprite.png) no-repeat -40px -280px;}
+.disponivel_nao{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/comparativo-seguradoras-sprite.png) no-repeat -40px -339px;}
+.disponivel_depende{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/comparativo-seguradoras-sprite.png) no-repeat -40px -399px;}
+
+
+#grid-comparativo-seguradoras{width:950px;margin:0 auto 40px;}
+#grid-comparativo-seguradoras table{border-spacing:0;border-collapse:collapse;}
+
+#grid-comparativo-seguradoras .pacote th.pacote, #grid-comparativo-seguradoras .pacote th.seguradora{border-top:1px solid #dddad7;padding:10px;}
+#grid-comparativo-seguradoras .pacote th.seguradora{border-left:1px solid #dddad7;}
+#grid-comparativo-seguradoras .pacote td.titulo, #grid-comparativo-seguradoras .pacote td.seguradora{border-bottom:1px solid #dddad7;padding:10px;}
+#grid-comparativo-seguradoras .pacote td.seguradora{border-left:1px solid #dddad7;}
+
+#grid-comparativo-seguradoras .pacote th.pacote, #grid-comparativo-seguradoras .pacote td.titulo{width:200px; color:#969696;}
+
+#grid-comparativo-seguradoras .pacote thead .seguradoras .first, #grid-comparativo-seguradoras .pacote thead .seguradoras .last{border-top:1px solid #dddad7;}
+#grid-comparativo-seguradoras .pacote thead .seguradoras .first, #grid-comparativo-seguradoras .pacote thead .seguradoras .last, #grid-comparativo-seguradoras .pacote tbody .first, #grid-comparativo-seguradoras .pacote tbody .last{width:6px;}
+#grid-comparativo-seguradoras .pacote thead th.pacote, #grid-comparativo-seguradoras .pacote thead th.seguradora{background:#f7f7f7 url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-header-bg.png) bottom repeat-x;}
+#grid-comparativo-seguradoras .pacote thead .seguradoras .first{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-header-left-solid.png) left bottom no-repeat;}
+#grid-comparativo-seguradoras .pacote thead .seguradoras .last{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-header-right-solid.png) right bottom no-repeat;}
+#grid-comparativo-seguradoras .jsCssFixedHeaderPlugin .pacote thead th.pacote, #grid-comparativo-seguradoras .jsCssFixedHeaderPlugin .pacote thead th.seguradora{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-header-bg.png) bottom repeat-x;}
+#grid-comparativo-seguradoras .pacote tbody tr.odd td{background:#fff;}
+#grid-comparativo-seguradoras .pacote tbody tr.even td{background:#f7f7f7;}
+#grid-comparativo-seguradoras .pacote tbody tr.odd .first{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-body-left.png) left top repeat-y;}
+#grid-comparativo-seguradoras .pacote tbody tr.even .first{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-body-odd-left.png) left top repeat-y;}
+#grid-comparativo-seguradoras .pacote tbody tr.odd .last{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-body-right.png) right top repeat-y;}
+#grid-comparativo-seguradoras .pacote tbody tr.even .last{background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/grid-comp-body-odd-right.png) right top repeat-y;}
+
+
+#grid-comparativo-seguradoras .pacote thead .seguradoras .pacote .nome-pacote{float:left;display:block;margin:-30px 0 0 0;}
+#grid-comparativo-seguradoras .pacote th.pacote{ text-align:left; padding-top:0;}
+#grid-comparativo-seguradoras .pacote th.pacote span {color:#eda512; font-size:2.2em; width:165px; display:block;}
+#grid-comparativo-seguradoras .pacote td.titulo a img {vertical-align:middle;}
+
+
+#grid-comparativo-seguradoras .pacote tbody{font-size:1.3em;}
+#grid-comparativo-seguradoras .pacote td.titulo, #grid-comparativo-seguradoras .pacote td.seguradora{vertical-align:top;}
+#grid-comparativo-seguradoras .pacote td.titulo a{color:#949494; border-bottom:1px dotted #64b01c;}
+#grid-comparativo-seguradoras .pacote td.seguradora{color:#949494;}
+
+#grid-comparativo-seguradoras .pacote td.seguradora .lista-beneficios{margin-bottom:10px;}
+#grid-comparativo-seguradoras .pacote td.seguradora .lista-beneficios li{text-align:left;padding-left:20px;background:transparent url(/static/images/lista-seguradoras/comparativo-seguradoras/comparativo-seguradoras-sprite.png) no-repeat -45px -454px;line-height:16px;margin-bottom:10px;}
+#grid-comparativo-seguradoras .pacote td.seguradora .lista-beneficios li.lista-beneficios-title{background:none;padding-left:0;}
+
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header{width:230px;margin:0 auto;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .logo-seguradora{float:left;margin-right:0;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao{width:130px;float:right;font-weight:normal;margin-top:5px;height:105px!important;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco{padding:0!important;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco, #grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoCarregando, #grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoIndisponivel{height:auto!important;margin:0 auto;width:363px;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco p{width:130px;text-align:left;float:left;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .sp01{display:block;color:#7F7F7F;font-size:1.1em;margin:0;text-align:left;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .sp02, #grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .sp03, #grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .sp05, #grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .virg_preco{color:#D99B22;font-family:Helvetica,Arial,sans-serif;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .sp02{display:block;float:left;font-size:1.2em;line-height:2.2em;margin-right:5px;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .sp03{font-size:2.6em;letter-spacing:-2px;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .virg_preco, #grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .sp05{font-size:1.3em;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .cotacaoFranquia{display:block;text-align:left;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .cotacaoFranquia .sp01{margin-right:5px;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .cotacaoFranquia .sp01, #grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPreco .cotacaoFranquia .sp05{float:left;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoCarregando{padding:0;width:56px;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoCarregando .loading-seguradora{background-image:transparent url("/static/images/lista-seguradoras/loading-gauge.png") no-repeat;height:56px;line-height:0;width:56px;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoCarregando .textoPrecoCarregando{color:#7F7F7F;text-align:center;width:63px;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoOffline{padding:15px 0 0 0;position:relative;text-align:center;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoOffline .tooltip_erro{background:transparent url("/static/images/lista-seguradoras/tooltip_erro01.png") no-repeat;left:-30px;padding-top:12px;position:absolute;top:72px;width:184px;z-index:2;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoOffline .lista_form_erro{color:#7F7F7F;font-size:1.1em;margin:0 auto;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoOffline .lista_form_erro a{color:#AC8202;text-decoration:underline;}
+#grid-comparativo-seguradoras .pacote th.seguradora .content-header .dados.appcotacao .cotacaoPrecoOffline .calculo_erro{float:right;}
+
+
+.cotacaoPrecoIndisponivel{width:377px;background:transparent url(/static/images/lista-seguradoras/listaseguradoras-sprite.png) no-repeat -10px -1105px;margin:14px 10px 0 0;float:right;}
+.cotacaoPrecoIndisponivel h4{color:#575757;font-size:1.2em;line-height:18px;margin:15px 0px 0 15px;text-align:left;float:left;}
+
+#grid-comparativo-seguradoras .seguradora {display:none;}
+.stateComparativoSeguradora_allianz #grid-comparativo-seguradoras .seguradora_allianz {display:table-cell;}
+.stateComparativoSeguradora_bradesco #grid-comparativo-seguradoras .seguradora_bradesco {display:table-cell;}
+.stateComparativoSeguradora_tokio #grid-comparativo-seguradoras .seguradora_tokio {display:table-cell;}
+.stateComparativoSeguradora_tokiomensal #grid-comparativo-seguradoras .seguradora_tokiomensal {display:table-cell;}
+.stateComparativoSeguradora_hdi #grid-comparativo-seguradoras .seguradora_hdi {display:table-cell;}
+.stateComparativoSeguradora_liberty #grid-comparativo-seguradoras .seguradora_liberty {display:table-cell;}
+.stateComparativoSeguradora_zurich #grid-comparativo-seguradoras .seguradora_zurich {display:table-cell;}
+.stateComparativoSeguradora_cardif #grid-comparativo-seguradoras .seguradora_cardif {display:table-cell;}
+.stateComparativoSeguradora_sompo #grid-comparativo-seguradoras .seguradora_sompo {display:table-cell;}
+.stateComparativoSeguradora_sulamerica #grid-comparativo-seguradoras .seguradora_sulamerica {display:table-cell;}
+
+
+.catalogo{font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;}
+.catalogo .lista-fabricantes{margin-left:-20px;}
+.catalogo .lista-fabricantes li{float:left;width:172px;height:120px;background:#fff;border:1px solid #dddad7;margin:0 0 20px 20px;text-align:center;}
+.catalogo .lista-fabricantes li:hover{border:1px solid #39434D;}
+.catalogo .lista-fabricantes li a img{width:110px;height:110px;margin-top:5px;}
+.catalogo .title{clear:both;}
+.catalogo h3{font-size:3em;color:#39434D;margin-bottom:10px;float:left;text-transform:capitalize!important;}
+.catalogo h4{color:#676666;font-size:1.4em;display:block;border-bottom:1px solid #f1f1f1;padding-bottom:5px;font-weight:600;}
+.catalogo .lnk-geral{color:#d99b22;text-decoration:underline;font-size:1.2em;border-bottom:none;}
+.catalogo .title .lnk-geral{float:left;margin:18px 10px 10px;}
+.catalogo .content{width:670px;background:white;border:1px solid #DDDAD7;padding:15px 10px;float:left;}
+.catalogo .content .veiculos-modelos li{float:left;width:49%;border:1px solid #fff;}
+.catalogo .content .veiculos-modelos li a{padding:10px 15px;display:block;font-size:1.2em;color:#575757;}
+.catalogo .content .veiculos-modelos li:hover{background:#fbfbfb;border:1px solid #f2f2f2;}
+.catalogo .catalogo-tools{float:right;width:220px;margin-right:20px;}
+.catalogo .catalogo-tools .montadora{background:white;border:1px solid #DDDAD7;padding:5px;margin-bottom:20px;}
+.catalogo .catalogo-tools .montadora a{float:left;}
+.catalogo .estatisticas{margin-bottom:40px;float:left;width:100%;}
+.catalogo .estatisticas span{color:#575757;font-size:1.4em;display:block;}
+.catalogo .estatisticas .estatisticas-preco, .catalogo .modelo-txt{font-size:2em;font-weight:600;color:#575757;}
+.catalogo .catalogo-tools .montadora a.lnk-geral{margin-top:40px;}
+.catalogo .modelo-combustivel{background:#f9f9f9;border-bottom:1px solid #dddad7;margin:-15px -10px 40px;padding:10px;}
+
+.jsTemplate {display:none;}
+#jsIframeAddwords {border:none;width:1px;height:1px;}
+
+
+
+div.tooltip_imagens {width:705px; box-shadow:none; border-radius: 10px 10px 10px 10px; border: 6px solid #dddcdc;padding:15px;}
+div.tooltip_imagens img{border: 1px dotted #868686; padding:2px;}
+div.tooltip_imagens h4{color:#82ab66; font-size:1.2em; margin-top: 18px; font-weight:bold; }
+div.tooltip_imagens p{color:#747272; margin:7px 0 0 12px;padding:0px;}
+a.link-ci{color:#AC8202; text-decoration:underline; margin-top:10px; display:block; width:400px;}
+a.link-ci img{margin-right:6px; display:inline;}
+div.tooltip_imagens.renavam{width:583px!important;}
+div.tooltip_imagens.renavam p{margin:7px 0 0 0px;}
+
+
+
+
+.area-cliente .sem-margin{margin:0px!important;}
+.area-cliente a {color:#AF8902;}
+.area-cliente h2{font-size:2.6em;color:#575757;background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat -4px -5px; width:300px; height:41px; padding:10px 0 0 66px;}
+p.txt-bemvindo{font-size:1.2em; color:#71706c; margin-bottom:32px;}
+p.txt-bemvindo span {font-weight:bold;}
+.area-cliente .col-esq {width:204px; float:left;}
+.area-cliente h3 {font-weight: bold; color:#818181; font-size:1.5em; letter-spacing:-1px; margin-bottom:4px;}
+.area-cliente h3.borda{border-top:1px solid #fff;padding-top: 8px;}
+.area-cliente ul.menu-lateral li{font-size:1.5em; border-bottom:1px solid #e4dadb; width:204px;}
+.area-cliente ul.menu-lateral li.active a {background:transparent url(/static/images/area-cliente/setinha.png) right no-repeat; }
+.area-cliente ul.menu-lateral li a {padding:10px 0 10px 38px;width:166px;display:block; color:#7C9B62; margin-left:1px;}
+.area-cliente ul.menu-lateral li a:hover {background:#eaeaea url(/static/images/area-cliente/setinha.png) right no-repeat; color:#61794D;}
+.area-cliente .col-esq {position:relative;}
+
+
+.area-cliente .col-esq h4 {color: #71706C; font-size: 2.3em; border-top:1px solid #fff; padding-top:33px; font-weight:normal;}
+.area-cliente .col-dir {width:714px; float:right; background:#fff;border:1px solid #dddad7; padding:15px;}
+.area-cliente h4{color:#737374;font-size:1.6em; font-weight:bold;}
+.area-cliente h5{margin:0;background:#edf9e5 url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat 13px -53px; color:#57931b;font-size:1.3em;border:1px solid #d5e4cb;border-top-left-radius:5px; border-top-right-radius:5px; font-weight:bold;padding:13px 0 0 57px; height:30px;}
+.area-cliente .cot{margin-bottom:10px; background:#fff; padding:18px; border:1px solid #d5e4cb;border-bottom-left-radius:5px; border-bottom-right-radius:5px;border-top:none;}
+.area-cliente .dados-esq, .area-cliente .dados-dir{float:left; width:257px; margin-top: 3px;}
+.area-cliente .dados-dir {margin:32px 0 0 40px;}
+.area-cliente .cot p {font-size:1.2em; color:#71706c; margin-bottom:15px;}
+.area-cliente .cot p span{font-weight:bold;}
+.area-cliente .acoes {float:right; width:117px; margin:0 auto;}
+.area-cliente .acoes a.link-excluir {margin-left:23px; display:block;}
+.area-cliente a.link-excluir:hover{text-decoration:underline;}
+
+
+.area-cliente .btn-calcular a {background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat -4px -107px; width:170px; height:38px; display:block;}
+.area-cliente .btn-calcular a:hover{background-position:-4px -155px;}
+.area-cliente .btn-calcular a:active{background-position:-4px -203px;}
+.area-cliente .btn-calcular a span, .area-cliente .btn-ver-preco span, .area-cliente .btn-editar-cot a span {visibility:hidden;}
+.area-cliente .btn-ver-preco a {background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat -210px -107px; width:117px; height:30px; display:block;}
+.area-cliente .btn-ver-preco a:hover{background-position:-210px -147px;}
+.area-cliente .btn-ver-preco a:active{background-position:-210px -187px;}
+.area-cliente .btn-editar-cot a {background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat  -354px -107px; width:117px; height:30px; display:block; margin:7px 0 7px 0;}
+.area-cliente .btn-editar-cot a:hover{background-position: -354px -147px;}
+.area-cliente .btn-editar-cot a:active{background-position: -354px -187px;}
+
+
+.area-cliente .detalhe-borda {border:1px solid #eaeaea; border-radius: 5px; margin-bottom:10px;}
+.area-cliente .pedido {background:#fcfcfc; border:1px solid #fff; padding:10px; }
+.area-cliente .pedido p {float:left; margin-right:30px; color:#3b3b3b; font-size:1.2em;}
+.area-cliente .pedido span {color:#71706c;}
+.area-cliente .pedido p.status {width:85px;}
+.area-cliente .pedido p.veiculo {width:115px;}
+.area-cliente .pedido a.exibir, .area-cliente .pedido a.ocultar{font-size:1.1em; background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat -6px -287px; width:15px; height:14px; }
+.area-cliente .pedido a.exibir {padding:1px 0 0 18px;font-size:1.1em; background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat -6px -287px; width:15px; height:14px; }
+.area-cliente .pedido a.ocultar {padding:1px 0 0 18px;font-size:1.1em; background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat -6px -259px; width:15px; height:14px; }
+.area-cliente .pedido a:hover {text-decoration:underline;}
+
+
+.area-cliente .pedido.aberto{background:#f3fbee;}
+.area-cliente .conteudo-abas {font-size:1.2em;color:#71706c;background:#fff; padding:20px; border:1px solid #d5e5cb; border-radius: 3px; -webkit-border-radius: 3px;}
+.area-cliente  span.texto-destaque{font-size:1.3em; font-weight:bold; letter-spacing:-1px;  margin-bottom: 20px; display:block;}
+.area-cliente .conteudo-abas ul.sub-status li {border-bottom:1px solid #e8e8e8; padding:8px 0 8px 0;}
+.area-cliente .conteudo-abas ul.sub-status li.sem-borda {border-bottom:none;}
+.area-cliente .conteudo-abas .ico_tooltip img{margin:0 0 -3px 4px!important;}
+.area-cliente .conteudo-abas .status-retransm {margin-left:91px;}
+
+
+
+.area-cliente ul.abas {position:relative; margin-top:60px; clear:both; position:relative; bottom:-1px;}
+.area-cliente ul.abas li {-moz-border-top-left-radius: 6px; border-radius: 3px;  -webkit-border-radius: 3px;}
+.area-cliente ul.abas li.desabilitado {border:1px solid #d5e5cb; float:left; font-size: 1.3em; display:block; -webkit-border-radius: 3px;border-radius: 3px;margin-top:6px;}
+.area-cliente ul.abas li.desabilitado a {display:block; background: #e0ebd9;padding: 5px 25px 7px; color:#57931b; -webkit-border-radius: 3px;border-radius: 3px;}
+.area-cliente ul.abas li.desabilitado a:hover{background:#e9f2e3; text-decoration:none;}
+.area-cliente ul.abas li.habilitado { font-weight: bold;  border: 1px solid #D5E5CB; float: left; font-size: 1.5em; display:block;border-top: 3px solid #57931b!important; color:#629a2a; border-top: 3px solid #e7c175; border-bottom:none; }
+.area-cliente ul.abas li.habilitado a {display:block; background: #fff;padding:5px 40px 10px; color:#629a2a;text-decoration:none!important; }
+
+
+
+
+.area-cliente ul.status{position:relative;background:transparent url(/static/images/area-cliente/area-cliente-sprite.png) no-repeat -5px -385px; width:619px; height:24px; margin:35px 0 35px 24px; }
+.area-cliente ul.status li{position:relative; width:100px; text-align:center; }
+.area-cliente ul.status li a {font-size:1em; position:absolute;}
+.area-cliente ul.status li a.primeiro {top:-37px; left:-33px; width:100px;}
+.area-cliente ul.status li a.segundo {top:-37px; left:228px; width:159px;}
+.area-cliente ul.status li a.terceiro {top:-37px; left:581px; width:53px;}
+
+
+.area-cliente ul.status li.inativo a {color:#b1b0ae; }
+.area-cliente ul.status li.habilitado a{font-weight:bold; color:#af8300;}
+.area-cliente ul.status li.segundo.habilitado a{font-weight:bold; color:#af8300;}
+
+.area-cliente ul.status.aceitacao-concluida{background-position:-5px -446px;}
+.area-cliente ul.status.apolice-emitida{background-position:-5px -505px;}@charset "utf-8";
+
+
+
+
+
+.form *{padding:0;margin:0;list-style:none;border:none;font-size:100%;}
+
+
+.form fieldset{position:relative;height:100%;}
+
+
+.grid-1-12, .grid-2-12, .grid-3-12, .grid-4-12, .grid-5-12, .grid-6-12, .grid-7-12, .grid-8-12, .grid-9-12, .grid-10-12, .grid-11-12, .grid-12-12{display:inline;float:left;padding:1.5% 1.5% 1.5%;height:100%;margin-bottom:1.5%;*margin-left:.8%;*margin-right:.8%;*padding:0.5% 0.25% 0.8%;}
+
+
+.grid-1-12{width:5.333%;}
+.grid-2-12{width:13.666%;}
+.grid-3-12{width:22%;}
+.grid-4-12{width:30.333%;}
+.grid-5-12{width:38.666%;}
+.grid-6-12{width:47%;}
+.grid-7-12{width:55.333%;}
+.grid-8-12{width:63.666%;}
+.grid-9-12{width:72%;}
+.grid-10-12{width:80.333%;}
+.grid-11-12{width:88.666%;}
+.grid-12-12{width:97%;}
+
+ .alpha{margin-left:0;}
+ .omega{margin-right:0;}
+ .field-clear{clear:both!important;}
+
+
+.form input, .form label, .form img, .form select{vertical-align:middle;}
+.form label{display:block;height:auto;margin:0.2em 0 0.5em;line-height:1.2em;}
+.form #dv_emissoresCartaoDeCredito label{display: inline; margin-left: 0.2em; line-height: 25px;}
+.form #dv_emissoresCartaoDeCredito input{margin-left: 0.6em;}
+.form #dv_emissoresCartaoDeCredito input.ultimo{margin-bottom: 1.5%;}
+.form label.result{font-weight:normal;}
+.form_especifico label{display:inline;}
+.form_especifico .label-ajuda{padding-bottom:3px;}
+.form div label span{color:#000;text-shadow:0.05em 0.01em #e1e1e1;text-decoration:none;font-size:1.1em;}
+.form-list-chk label, .form ul label{display:inline;height:auto;margin:0.5em 0 0.8em 2px;}
+.form-req{position:relative;top:3px;}
+.form-msg-info, .form-msg-warning, .form-msg-error, .form-msg-success{padding:6px 10px 5px;display:block;height:auto;margin:-0.3em 0 0.5em;}
+.form .form-txt, .form textarea, .form select{display:block;width:100%;padding:0.6em 9px;border:1px solid #999;box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-webkit-box-sizing:border-box;-khtml-box-sizing:border-box;*width:99%;resize:none!important;}
+.form_especifico .form select{width:auto;padding:10px 0 0 12px;border:0px solid #999;font-size:1.3em;}
+.form textarea{	height:4em;}
+.form select{padding:4px;}
+
+
+.form-button{padding:4px 6px;cursor:pointer;text-align:center;float:left;margin-left:0.3em;display:inline;}
+.form-no-lbl{padding-top:35px;}
+
+
+.form-readonly, input[readonly]{border:none;font-weight:normal;padding-left:0;background:none;font-size:1.2em;color:#878787;}
+
+
+.form-left{float:left;margin-right:0.3em;clear:none;}
+.form-right{float:right;margin-left:0.3em;clear:none;}
+
+
+.form-list-chk, .form ul{height:100%;}
+.form-list-chk li, .form ul li{margin:0.5em 0.6em 0.2em;float:left;display:inline;list-style:none;}
+.form-list-chk input, .form ul li input{margin-right:0.2em}
+.form ul li label{color:#878787;font-weight:normal}
+
+
+.form-small{width:30% !important;float:left;margin-right:10px;display:inline;*width:25% !important;}
+.form-xsmall{width:22% !important;float:left;margin-right:10px;display:inline;*width:16% !important;}
+
+.form-civil{width:70%!important;}
+.form-medium{width:50% !important;float:left;margin-right:10px;display:inline;}
+
+.form-age{width:50px !important;float:left;margin-right:10px;display:inline;}
+.form-date{width:80px !important;float:left;margin-right:10px;display:inline;}
+.form-time{width:60px !important;float:left;margin-right:10px;display:inline;}
+.form-date-day, .form-date-year{width:40px !important;float:left;margin-right:10px;display:inline;}
+.form-date-month{width:60px !important;float:left;margin-right:10px;display:inline;}
+
+
+div:after, ol:after, form:after, dl:after, ul:after{content:".";display:block;clear:both;visibility:hidden;height:0;overflow:hidden;}
+@charset "utf-8";
+
+
+
+
+
+.form div span{color:#878787}
+
+
+.form label{font-size:1.3em;color:#666;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;}
+.form label.variables{line-height:normal;}
+.form label.variables span{font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;font-size:1em;color:#7C9B62;}
+.form ul li.variables label{font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;font-size:1.2em;color:#7C9B62 ;font-weight:bold;}
+
+.form-req{font-weight:bold;font-style:normal;color:#d10000;font-size:1.3em;}
+.form select{border-color:#c1c1c1;background:url(/static/images/layout/form-padrao/bg-input.png) bottom repeat-x;color:#484848;font-size:1.3em;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;padding:0.6em 9px;}
+
+.form .form-txt, .form textarea{border-color:#c1c1c1;color:#484848;font-size:1.3em;font-family:"Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;background:#FFF url(/static/images/layout/form-padrao/bg-input.png) top repeat-x}
+.form .form-txt:focus, .form textarea:focus, .form select:focus{background-color:#F9FFE5;border:1px solid #79AD90}
+.form .form-erro input.form-txt, .form .form-erro textarea{border:1px solid #B33640;}
+.form .form-sucesso input.form-txt, .form .form-sucesso textarea{border:1px solid #8EC533;}
+
+.form-erro{background:#fcf3f4!important;}
+.form-msg-parent .form-msg{display:none;*margin-top:0px;}
+.form .form-erro .form-msg{clear:both;color:#B33640;font-weight:bold;font-size:1.1em;float:left;padding-top:5px;}
+.form .form-erro .form-msg.msg-ci-erro, .form .form-erro .form-msg.msg-renavam-erro{float:none;}
+.form .form-sucesso .form-msg{clear:both;color:#8EC533;font-weight:bold;font-size:1.2em;float:left;padding-top:5px;}
+
+.form-erro-geral{background:none repeat scroll 0 0 #fcf3f4;border:1px solid #B33640;color:#B33640;float:left;margin-bottom:15px;padding:18px;width:583px;font-size:1.3em;display:none;}
+.form-erro-geral ul{list-style-type:disc;list-style-type:none\0;*list-style-type:disc;list-style-position:inside;}
+.form-erro-geral h5{font-size:1.1em;margin:0;margin-bottom:10px;}
+
+.frame-erro{height:205px;position:relative;}
+.form_especifico .form-erro-geral{float:none;margin:0;width:531px;z-index:100;height:70px;overflow-y:auto;}
+.form_especifico .form-erro-geral a{text-decoration:underline;color:#B33640;}
+
+
+.form-button{font-size:1.2em;background:#235485;color:#fff;}
+.form-button:hover{background:#666;}@charset "utf-8";
+
+
+.jsCssFixedHeaderPlugin{overflow-y:hidden;display:none;position:fixed;top:0;z-index:6666;}
+
+/*--- Form start ---*/
+.call-title {
+	   font-size: 25px;
+    margin-top: 20px;
+	    color: #979797;
+    font-weight: bold;
+	} 
+.lead {
+	    margin-top: 10px;
+    font-size: 20px;
+    color: #575757;
+	margin-bottom: 10px;
+}
+.fabricantes li {
+    list-style: none;
+    float: left;
+    width: 23%;
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: center;
+    margin-left: 1%;
+    margin-right: 1%;
+	border: 1px solid #333333;
+	margin-top: 10px;
+	cursor: pointer;
+}
+.fabricantes li img {
+    max-width: 100%;
+	cursor: pointer;
+}
+.fabricantes input[type="radio"] {
+    visibility: hidden;
+    position: absolute;
+}
+
+.post-banner .button {
+    background: #8dd917;
+    background: -moz-linear-gradient(top, #8dd917 0%, #579e34 100%);
+    background: -webkit-linear-gradient(top, #8dd917 0%,#579e34 100%);
+    background: linear-gradient(to bottom, #8dd917 0%,#579e34 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8dd917', endColorstr='#579e34',GradientType=0 );
+    color: white;
+    font-size: 25px;
+    border: 0;
+    padding: 15px;
+    font-weight: 700;
+    border-radius: 10px;
+        margin-bottom: 20px;
+    -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,0.5);
+    box-shadow: 0 0 4px 1px rgba(0,0,0,0.5);
+	float: right;
+    margin-top: 30px;
+	font-family: "alwyn-new-web-n5", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.atalho-atendimento {
+	display: none !important;
+}
+
+@media (max-width: 768px) {
+  .body-content {
+  max-width:100%;
+  }
+  .rodape {
+  max-width:100%;
+  }
+  .container {
+	min-width: 0 !important;
+	  max-width: none;
+	  width:auto!important;
+}
+.video-center-default {
+display:none;
+}
+.logo.compacto{
+display:none !important;
+}
+.cabecalho .social {
+display:none !important;
+}
+	.cabecalho.affix .menubar {
+    float: none !important;
+    margin: 0 auto !important;
+    text-align: center;
+}
+	
+	.simular-agora {
+		float:none !important;
+	}
+#carousel main {
+    right: 0 !important;
+    width: 100% !important;
+    margin-top: 65px;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    position:relative !important;
+}
+.banner-principal {
+display:none !important;
+}
+#carousel main .btn-primary {
+ position:relative !important;
+	    left: 0 !important;
+}
+	.rodape > .links {
+		height:auto;
+	}
+	
+	.seguradoras-parceiras {
+		display:none;
+	}
+	
+	.cabecalho .logo {
+    width: 150px !important;
+}
+	section.sobre-o-smartia > h1 {
+    font-size: 30px !important;
+    text-align: center;
+}
+	.vantagens .col-xs-4{
+		    width: auto !important;
+    text-align: left !important;
+	}	
+	
+	.vantagens .segunda-coluna {
+    margin-left: auto !important;
+}
+	.vantagens ul {
+    width: 90% !important;
+		text-align: left !important;
+}
+	.bullets li {
+    list-style-type: none;
+    height: auto  !important;
+    margin-bottom: 5px !important;
+    line-height: 1.5 !important;
+    padding-top: 0 !important;
+}
+	.cobertura-atendimento {
+		display: none;
+	}
+	.como-funciona {
+		display: none;
+	}
+	.rodape {
+    height: auto !important;
+}
+.col-xs-4 {
+    width: auto !important;
+}
+	.col-xs-7 {
+    width: auto !important;
+}
+	.col-xs-6 {
+    width: auto !important;
+}
+	.relacionados .carousel-inner {
+    height: auto !important;
+}
+	.carousel-indicators {
+		display: none;
+	}
+	.depoimentos {
+    display: none;
+}
+	
+	.novo-header .novo-logo {
+		width: 150px !important;
+	}
+	.novo-menus {
+		width:auto!important;
+		margin-top: -45px;
+	}
+	.novo-menubar .social {
+		display: none !important;
+	}
+	.novo-header .row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+	.progress-bar {
+		display: none;
+	}
+	.form_header h2 {
+		display: none !important;
+	}
+	.rodape .row {
+		width:auto!important;
+	}
+	.rodape .links {
+		height: auto !important;
+	}
+	.rodape .imagens {
+		width:auto!important;
+		height:auto !important;
+	}
+	.rodape .col-md-12 {
+		width:auto!important;
+		height:auto !important;
+	}
+	.rodape .copyrights {
+		height: auto !important;
+	}
+	.form_padrao {
+		width:100% !important;
+	}
+	.call-title {
+		    font-size: 22px !important;
+    text-align: center !important;
+	}
+	.lead {
+		text-align: center;
+	}
+	.post-banner .button {
+
+	}
+}

@@ -1,0 +1,548 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="pt-BR" xmlns="http://www.w3.org/1999/xhtml"><!-- Mirrored from localhost:8880/seguro-auto/simulacao-preco/veiculo by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Nov 2017 17:27:59 GMT --><!-- Added by HTTrack --><!-- /Added by HTTrack -->
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- httrack / httrack3 / windows98 / windows /  --><meta name="format-detection" content="telephone=no"><!--[if lte IE 7]>
+	<script>window.location.href='/atualize-seu-navegador';</script>
+	<![endif]-->
+	<title>Smartia Seguros Online</title>
+	<meta name="author" content="Smartia" /><meta name="description" content="Economize no seguro do seu carro na Smartia, calcule em v&aacute;rias seguradoras e compre na hora." /><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" /><!-- Favicons and touch icons --><!-- For retina-display iPads -->
+	<link href="../../resources/v3/images/common/iphone_retina_114x114.png" rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png" /><!-- For retina-display iPhones -->
+	<link href="../../resources/v3/images/common/iphone_retina_114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png" /><!-- For iPad 1 -->
+	<link href="../../resources/v3/images/common/ipad_72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png" /><!-- For iPhone 3G, iPod Touch and Android -->
+	<link href="../../resources/v3/images/common/iphone_57x57.png" rel="apple-touch-icon-precomposed" type="image/png" /><!-- For Nokia 
+	<link rel="shortcut icon" type="image/png" href="/resources/v3/images/common/iphone_57x57.png" />
+	<link rel="icon" type="image/png" href="/resources/v3/images/common/64x64.png" />
+	-->
+	<link href="../../resources/v3/images/common/favicon" rel="shortcut icon" /><!-- Site theme --><script type="text/javascript">
+		window.idSessaoSmartia = "S171121EJY29J1XAY3AXA59HX5X";
+		window.baseURL = "/";
+		window.base = "";
+		window.revNumber = "LOCAL_1511284763132";
+	</script><!--[if lte IE 8]>
+	  <script src="/resources/scripts/v3-old-ie.js"></script>
+	<![endif]-->
+	<link href="../../static/styles/headerdc5c.css?rev=LOCAL_1511284763132" rel="stylesheet" type="text/css" /><script type="text/javascript" src="../../static/scripts/headerdc5c.js?rev=LOCAL_1511284763132" ></script>
+	<link href="../../static/styles/formdc5c.css?rev=LOCAL_1511284763132" rel="stylesheet" type="text/css" /><script type="text/javascript" src="../../static/scripts/formdc5c.js?rev=LOCAL_1511284763132" ></script>
+	<link href="../../resources/styles/legacydc5c.css?rev=LOCAL_1511284763132" rel="stylesheet" type="text/css" /><!--[if gte IE 9]>
+	<script type="text/javascript"> 
+		Cufon.set('engine', 'canvas'); 
+	</script> 
+	<![endif]--><script type="text/javascript">
+		Cufon.replace('');
+		Cufon.replace('-2');
+		$(document).ready(function() {
+			$('.cufon:not(.revision_number)').show();
+			$('.jsMenuSmartia').show();
+		});
+	</script><!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/static/styles/ie7.css?rev=LOCAL_1511284763132" >
+	<![endif]--><!--[if IE 8]>
+		<link rel="stylesheet" type="text/css" href="/static/styles/ie8.css?rev=LOCAL_1511284763132" >
+	<![endif]--><!-- Verifica se plugin possui banner -->
+</head>
+<body onunload=""><!-- ClickTale Top part --><script type="text/javascript">
+		var WRInitTime=(new Date()).getTime();
+	</script><!-- ClickTale end of Top part --><noscript><iframe src="http://www.googletagmanager.com/ns?id=GTM-WXLWLP"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WXLWLP');</script>
+<div id="bg_placaChassi"></div>
+
+<div id="bg_Modal"></div>
+
+<div class="modal curvyRedraw display_none" id="atendimento"><a class="ico_fechar jsAtendimentoFechar" title="Fechar Janela"><img alt="Fechar Janela" height="15" src="../../static/images/ico_fechar.png" width="15" /></a>
+
+<div class="conteudo-modal">
+<h3>Servi&ccedil;o de atendimento ao consumidor</h3>
+
+<div class="numeros-telefones">
+<p class="mensagem">Atrav&eacute;s de nosso Atendimento voc&ecirc; pode comprar um seguro novo, fazer uma renova&ccedil;&atilde;o ou endosso, tirar d&uacute;vidas e acionar seu seguro.</p>
+
+<ul>
+	<li>
+	<p><span>4003 3460 *</span></p>
+	</li>
+</ul>
+
+<p class="atendimento">Atendimento de segunda a sexta das 08h20 &agrave;s 21h00.</p>
+
+<p class="tarifas">* Liga&ccedil;&otilde;es para o servi&ccedil;o 4003 tem custo de uma liga&ccedil;&atilde;o local.</p>
+</div>
+</div>
+</div>
+
+<div class="body-content">
+<div class="novo-header-wrapper">
+<div class="novo-header">
+<div class="container">
+<div class="row">
+<div class="col-md-12 col-sm-12 col-xs-12"><a href="/"><img alt="Smartia Seguros Online" class="novo-logo" src="../../resources/v3/images/common/logo.png" /></a>
+
+<div class="novo-menus">
+<div class="novo-atalhos">
+<div class="build-number">LOCAL</div>
+
+<ul class="novo-nav nav-pills">
+	<li class="blog"><a href="../../blog">Blog</a></li>
+	<li class="atalho-atendimento"><a data-toggle="modal" href="#modalAtendimento" id="atendimentoSmartia" role="button"><span class="texto">&nbsp;</span><!--  <span class="sprite-header atend-fone ir">0800 Smartia</span> -->Atendimento</a></li>
+</ul>
+</div>
+
+<div class="novo-menubar">
+<ul class="novo-nav nav-pills menuitens">
+	<li class="dropdown menu-produtos"><a data-hover="dropdown" href="javascript:void(0);" id="dropProdutos" role="button">Produtos </a>
+
+	<ul aria-labelledby="dropProdutos" class="dropdown-menu" id="menuProdutos" role="menu">
+		<li role="presentation"><a href="veiculo" role="menuitem" tabindex="-1">Seguro Autom&oacute;vel</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../seguro-caminhao" role="menuitem" tabindex="-1">Seguro Caminh&atilde;o</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../seguro-taxi" role="menuitem" tabindex="-1">Seguro T&aacute;xi</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../seguro-frota" role="menuitem" tabindex="-1">Seguro Frota</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../seguro-empresa" role="menuitem" tabindex="-1">Seguro Empresa</a></li>
+	</ul>
+	</li>
+	<li class="dropdown menu-como-funciona"><a data-hover="dropdown" href="javascript:void(0);" id="dropComoFunciona" role="button">Como funciona </a>
+	<ul aria-labelledby="dropComoFunciona" class="dropdown-menu" id="menuComoFunciona" role="menu">
+		<li role="presentation"><a href="../../como-funciona-seguro-online" role="menuitem" tabindex="-1">Seguro online</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../seguradoras" role="menuitem" tabindex="-1">Seguradoras</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../como-acionar-seu-seguro" role="menuitem" tabindex="-1">Acionando seu seguro</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../perguntas-frequentes" role="menuitem" tabindex="-1">Perguntas frequentes</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../dicionario-de-seguros" role="menuitem" tabindex="-1">Dicion&aacute;rio de seguros</a></li>
+	</ul>
+	</li>
+	<li class="dropdown menu-sobre-a-smartia"><a data-hover="dropdown" href="javascript:void(0);" id="dropSobreASmartia" role="button">Sobre a smartia </a>
+	<ul aria-labelledby="dropSobreASmartia" class="dropdown-menu" id="menuSobreSmartia" role="menu">
+		<li role="presentation"><a href="../../quem-somos" role="menuitem" tabindex="-1">Quem somos</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../depoimentos" role="menuitem" tabindex="-1">Depoimentos</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../sala-de-imprensa" role="menuitem" tabindex="-1">Sala de imprensa</a></li>
+	</ul>
+	</li>
+	<li class="dropdown menu-contato"><a data-hover="dropdown" href="javascript:void(0);" id="dropContato" role="button">Contato </a>
+	<ul aria-labelledby="dropContato" class="dropdown-menu" id="menuContato" role="menu">
+		<li role="presentation"><a href="../../fale-conosco" role="menuitem" tabindex="-1">Fale conosco</a></li>
+		<li class="divider" role="presentation"></li>
+		<li role="presentation"><a href="../../trabalhe-conosco" role="menuitem" tabindex="-1">Trabalhe conosco</a></li>
+	</ul>
+	</li>
+	<li class="simular-agora"><a class="btn btn-primary" href="veiculo">Simule seu Seguro Auto </a></li>
+	<li class="social">
+	<div class="google"><g:plusone annotation="none" size="medium"></g:plusone></div>
+
+	<div class="facebook">
+	<div class="fb-wrapper">
+	<div class="fb-like" data-action="like" data-font="tahoma" data-href="https://www.facebook.com/SmartiaSeguros" data-layout="button_count" data-send="false" data-show-faces="false" data-width="30"></div>
+	</div>
+	</div>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="content"><script type="text/javascript">
+window.formCalculoAnterior = {"formPadrao":{"versaoParametros":null,"versaoFormulario":"d53b42de3be9dd20e7e9e1ec594e8e61965d8490","parceiro":null,"recalcular":null,"leadBF":null,"interno":{"seguradorasPemitidas":null,"veiculoSeguradora":null,"desabilitarAlteracaoCotacao":null,"contrato":null,"agencia":null,"comissao":null,"cesta":null},"veiculo":{"jaPossuiVeiculo":null,"tabelaFipe":null,"placa":null,"chassi":null,"quilometragemMensal":null,"antifurto":null,"antifurtoEmComodato":null,"modelo":null,"descricaoFipe":null,"descricaoModelo":null,"descricaoFabricante":null,"descricao":null,"anoFabricacao":null,"anoModelo":null,"numeroPassageiros":null,"zeroKm":null,"combustivel":null,"kitGas":null,"chassiRemarcado":null,"cepRisco":null,"cepCirculacaoIgualPernoite":null,"cepCirculacao":null,"enderecoCepRisco":null,"idVeiculo":null,"ficaGaragemResidencia":null,"ficaGaragemTrabalho":null,"ficaGaragemEstudo":null,"uso":null,"alienadoFinanciado":null},"condutorPrincipal":{"nome":null,"sexo":null,"dataNascimento":null,"estadoCivil":null,"cpf":null,"tempoHabilitacao":null,"possuiDependentesEntre17e25anos":null,"sexoResidentes":null,"sexoDependenteMaisNovo":null,"faixaEtariaDependenteMaisNovo":null,"possuiResidentesEntre17e25anos":null,"residenteProprietarioVeiculo":null,"sexoResidenteMaisNovo":null,"faixaEtariaResidenteMaisNovo":null,"quantidadeDeVeiculos":null,"vitimaRoubo24Meses":null,"coberturaOutrosCondutores":null,"algumOutroCondutorEhMaisJovemQuePrincipal":null,"algumOutroCondutorTemAte25Anos":null,"atividadeCondutor":null,"algumCondutor18A24AnosDependenteOuResideComCondutorPrincipal":null,"algumCondutor18A24AnosPossuiVeiculo":null,"sexoCondutorMaisNovo18A24Anos":null,"faixaEtariaCondutorMaisNovo18A24Anos":null,"trabalha":null,"estuda":null},"condutorSecundario":{"nome":null,"sexo":null,"dataNascimento":null,"estadoCivil":null,"cpf":null,"tempoHabilitacao":null},"proprietario":{"nome":null,"sexo":null,"dataNascimento":null,"estadoCivil":null,"cpf":null,"relacaoCondutorProprietario":null},"segurado":{"email":null,"ddd":null,"telefone":null,"dddOpcional":null,"telefoneOpcional":null,"nome":null,"sexo":null,"dataNascimento":null,"estadoCivil":null,"cpf":null,"possuiFilhosAte17Anos":null,"relacaoProprietarioSegurado":null,"relacaoCondutorSegurado":null,"cepResidenciaIgualPernoite":null,"cepResidencia":null,"enderecoCepResidencia":null,"horarioDeContato":null,"emissoresCartaoDeCredito":null},"seguro":{"modalidade":null,"utilizarBonus":null,"seguradoCotacaoIgualSeguradoApoliceAtual":null,"assistencia24Horas":null,"carroExtra":null,"coberturaVidros":null,"ciaRenovacao":null,"sabeMesFimVigencia":null,"dataVencimentoApoliceAnterior":null,"mesFimVigencia":null,"anoFimVigencia":null,"bonus":null,"quantidadeSinistros":null},"cobertura":{"perfil":null,"nomePacotePersonalizado":null,"tipo":null,"lmiDanosMaterias":null,"lmiDanosCorporais":null,"lmiDanosMorais":null,"appMorte":null,"appInvalidez":null,"franquia":null,"assistencia24hrs":null,"carroReserva":null,"vidros":null,"app":null,"dmdc":null}},"descricaoModelo":null,"proprietarioEhCondutorPrincipal":null,"quemEhSegurado":null,"concordoTermoUso":null};
+
+$(document).ready(function() {
+	if (window.formCalculoAnterior && window.formCalculoAnterior.formPadrao && window.formCalculoAnterior.formPadrao.veiculo) {
+		var veiculo = window.formCalculoAnterior.formPadrao.veiculo;
+		veiculo.erros = [null
+							
+						];	
+				
+	}
+	inicializarFormularioVeiculo(veiculo);
+	setTimeout(function(){
+		preencherDadosVeiculo();
+	}, 300);
+});
+</script>
+<style type="text/css">#dv_combustivel > div.crossform-select {width: 176px !important;}
+div select {visibility: hidden;}
+</style>
+<!-- Remarketing Infomoney --><script type="text/javascript">
+  (function() {
+	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	po.src = 'http://www.infomoney.com.br/api/retargeting/smartia-conversao';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script><!-- Remarketing gdn --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 993115476;
+var google_conversion_label = 'bqhyCLTP6gMQ1PrG2QM';
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/993115476/?value=0&amp;label=bqhyCLTP6gMQ1PrG2QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript><!-- Remarketing search --><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 989399111;
+var google_conversion_label = "vbBjCJnKiAUQx5Dk1wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script><script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script><noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/989399111/?value=0&amp;label=vbBjCJnKiAUQx5Dk1wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<div class="container">
+<div class="form_header">
+<h2 class="cufon">Ve&iacute;culo</h2>
+
+<div class="progress-bar">
+<ul class="steps">
+	<li class="progress-active"><a class="active" href="#">ve&iacute;culo</a></li>
+	<li><span>condutor</span></li>
+	<li><span>localiza&ccedil;&atilde;o</span></li>
+	<li><span>propriet&aacute;rio</span></li>
+	<li><span>segurado</span></li>
+	<li style="margin-right:0;"><span>seguro</span></li>
+</ul>
+</div>
+</div>
+
+<div class="form_padrao">
+<form action="/seguro-auto/simulacao-preco/veiculo" class="form" id="formCalculo" method="POST" name="formCalculo">
+<fieldset>
+<div class="form_group">
+<p class="intro_desc">Voc&ecirc; pode digitar qualquer parte da descri&ccedil;&atilde;o do ve&iacute;culo no nosso sistema de <span>Busca Inteligente</span>.</p>
+</div>
+<legend>Ve&iacute;culo</legend>
+
+<div class="grid-12-12 form-msg-parent" id="dv_modelo"><label for="descricaoModelo">Qual o modelo do seu autom&oacute;vel? <a class="ico_tooltip"><img alt="Dúvida?" height="16" src="../../static/images/ico_tooltip.png" width="16" /></a></label>
+
+<div class="tooltip_title tooltip_padrao">
+<p class="tooltip_titulo">Informa&ccedil;&otilde;es do ve&iacute;culo</p>
+
+<p>Selecione corretamente o modelo completo do seu carro. Para facilitar a busca, voc&ecirc; pode utilizar determinadas palavras em qualquer sequ&ecirc;ncia: ELX, 1.0, 4P, 16V.<b> Exemplo: GOL 1.0 PLUS 16V.</b><br />
+<br />
+Para maiores informa&ccedil;&otilde;es consute a tabela FIPE dispon&iacute;vel no site <a class="link_apoio disable_context_menu" href="http://www.fipe.org.br/web/index.asp?aspx=/web/indices/veiculos/introducao.aspx" target="_blank">www.fipe.org.br</a>.</p>
+</div>
+
+<div class="frm_modelo">
+<div class="marcadagua-parent">
+<div class="marcadagua_target"><input autocomplete="off" class="form-txt" id="descricaoModelo" name="descricaoModelo" tabindex="1" type="text" value="" /></div>
+
+<div class="marcadagua_text marcadagua_frm_modelo">Exemplo: GOL 1.0 PLUS 16V</div>
+</div>
+<input id="formPadrao.veiculo.modelo" name="formPadrao.veiculo.modelo" type="hidden" value="" /> <input id="formPadrao.veiculo.idVeiculo" name="formPadrao.veiculo.idVeiculo" type="hidden" value="" /></div>
+</div>
+</fieldset>
+</form>
+</div>
+
+<div id="dv_dadosVeiculo" style="display: none">
+<div class="form_group">
+<h3>Informa&ccedil;&otilde;es sobre o ve&iacute;culo</h3>
+
+<div class="grid-4-12 form-msg-parent" id="dv_combustivel"><label for="formPadrao.veiculo.combustivel">Qual o tipo de combust&iacute;vel?</label> <select id="formPadrao.veiculo.combustivel" name="formPadrao.veiculo.combustivel" tabindex="2"> </select></div>
+
+<div class="grid-4-12 form-msg-parent" id="dv_numeroPassageiros"><label for="formPadrao.veiculo.numeroPassageiros">N&uacute;mero de passageiros:</label> <select class="form-large" id="formPadrao.veiculo.numeroPassageiros" name="formPadrao.veiculo.numeroPassageiros" tabindex="2"> </select></div>
+
+<div class="clear grid-4-12 form-msg-parent" id="dv_anoFabricacao"><label for="formPadrao.veiculo.anoFabricacao">Ano de fabrica&ccedil;&atilde;o:</label> <select class="form-large" id="formPadrao.veiculo.anoFabricacao" name="formPadrao.veiculo.anoFabricacao" tabindex="3"><option selected="selected" value="">Selecione...</option> </select></div>
+
+<div class="grid-4-12 form-msg-parent" id="dv_anoModelo"><label for="formPadrao.veiculo.anoModelo">Ano do modelo:</label> <select class="form-large" id="formPadrao.veiculo.anoModelo" name="formPadrao.veiculo.anoModelo" tabindex="4"><option selected="selected" value="">Selecione...</option> </select></div>
+
+<div class="grid-4-12 form-msg-parent" id="dv_zeroKm"><label for="formPadrao.veiculo.zeroKm">&Eacute; zero km?<a class="ico_tooltip" tabindex="-1"><img alt="Dúvida?" height="16" src="../../static/images/ico_tooltip.png" width="16" /></a></label>
+
+<div class="tooltip_title tooltip_padrao">
+<p class="tooltip_titulo">Ve&iacute;culo zero km</p>
+
+<p>Ve&iacute;culo zero km &eacute; aquele que saiu do revendedor ou concession&aacute;ria autorizada <b>em at&eacute; 30 dias</b>, sem avarias e com quilometragem rodada m&aacute;xima de at&eacute; 1.000 km.</p>
+</div>
+
+<ul>
+	<li><input id="formPadrao.veiculo.zeroKm1" name="formPadrao.veiculo.zeroKm" tabindex="5" type="radio" value="SIM" /><label for="formPadrao.veiculo.zeroKm1">Sim</label></li>
+	<li><input id="formPadrao.veiculo.zeroKm2" name="formPadrao.veiculo.zeroKm" tabindex="5" type="radio" value="NAO" /><label for="formPadrao.veiculo.zeroKm2">N&atilde;o</label></li>
+</ul>
+</div>
+
+<div style="clear: both;"></div>
+
+<div class="grid-8-12 form-msg-parent" id="dv_jaPossuiVeiculo"><label for="formPadrao.veiculo.jaPossuiVeiculo">Voc&ecirc; j&aacute; possui o ve&iacute;culo?</label> <select id="formPadrao.veiculo.jaPossuiVeiculo" name="formPadrao.veiculo.jaPossuiVeiculo" tabindex="5"><option value="">Selecione...</option><option value="SIM">Sim, j&aacute; possuo</option><option value="NAO">N&atilde;o, mas j&aacute; estou negociando</option><option value="APENAS_PESQUISANDO">Estou apenas pesquisando</option> </select></div>
+
+<div class="grid-12-12 form-msg-parent" id="dv_alienadoFinanciado"><label for="formPadrao.veiculo.alienadoFinanciado">Ve&iacute;culo &eacute; alienado ou financiado?</label>
+
+<ul>
+	<li><input id="formPadrao.veiculo.alienadoFinanciado1" name="formPadrao.veiculo.alienadoFinanciado" tabindex="5" type="radio" value="SIM" /><label for="formPadrao.veiculo.alienadoFinanciado1">Sim</label></li>
+	<li><input id="formPadrao.veiculo.alienadoFinanciado2" name="formPadrao.veiculo.alienadoFinanciado" tabindex="5" type="radio" value="NAO" /><label for="formPadrao.veiculo.alienadoFinanciado2">N&atilde;o</label></li>
+</ul>
+</div>
+</div>
+
+<div class="form_group">
+<h3>Adicionais</h3>
+
+<div id="dv_infoVeiculo">
+<div class="grid-12-12 form-msg-parent" id="dv_kitGas"><label for="formPadrao.veiculo.kitGas">Possui kit g&aacute;s?<a class="ico_tooltip" tabindex="-1"><img alt="Dúvida?" height="16" src="../../static/images/ico_tooltip.png" width="16" /></a></label>
+
+<div class="tooltip_title tooltip_padrao">
+<p class="tooltip_titulo">Kit g&aacute;s</p>
+
+<p>&Eacute; um aparelho de combust&iacute;vel alternativo, fixado no ve&iacute;culo em car&aacute;ter permanente, com valor segurado espec&iacute;fico.<br />
+<br />
+Caso seja escolhida a op&ccedil;&atilde;o <b>&quot;Sim&quot;</b>, precisamos saber o valor do Kit G&aacute;s para o c&aacute;lculo do seguro. Neste caso assumimos um valor fixo que poder&aacute; ser alterado por nossos atendentes posteriormente.</p>
+</div>
+
+<ul>
+	<li><input id="formPadrao.veiculo.kitGas1" name="formPadrao.veiculo.kitGas" tabindex="6" type="radio" value="SIM" /><label for="formPadrao.veiculo.kitGas1">Sim</label></li>
+	<li><input id="formPadrao.veiculo.kitGas2" name="formPadrao.veiculo.kitGas" tabindex="6" type="radio" value="NAO" /><label for="formPadrao.veiculo.kitGas2">N&atilde;o</label></li>
+</ul>
+</div>
+
+<div class="grid-12-12 form-msg-parent" id="dv_chassiRemarcado"><label for="formPadrao.veiculo.chassiRemarcado">Possui chassi remarcado?</label>
+
+<ul>
+	<li><input id="formPadrao.veiculo.chassiRemarcado1" name="formPadrao.veiculo.chassiRemarcado" tabindex="6" type="radio" value="SIM" /><label for="formPadrao.veiculo.chassiRemarcado1">Sim</label></li>
+	<li><input id="formPadrao.veiculo.chassiRemarcado2" name="formPadrao.veiculo.chassiRemarcado" tabindex="6" type="radio" value="NAO" /><label for="formPadrao.veiculo.chassiRemarcado2">N&atilde;o</label></li>
+</ul>
+</div>
+
+<div class="grid-12-12 form-msg-parent" id="dv_antifurto"><label for="formPadrao.veiculo.antifurto">Possui dispositivo localizador ou rastreador via sat&eacute;lite?<a class="ico_tooltip" tabindex="-1"><img alt="Dúvida?" height="16" src="../../static/images/ico_tooltip.png" width="16" /></a></label>
+
+<div class="tooltip_title tooltip_padrao">
+<p class="tooltip_titulo">Dispositivo</p>
+
+<p>Os tipos de dispositivo considerados s&atilde;o:</p>
+
+<p>- os <b>localizadores</b>, que t&ecirc;m como fun&ccedil;&otilde;es <b>indicar a localiza&ccedil;&atilde;o aproximada (regi&atilde;o) e bloquear</b> o uso do ve&iacute;culo ap&oacute;s o comunicado pelo propriet&aacute;rio da ocorr&ecirc;ncia de roubo/furto;<br />
+<br />
+- os <b>rastreadores</b>, que t&ecirc;m diversas fun&ccedil;&otilde;es que v&atilde;o muito al&eacute;m de <b>indicar a localiza&ccedil;&atilde;o (exata) e bloquear</b> o uso do ve&iacute;culo ap&oacute;s o comunicado pelo propriet&aacute;rio da ocorr&ecirc;ncia de roubo/furto.</p>
+
+<p>Caso seja escolhida a op&ccedil;&atilde;o <b>&quot;Sim&quot;</b> iremos assumir um dispositivo padr&atilde;o dispon&iacute;vel em cada uma das seguradoras e estes ser&atilde;o revisados por nossos atendentes assim que sua compra for concretizada. &Eacute; muito importante informar o seu dispositivo corretamente, pois os pre&ccedil;os dos seguros normalmente sofrem impacto desta informa&ccedil;&atilde;o.</p>
+</div>
+
+<ul>
+	<li><input id="formPadrao.veiculo.antifurto1" name="formPadrao.veiculo.antifurto" tabindex="7" type="radio" value="SIM" /><label for="formPadrao.veiculo.antifurto1">Sim</label></li>
+	<li><input id="formPadrao.veiculo.antifurto2" name="formPadrao.veiculo.antifurto" tabindex="7" type="radio" value="NAO" /><label for="formPadrao.veiculo.antifurto2">N&atilde;o</label></li>
+</ul>
+</div>
+
+<div class="grid-12-12 form-msg-parent" id="dv_antifurtoEmComodato"><label for="formPadrao.veiculo.antifurtoEmComodato">Este dispositivo foi cedido em regime de comodato pela sua seguradora atual?<a class="ico_tooltip" tabindex="-1"><img alt="Dúvida?" height="16" src="../../static/images/ico_tooltip.png" width="16" /></a></label>
+
+<div class="tooltip_title tooltip_padrao">
+<p class="tooltip_titulo">Dispositivo em comodato</p>
+
+<p>&Eacute; o dispositivo que a seguradora disponibiliza no momento da contrata&ccedil;&atilde;o do seguro. Este dispositivo permanece como propriedade da seguradora e &eacute; cedido ao segurado enquanto durar a vig&ecirc;ncia do seguro. Quando o seguro &eacute; finalizado o dispositivo &eacute; devolvido &agrave; seguradora.</p>
+</div>
+
+<ul>
+	<li><input id="formPadrao.veiculo.antifurtoEmComodato1" name="formPadrao.veiculo.antifurtoEmComodato" tabindex="7" type="radio" value="SIM" /><label for="formPadrao.veiculo.antifurtoEmComodato1">Sim</label></li>
+	<li><input id="formPadrao.veiculo.antifurtoEmComodato2" name="formPadrao.veiculo.antifurtoEmComodato" tabindex="7" type="radio" value="NAO" /><label for="formPadrao.veiculo.antifurtoEmComodato2">N&atilde;o</label></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="form_group form-placa">
+<h3>Placa e Chassi</h3>
+
+<p class="tooltip_highlight">Os chassis modernos s&atilde;o compostos por 17 caracteres alfanum&eacute;ricos (letras e n&uacute;meros). As letras I, O e Q n&atilde;o s&atilde;o permitidas pela maioria das montadoras, portanto caso verifique a presen&ccedil;a dessas letras no chassi de seu ve&iacute;culo, verifique-as novamente, pois provavelmente s&atilde;o os d&iacute;gitos 0 e 1 (zero e um).</p>
+
+<div class="grid-12-12 form-msg-parent" id="dv_placa"><label for="formPadrao.veiculo.placa">Qual &eacute; a placa?</label>
+
+<div class="marcadagua-parent textoEndereco-parent">
+<div class="marcadagua_target"><input class="form-small form-txt" id="formPadrao.veiculo.placa" maxlength="8" name="formPadrao.veiculo.placa" tabindex="16" type="text" value="" /></div>
+
+<div class="marcadagua_text">opcional</div>
+</div>
+</div>
+
+<div class="grid-12-12 form-msg-parent" id="dv_chassi"><label for="formPadrao.veiculo.chassi">Qual &eacute; o chassi?<a class="ico_tooltip" tabindex="-1"><img alt="Dúvida?" height="16" src="../../static/images/ico_tooltip.png" width="16" /></a></label>
+
+<div class="tooltip_title tooltip_padrao">
+<p class="tooltip_titulo">Onde encontrar o chassi?</p>
+
+<p class="texto-chassi">Voc&ecirc; poder&aacute; encontrar o n&uacute;mero do chassi no documento do seu carro.</p>
+<img alt="Chassi" src="../../static/images/layout/form-padrao/chassi.png" /></div>
+
+<div class="marcadagua-parent textoEndereco-parent">
+<div class="marcadagua_target"><input class="form-medium form-txt" id="formPadrao.veiculo.chassi" maxlength="17" name="formPadrao.veiculo.chassi" tabindex="17" type="text" value="" /></div>
+
+<div class="marcadagua_text">opcional</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="botoes_acao" id="dv_acoes" style="display: none">
+<div class="btn_proximopasso"><a href="#" id="proximo-passo" tabindex="18"><span>Pr&oacute;ximo Passo</span></a></div>
+</div>
+</div>
+
+<div class="wizard">
+<h3 class="need-help cufon">Compre pelo telefone</h3>
+
+<p class="txt-contact"><span class="txt-chat-offline">Fale com um de nossos atendentes.</span> <span>4007-2532</span> <span class="h-atendimento">De segunda a sexta-feira<br />
+das 08:30 &agrave;s 19:00.</span></p>
+
+<div class="perguntas-respostas"><script>
+			$(document).ready(function() {
+				$(".jsPergunta").click(function() {
+					$(this).next('.jsResposta').toggle();
+				});
+			});
+		</script>
+<h3>D&uacute;vidas frequentes:</h3>
+
+<ul>
+	<li class="jsPergunta pergunta">Quais as principais garantias oferecidas no seguro de autom&oacute;vel?</li>
+	<li class="jsResposta resposta">
+	<p>As garantias dividem-se basicamente em:</p>
+
+	<p><strong>Coberturas b&aacute;sicas:</strong> cobrem inc&ecirc;ndio, roubo/furto, colis&atilde;o, acidentes pessoais de passageiros, danos corporais e danos materiais;</p>
+
+	<p><strong>Coberturas adicionais:</strong> garantem, por exemplo, utiliza&ccedil;&atilde;o de carro reserva, danos nos vidros, lanternas e retrovisores, danos morais ao segurado;</p>
+
+	<p><strong>Servi&ccedil;os de assist&ecirc;ncia:</strong> garantem, por exemplo, reboque 24h, chaveiro, troca de pneus, dentre in&uacute;meros outros.</p>
+	</li>
+	<li class="jsPergunta pergunta">O que cobre a garantia do kit g&aacute;s?</li>
+	<li class="jsResposta resposta">
+	<p>Est&atilde;o cobertos os danos causados ao equipamento de kit g&aacute;s, decorrentes de eventos causados por colis&atilde;o, inc&ecirc;ndio e roubo. Para a contrata&ccedil;&atilde;o dessa garantia &eacute; necess&aacute;rio apresentar o Certificado de Seguran&ccedil;a Veicular, expedido por institui&ccedil;&atilde;o t&eacute;cnica licenciada, bem como uma regulariza&ccedil;&atilde;o junto ao DETRAN.</p>
+	</li>
+</ul>
+
+<div class="selo_form"><script>function vopenw() {	tbar='location=no,status=yes,resizable=yes,scrollbars=yes,width=560,height=535';	sw =  window.open('https://www.certisign.com.br/seal/splashcerti.htm','CRSN_Splash',tbar);	sw.focus();}</script><a href="javascript:vopenw()"><img alt="Um site validado pela Certisign indica que nossa empresa concluiu satisfatoriamente todos os procedimentos para determinar que o domínio validado é de propriedade ou se encontra registrado por uma empresa ou organização autorizada a negociar por ela ou exercer qualquer atividade lícita em seu nome." src="../../static/images/layout/100x46_fundo_branco.png" /></a></div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="rodape" style="">
+<div class="links">
+<div class="container">
+<div class="row">
+<ul class="col-md-12 col-sm-12 col-xs-12" role="presentation">
+	<li><a href="../../politica-de-privacidade" title="Veja a política de privacidade da Smartia">Pol&iacute;tica de privacidade</a></li>
+	<li class="divider">|</li>
+	<li><a href="../../termos-de-uso" title="Veja os termos de uso da Smartia">Termos de uso</a></li>
+	<li class="divider">|</li>
+	<li><a href="../../seguranca" title="Tudo sobre a segurança de seus dados em nosso site">Seguran&ccedil;a</a></li>
+	<li class="divider">|</li>
+	<li><a href="../../cotacao-de-seguro" title="Entenda a cotação de Seguro">Cota&ccedil;&atilde;o de Seguro</a></li>
+	<li class="divider">|</li>
+	<li><a href="../../sobre-seguro-auto" title="Saiba mais sobre seguro auto">Seguro Auto</a></li>
+	<li class="divider">|</li>
+	<li><a href="../../valor-de-seguro" title="Saiba o valor do seu seguro">Valor de Seguro</a></li>
+	<li class="divider">|</li>
+	<li><a href="../../simulacao-de-seguros" title="Entenda a simulação de seguros">Simula&ccedil;&atilde;o de Seguros</a></li>
+	<li class="divider">|</li>
+	<li><a href="../../franquia-de-seguros" title="Saiba mais sobre franquia de seguros">Franquia de Seguros</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="row imagens">
+<div class="siga-nos col-md-4 col-sm-4 col-xs-4">Siga-nos
+<ul class="inline">
+	<li><a alt="Curta nossa página do Facebook" href="http://www.facebook.com/SmartiaSeguros" target="_blank"><b class="sprite-dinamico share-facebook ir">Curta nossa p&aacute;gina do Facebook</b></a></li>
+	<li><a alt="Siga a Smartia no Twitter" href="http://twitter.com/#!/smartiaseguros/" target="_blank"><b class="sprite-dinamico share-twitter ir">Siga a Smartia no Twitter</b></a></li>
+	<li><a alt="Conheça nosso perfil no LinkedIn" href="http://www.linkedin.com/company/smartia" target="_blank"><b class="sprite-dinamico share-linkedin ir">Conhe&ccedil;a nosso perfil no LinkedIn</b></a></li>
+	<li><a alt="Assista os vídeos da nossa página do Youtube" href="http://www.youtube.com/user/SmartiaSeguros" target="_blank"><b class="sprite-dinamico share-youtube ir">Assista os v&iacute;deos da nossa p&aacute;gina do Youtube</b></a></li>
+	<li><a alt="Não deixe de acessar nossa página do Google Plus" href="https://plus.google.com/+SmartiaBrSeguros" rel="publisher" target="_blank"><b class="sprite-dinamico share-google-plus ir">N&atilde;o deixe de acessar nossa p&aacute;gina do Google Plus</b></a></li>
+</ul>
+</div>
+
+<div class="site-seguro col-md-4 col-sm-4 col-xs-4 logos">
+<div class="descricao col-md-4 col-sm-4 col-xs-4">Site seguro, cota&ccedil;&atilde;o segura:</div>
+
+<div class="logo col-md-3 col-sm-3 col-xs-3"><a href="javascript:vopenw('Certisign')"><b class="sprite-fixo logo-certisign ir">Site seguro - validado por CertiSign</b></a></div>
+</div>
+
+<div class="corretor col-md-4 col-sm-4 col-xs-4 logos">
+<div class="descricao ">Aqui tem corretor:</div>
+
+<div class="logo lg-etica col-md-3 col-sm-3 col-xs-3 col-md-offset-2 col-sm-offset-2 col-xs-offset-2"><a href="https://www.fenacor.org.br/Servicos/CodigoDeEtica" target="_blank"><b class="sprite-fixo logo-tem-corretor ir">C&oacute;digo de &eacute;tica Fenacor.</b></a></div>
+
+<div class="logo lg-fenacor col-md-4 col-sm-4 col-xs-4"><a href="http://www.fenacor.com.br/" target="_blank"><b class="sprite-fixo logo-fenacor ir">Fenacor</b></a></div>
+
+<div class="logo lg-sincor col-md-3 col-sm-3 col-xs-3"><a href="http://www.sincor-rj.com/" target="_blank"><b class="sprite-fixo logo-sincor ir">Sincor-RJ</b></a></div>
+</div>
+</div>
+
+<div class="row copyrights">
+<div class="col-md-12 col-sm-12 col-xs-12">
+<p class="copyright">&copy; Copyright 2013 Smartia. Todos os direitos reservados. SUSEP n&ordm; 100677485. CNPJ: 11.537.919/0001-35</p>
+
+<p class="texto-copyright">A Smartia &eacute; constitu&iacute;da sob a forma de sociedade empresarial an&ocirc;nima e que atua em estrita observ&acirc;ncia &agrave; legisla&ccedil;&atilde;o aplic&aacute;vel ao ramo de seguros, em especial o C&oacute;digo de &Eacute;tica dos Corretores de Seguros e o C&oacute;digo de Defesa do Consumidor. Trata-se de uma sociedade prestadora de servi&ccedil;os de pesquisa, simula&ccedil;&atilde;o e corretagem de seguros para os ramos de autom&oacute;vel, sa&uacute;de, vida e ramos elementares. Disponibilizamos para tanto uma plataforma segura, intuitiva e inteligente que oferece aos usu&aacute;rios a facilidade e agilidade para a contrata&ccedil;&atilde;o de seguros diretamente com um profissional habilitado. Todas as propostas de seguro apresentadas aos usu&aacute;rios s&atilde;o originadas de uma empresa corretora de seguros devidamente cadastrada nas seguradoras listadas pelo site. Lembre-se, &quot;Seguro, s&oacute; com o corretor de seguros&quot;.</p>
+</div>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" aria-labelledby="modalAtendimentoLabel" class="modal novo-modal fade novo-modal-atendimento" id="modalAtendimento" role="dialog" tabindex="-1">
+<div class="novo-modal-dialog">
+<div class="novo-modal-content">
+<div class="novo-modal-header"><button aria-hidden="true" class="close" data-dismiss="modal" type="button">fechar</button></div>
+
+<div class="novo-modal-body">
+<div class="inline">
+<h1 class="modal-title" id="modalAtendimentoLabel"><b>0800</b>Smartia</h1>
+
+<p class="subtitulo">Servi&ccedil;o de atendimento ao consumidor</p>
+</div>
+
+<hr />
+<h2>4007-2532</h2>
+
+<p>Atrav&eacute;s da nossa central de atendimento voc&ecirc; pode comprar um seguro novo, fazer uma renova&ccedil;&atilde;o ou endosso, tirar d&uacute;vidas e acionar seu seguro.</p>
+
+<p class="horarios">Atendimento de segunda a sexta das 08:30 &agrave;s 19:00.</p>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" >
+Cufon.replace('');
+Cufon.replace('-2');
+Cufon.now();
+</script><!-- 
+<script type="text/javascript" src="/static/scripts/footer-v2-to-v3.js?rev=LOCAL_1511284763132"></script>
+ --><script>
+	window.jQuerySite = jQuery.noConflict();
+	window.$ = null;
+	window.jQuery = null; 
+</script><script type="text/javascript" src="../../static/scripts/novo-jquerydc5c.js?rev=LOCAL_1511284763132" ></script><script type="text/javascript" src="../../static/scripts/legacydc5c.js?rev=LOCAL_1511284763132" ></script><script>
+	window.jQuery = jQuerySite;
+	window.$ = jQuerySite;
+</script><script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.async = true;
+  js.src = "http://connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script></body>
+<!-- Mirrored from localhost:8880/seguro-auto/simulacao-preco/veiculo by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Nov 2017 17:28:41 GMT --></html>

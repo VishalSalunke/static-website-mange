@@ -1,0 +1,458 @@
+.aside-box {
+  padding: 20px 14px;
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px; }
+  .aside-box span.tel {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #f4b241;
+    font-size: 34px;
+    letter-spacing: -2px; }
+    .aside-box span.tel strong {
+      font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      color: #999; }
+  .aside-box span.small {
+    display: block;
+    clear: both;
+    text-align: center;
+    font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #a8a9ab;
+    font-size: 13px;
+    letter-spacing: -1px; }
+  .aside-box a.chat-on {
+    display: block;
+    width: 100%;
+    height: 100px;
+    display: block;
+    text-indent: -9999px;
+    margin: 15px auto 0 auto;
+    background: #f6b332 url("../images/bt-chat.png") center center no-repeat;
+    transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in; }
+    .aside-box a.chat-on:hover {
+      background-color: #f4a610; }
+  .aside-box h2.seguradoras {
+    display: block;
+    text-indent: -9999px;
+    width: 142px;
+    height: 36px;
+    margin-bottom: 0 auto 10px auto;
+    background: url("../images/seguradoras.gif") center center no-repeat; }
+  .aside-box h2.segures {
+    display: block;
+    text-indent: -9999px;
+    width: 182px;
+    height: 36px;
+    margin: 0 auto 10px auto;
+    background: url("../images/segures.gif") center center no-repeat; }
+  .aside-box ul.seguradoras, .aside-box ul.segures {
+    padding: 0 6px; }
+    .aside-box ul.seguradoras li, .aside-box ul.segures li {
+      position: relative;
+      padding: 18px;
+      padding-left: 50px;
+      border-bottom: 1px dotted #e2e2e2;
+      border-top: 1px dotted #e2e2e2;
+      list-style: none; }
+      .aside-box ul.seguradoras li.first, .aside-box ul.segures li.first {
+        border-top: none; }
+      .aside-box ul.seguradoras li.last, .aside-box ul.segures li.last {
+        border-bottom: none; }
+      .aside-box ul.seguradoras li img.icon, .aside-box ul.segures li img.icon {
+        position: absolute;
+        top: 16px;
+        left: -10px; }
+      .aside-box ul.seguradoras li h3, .aside-box ul.segures li h3 {
+        font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        color: #848689;
+        margin: 0;
+        padding: 0; }
+      .aside-box ul.seguradoras li p, .aside-box ul.segures li p {
+        font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        color: #848689;
+        font-size: 12px;
+        line-height: 22px;
+        margin: 0;
+        padding: 0; }
+        .aside-box ul.seguradoras li p span, .aside-box ul.segures li p span {
+          display: block; }
+      .aside-box ul.seguradoras li a, .aside-box ul.segures li a {
+        font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 12px;
+        color: #f6b332;
+        text-transform: uppercase; }
+  .aside-box ul.segures a {
+    font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #f6b332;
+    text-decoration: underline;
+    text-transform: none !important; }
+  .aside-box ul.segures li {
+    padding-left: 18px;
+    height: 165px;
+    text-align: center;
+    transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in; }
+    .aside-box ul.segures li:after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 56px;
+      right: 10px;
+      width: 0;
+      height: 0;
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent;
+      border-left: 10px solid #f6b332;
+      transition: all 0.2s ease-in;
+      -webkit-transition: all 0.2s ease-in;
+      -moz-transition: all 0.2s ease-in;
+      -o-transition: all 0.2s ease-in; }
+    .aside-box ul.segures li:hover:after {
+      right: 0; }
+    .aside-box ul.segures li h3 {
+      padding: 5px 0;
+      font-family: "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      color: #f6b332; }
+    .aside-box ul.segures li img {
+      display: block;
+      position: relative; }
+  .aside-box ul.segures span.small {
+    font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #908e88;
+    font-size: 14px !important;
+    display: block;
+    padding: 0;
+    max-width: 195px;
+    letter-spacing: 0;
+    margin: 15px auto 0 auto; }
+    .aside-box ul.segures span.small a {
+      font-size: 14px !important; }
+
+
+/*
+  SEGURADORAS
+*/
+
+/* #seguradoras .acionando-seu-seguro
+{
+  width: 850px;
+} */
+
+/* #seguradoras .aside-with-page
+{
+  width: 265px;
+} */
+/* 
+#seguradoras .seguradoras-descricao h2 { color: #848689; }
+#seguradoras .seguradoras-descricao p, #seguradoras .seguradoras-descricao li { font-size: 13px; } */
+#seguradoras .seguradoras-descricao li { 
+	font-size: 14px;
+	color: #848689;
+	padding: 2px 0; 
+}
+
+#seguradoras .aside-box ul.seguradoras
+{
+  padding: 0;
+}
+ #seguradoras .aside-box ul.seguradoras li 
+{
+  padding-left: 0;  
+}
+
+#seguradoras .aside-box ul.seguradoras li p {line-height: 16px;}
+
+#seguradoras .aside-box ul.seguradoras li.last {padding-bottom: 0;}
+
+.info-util
+{
+  display: block;
+  text-indent: -9999px;
+  width: 204px;
+  height: 27px;
+  margin: 0;
+  background: url("../images/landing-pages/info-util.png") center center no-repeat;
+}
+
+.seguradora-box,
+.simule-agora
+{
+  border: 1px solid #d4d4d4;
+  display: inline-block;
+  vertical-align: top;
+
+
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.seguradora-box
+{
+  width: 360px;
+  padding: 70px 40px;
+  margin-top: 20px;
+}
+.seguradora-box img {
+}
+
+.allianz .seguradora-box {
+	padding: 71px 84px;
+}
+
+.bradesco .seguradora-box {
+	padding: 71px 44px;
+}
+
+.bradesco .seguradora-box img {
+	width: 270px;
+}
+	
+.cardif .seguradora-box {
+	padding: 71px 67px;
+}
+
+.hdi .seguradora-box {
+	padding: 79px 93px;
+}
+
+.liberty .seguradora-box {
+	padding: 55px 101px;
+}
+
+.maritima .seguradora-box {
+	padding: 62px 93px;
+}
+
+.tokio .seguradora-box {
+	padding: 62px 81px;
+}
+
+.zurich .seguradora-box {
+	padding: 67px 95px;
+}
+
+.simule-agora
+{
+  width: 296px;
+  padding: 15px 20px 8px;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+
+.simule-agora p
+{
+  font-family: "alwyn-new-web-n4", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+  color: #848689;
+  font-size: 23px;
+  line-height: 22px;
+  margin-bottom: 10px;
+  letter-spacing: -1px;
+}
+
+.simule-agora p.small-info
+{
+  font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #8f8d87;
+  margin-bottom: 0;
+  margin-top: 16px;
+  letter-spacing: 0;
+}
+
+.simule-agora .simule-button 
+{
+  display: block;
+  color: #fff; 
+  border: 3px solid #ccd0c3; 
+  font-size: 30px;
+  text-transform: none;
+  font-weight: 500;
+  font-family: "alwyn-new-web-n4", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 100%;
+  text-align: center;
+  line-height: 73px;
+  text-decoration: none;
+  
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+
+  background: #7fc212;
+  background: -moz-linear-gradient(top,  #9fde15 0%, #65a944 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#9fde15), color-stop(100%,#65a944)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #9fde15 0%,#65a944 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #9fde15 0%,#65a944 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #9fde15 0%,#65a944 100%); /* IE10+ */
+  background: linear-gradient(top bottom,  #9fde15 0%,#65a944 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9ede14', endColorstr='#66a811',GradientType=0 );
+  
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(200, 200, 200, 1);
+  box-shadow: 0px 0px 5px 1px rgba(200, 200, 200, 1);
+  border: none;
+  
+}
+.simule-agora .simule-button:hover {
+	background: #96db2a; /* Old browsers */
+	background: -moz-linear-gradient(top,  #b1ee37 0%, #7ec81d 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b1ee37), color-stop(100%,#7ec81d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #b1ee37 0%,#7ec81d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #b1ee37 0%,#7ec81d 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #b1ee37 0%,#7ec81d 100%); /* IE10+ */
+	background: linear-gradient(top bottom,  #b1ee37 0%,#7ec81d 100%); /* W3C */
+	-webkit-box-shadow: 0px 0px 5px 1px rgba(200, 200, 200, 1);
+	box-shadow: 0px 0px 5px 1px rgba(200, 200, 200, 1);
+}
+.simule-agora .simule-button .right-caret {
+	border-bottom: 4px solid transparent;
+	border-top: 4px solid transparent;
+	border-left: 4px solid white;
+	display: inline-block;
+	border-bottom-width: 7px;
+	border-top-width: 7px;
+	border-left-width: 6px;
+	margin-left: 8px;
+}
+
+.seguradoras-primary-box
+{
+  border: 1px solid #d4d4d4;
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+  padding: 20px 20px 20px 14px;
+
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.seguradoras-primary-box .textbox,
+.seguradoras-primary-box .bt-simule-secondary
+{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.seguradoras-primary-box .textbox
+{
+  text-align: center;
+  width: 402px;
+}
+
+.seguradoras-primary-box .textbox h4 
+{
+  margin-bottom: 0;
+  font-family: "alwyn-new-web-n4", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200; 
+  font-size: 21px;
+  letter-spacing: -1px;
+}
+.seguradoras-primary-box .textbox h4 strong { color: #f6b332; }
+
+
+.seguradoras-primary-box .textbox p 
+{
+  margin-bottom: 0;
+}
+
+.seguradoras-primary-box .bt-simule-secondary
+{
+  width: 217px;
+  margin-left: 20px;
+
+  color: #fff; 
+  font-size: 18px;
+  text-transform: none;
+  font-weight: 400;
+  font-family: "alwyn-new-web-n4", "alwyn-new-web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px;
+  line-height: 56px;
+  text-decoration: none !important;
+  transition: none;
+  -webkit-transition: none;
+  
+  background: #7fc212;
+}
+.seguradoras-primary-box .bt-simule-secondary:hover {
+	background: #b5e952;
+}
+.seguradoras-primary-box .bt-simule-secondary .right-caret
+{
+  border-bottom: 7px solid transparent;
+  border-top: 7px solid transparent;
+  border-left: 7px solid white;
+  display: inline-block;
+  vertical-align: middle;
+  height: 0;
+  width: 0;
+  margin-left: 5px;
+}
+
+.seguradora-pictures img{
+	width: 100px;
+}
+
+#seguradora_vantagens{
+	width: 100%;
+	text-align: left !important;
+}
+#seguradora_vantagens ul{
+	padding: 20px;
+}
+#seguradora_vantagens li{
+	display:list-item;
+	text-align: left !important;
+	list-style-type: disc !important;
+	margin-left: 1em;
+	margin-bottom: 15px;
+	
+}
+.video_seguradoras{
+	width: 100%; 
+	text-align: center; 
+	padding-top: 20px;
+}
+#historico_azul_seguros{
+	font-weight: bold;
+	color: #f6b332 !important;
+}
+.div_proteste_btn{
+	border: 0px; 
+	text-align: center;
+}
+.bt-proteste{
+	background: #00a996!important;
+}
+.bt-proteste:hover{
+	background: #1bbdaa!important;
+}

@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	
+<head>
+
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<!--[if lte IE 7]>
+	<script>window.location.href='/atualize-seu-navegador';</script>
+	<![endif]-->
+	
+		<title>Termos de Uso de Corretora de Seguro Online - Smartia Seguros Online</title>
+		<meta name="author" content="Smartia" />
+		<meta name="description" content="Conheça os Termos de uso do site Smartia." />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+
+	<!-- Favicons and touch icons -->
+	<!-- For retina-display iPads -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png" href="/resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For retina-display iPhones -->
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png" href="/resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For iPad 1 -->
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png" href="/resources/v3/images/common/ipad_72x72.png"/>
+	<!-- For iPhone 3G, iPod Touch and Android -->
+	<link rel="apple-touch-icon-precomposed" type="image/png" href="/resources/v3/images/common/iphone_57x57.png" />
+	<!-- For Nokia 
+	<link rel="shortcut icon" type="image/png" href="/resources/v3/images/common/iphone_57x57.png" />
+	<link rel="icon" type="image/png" href="/resources/v3/images/common/64x64.png" />
+	-->
+	<link rel="shortcut icon" href="/resources/v3/images/common/favicon.ico" />
+	
+	<!-- Site theme -->
+	
+		<link href='resources/styles/v3-common.css' rel="stylesheet"/>
+				
+	
+	<link href='resources/styles/estaticas.css' rel="stylesheet"/>
+			
+	
+	
+	
+
+	
+	
+	
+	
+	<!--[if lte IE 8]>
+	  <script src="/resources/scripts/v3-old-ie.js"></script>
+	<![endif]-->
+		<script type="text/javascript">
+		window.idSessaoSmartia = "S171121EJY29J1XAY3AXA59HX5X";
+		window.baseURL = "/";
+		window.base = "";
+		window.revNumber = "LOCAL_1511284763132";
+	</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20687946-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-20687946-1');
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://www.smartia.com.br/resources/jquery.cookie.js" type="text/javascript" ></script>
+<script src="https://www.smartia.com.br/resources/track_referrer.js" type="text/javascript" ></script>
+</head>
+
+	<body>
+		
+		
+		
+		<div class="body-content">
+			
+
+
+
+
+
+
+
+
+
+	<div class="header-wrapper">
+		<header class="cabecalho" data-spy="affix" data-offset-top="190">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<a href="/">
+							<img class="logo" src="/resources/v3/images/common/logo.png" alt="Smartia Seguros Online"/>
+							<img class="logo compacto" src="/resources/v3/images/common/logo-compacto.png" alt="Smartia Seguros Online"/>
+						</a>
+						<div class="menus">
+							<nav class="atalhos">
+								<ul class="nav nav-pills">
+									<div class="build-number">LOCAL</div>
+<li class="blog"><a href="blog"><b class="sprite-header blog-icon"></b>Blog</a></li>
+<li class="atalho-atendimento"><a id="atendimentoSmartia" role="button" data-toggle="modal" href="#modalAtendimento"><span class="texto"><b class="sprite-header atend-icon"></b>&nbsp;</span><!--  <span class="sprite-header atend-fone ir">0800 Smartia</span> -->Atendimento</a></li>
+								</ul>
+							</nav>
+							<nav class="menubar">
+								<ul class="nav nav-pills menuitens">
+									<li class="dropdown menu-produtos">
+  <a id="dropProdutos" role="button" data-hover="dropdown" href="javascript:void(0);">Produtos <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuProdutos" class="dropdown-menu" role="menu" aria-labelledby="dropProdutos">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="seguro-auto/simulacao-preco/veiculo">Seguro Automóvel</a></li>
+	<li role="presentation" class="divider"></li>
+	 
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="seguro-empresa">Seguro Empresa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-como-funciona">
+  <a id="dropComoFunciona" role="button" data-hover="dropdown" href="javascript:void(0);">Como funciona <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuComoFunciona" class="dropdown-menu" role="menu" aria-labelledby="dropComoFunciona">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="como-funciona-seguro-online">Seguro online</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="seguradoras">Seguradoras</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="como-acionar-seu-seguro">Acionando seu seguro</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="perguntas-frequentes">Perguntas frequentes</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="dicionario-de-seguros">Dicionário de seguros</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-sobre-a-smartia">
+  <a id="dropSobreASmartia" role="button" data-hover="dropdown" href="javascript:void(0);">Sobre a smartia <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuSobreSmartia" class="dropdown-menu" role="menu" aria-labelledby="dropSobreASmartia">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="quem-somos">Quem somos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="depoimentos">Depoimentos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="sala-de-imprensa">Sala de imprensa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-contato">
+  <a id="dropContato" role="button" data-hover="dropdown" href="javascript:void(0);">Contato <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuContato" class="dropdown-menu" role="menu" aria-labelledby="dropContato">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="fale-conosco">Fale conosco</a></li>
+	 
+  </ul>
+</li>
+<li class="simular-agora">
+	<a class="btn btn-primary" href="#" onclick="document.getElementById('centro_banner_form').submit();" rel="nofollow">Simule seu Seguro Auto <b class="right-caret"></b></a>
+</li>
+<li class="social">
+	<div class="google">
+		<g:plusone size="medium" annotation="none"></g:plusone>
+	</div>
+	<div class="facebook">
+		<div class="fb-wrapper">
+			<div class="fb-like" data-href="https://www.facebook.com/SmartiaSeguros" data-width="30" data-show-faces="false" data-send="false" data-action="like" data-layout="button_count" data-font="tahoma"></div>
+		</div>
+	</div>
+</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+	</div>
+
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+<div class="page-title">
+	<div class="container single-page">		
+		<ol class="breadcrumb">
+			<li><a href="/">Início</a></li>
+		  
+			<li class="active">Termos de Uso</li>
+		
+		</ol>
+		<h1>Termos de Uso</h1>
+		
+			<a href="#" onclick="document.getElementById('centro_banner_form').submit();" class="big-simule-button" rel="nofollow">Simule seu Seguro Auto</a>
+		
+	</div>
+</div>
+
+		
+		<div class="container">	
+			<span class="double-border"></span>
+			
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<main class="page-with-aside with-padding institucional"> 
+						
+						<h2 class="yellow big mb-15 padding-left">Termos de uso</h2>
+						
+						<div class="termos-de-uso">
+							<p>EURODEMAND LLC., &uacute;nica e exclusiva propriet&aacute;ria do dom&iacute;nio www.smartia.com.br, doravante denominados EURODEMAND, estabelece o presente TERMO DE USO para seu USU&Aacute;RIO(S), conforme as condi&ccedil;&otilde;es abaixo discriminadas:</p>
+<ol>
+<li>Por este Termo de Uso, o USU&Aacute;RIO est&aacute; cabalmente informado e ciente de que deve utilizar o sistema de busca da EURODEMAND com o mesmo cuidado com que utiliza an&uacute;ncios classificados de jornal. As funcionalidades adicionais da EURODEMAND, poss&iacute;veis gra&ccedil;as &agrave; tecnologia eletr&ocirc;nica, n&atilde;o desvirtuam o fato do EURODEMAND portar em seu meio eletr&ocirc;nico informa&ccedil;&otilde;es de Anunciantes pelas quais a EURODEMAND N&Atilde;O SE RESPONSABILIZA (assim como os an&uacute;ncios classificados em jornal). Desse modo, o USU&Aacute;RIO deve checar a veracidade das informa&ccedil;&otilde;es obtidas pelo meio eletr&ocirc;nico da EURODEMAND e tomar todas as medidas necess&aacute;rias para se proteger de danos,inclusive fraudes ou estelionato &ldquo;on line&rdquo;.<br /> 2. A pr&eacute;via compreens&atilde;o e aceita&ccedil;&atilde;o destes termos s&atilde;o indispens&aacute;veis para a utiliza&ccedil;&atilde;o do site e de todos os seus servi&ccedil;os.<br /> 3. Os servi&ccedil;os objeto do presente Termo de Uso consistem em ofertar ao USU&Aacute;RIO servi&ccedil;os de busca e compara&ccedil;&atilde;o de condi&ccedil;&otilde;es de servi&ccedil;os para seus USU&Aacute;RIOS, que poder&atilde;o ser, de modo exemplificativo, mas n&atilde;o exaustivo, a cota&ccedil;&atilde;o de servi&ccedil;os junto a Bancos, financeiras, etc., aqui designados como Anunciantes, podendo assim os USU&Aacute;RIOS encontrar servi&ccedil;os, informa&ccedil;&otilde;es, formas de pagamento e de atendimento, etc.<br /> 4. A EURODEMAND, portanto, atua apenas como um veiculador destas informa&ccedil;&otilde;es, possibilitando aos USU&Aacute;RIOS travarem conhecimento junto aos Anunciantes e ainda que eles negociem entre si diretamente, sem sua interven&ccedil;&atilde;o na finaliza&ccedil;&atilde;o dos neg&oacute;cios.<br /> 5. Por ser um &ldquo;site&rdquo; que disponibiliza gratuitamente servi&ccedil;o de busca para compara&ccedil;&atilde;o de condi&ccedil;&otilde;es, venda de produtos e servi&ccedil;os, a EURODEMAND n&atilde;o se responsabiliza por contrata&ccedil;&otilde;es efetuadas entre o USU&Aacute;RIO e os Anunciantes, n&atilde;o garantindo em qualquer hip&oacute;tese os produtos e/ou servi&ccedil;os contratados pelo USU&Aacute;RIO, ficando isento de quaisquer reivindica&ccedil;&otilde;es ou a&ccedil;&otilde;es judiciais propostas por USU&Aacute;RIOS ou TERCEIROS.<br /> 6. Os servi&ccedil;os da EURODEMAND est&atilde;o dispon&iacute;veis apenas para as pessoas que tenham capacidade legal para contrat&aacute;-los. N&atilde;o podem utiliz&aacute;-los, assim, pessoas que n&atilde;o gozem dessa capacidade, inclusive menores de idade, ou pessoas que tenham sido inabilitadas da EURODEMAND, tempor&aacute;ria ou definitivamente.<br /> 7. O USU&Aacute;RIO deve completar o formul&aacute;rio cadastral fornecendo dados e informa&ccedil;&otilde;es verdadeiras e precisas, responsabilizando-se civil e criminalmente por sua veracidade, devendo atualizar os dados e informa&ccedil;&otilde;es sempre que houver altera&ccedil;&otilde;es.<br /> 8. A EURODEMAND se reserva o direito de solicitar dados adicionais e documentos que estime serem pertinentes a fim de conferir os dados pessoais informados, assim como de inabilitar, tempor&aacute;ria ou definitivamente, o USU&Aacute;RIO, quando apresentarem alguma informa&ccedil;&atilde;o inver&iacute;dica. Ao cancelar o cadastro do USU&Aacute;RIO, automaticamente ser&aacute; cancelado seu acesso ao site da EURODEMAND, n&atilde;o cabendo ao USU&Aacute;RIO, qualquer forma de indeniza&ccedil;&atilde;o ou ressarcimento<br /> 9. A EURODEMAND poder&aacute; alterar, a qualquer momento, este Termo de Uso em busca de aprimorar seus controles e servi&ccedil;os prestados.<br /> 10. A EURODEMAND igualmente n&atilde;o se responsabiliza:<br /> 1. pelo conte&uacute;do e funcionamento dos &ldquo;sites&rdquo; dos Anunciantes &ldquo;on line&rdquo;, ou n&atilde;o;<br /> 2. por opini&otilde;es e reclama&ccedil;&otilde;es de USU&Aacute;RIOS acerca dos Anunciantes ,seus produtos ou servi&ccedil;os &ndash; a responsabilidade &eacute; exclusiva de quem as emitiu;<br /> 3. por negocia&ccedil;&otilde;es efetuadas entre o USU&Aacute;RIO e os Anunciantes;<br /> 4. pelo cumprimento dos contratos firmados entre os USU&Aacute;RIOS e os Anunciantes, sendo que tais contrata&ccedil;&otilde;es correm por conta e risco do USU&Aacute;RIO, que deve cercar-se de todos os cuidados necess&aacute;rios;<br /> 5. por danos e/ou preju&iacute;zos resultantes das contrata&ccedil;&otilde;es entre USU&Aacute;RIO e os Anunciantes no site da EURODEMAND;<br /> 6. pela origem, qualidade e quantidade dos produtos e servi&ccedil;os dos Anunciantes na EURODEMAND, sendo deles total e exclusiva responsabilidade;<br /> 7. por transa&ccedil;&otilde;es efetuadas on-line na Internet ou n&atilde;o, que s&atilde;o de inteira e exclusiva responsabilidade de quem disponibilizar os respectivos produtos ou servi&ccedil;os.<br /> 11. A EURODEMAND poder&aacute;, a qualquer momento e a seu exclusivo crit&eacute;rio, modificar a configura&ccedil;&atilde;o de seu &ldquo;site&rdquo;, podendo tamb&eacute;m eliminar ou acrescentar quaisquer lojas cadastradas em seu banco de dados, bem como alterar os regulamentos e contratos disponibilizados para os USU&Aacute;RIOS, sempre tendo em vista a melhoria do site da EURODEMAND.<br /> 12. Todo o conte&uacute;do (incluindo, mas n&atilde;o se limitando a, textos, programas de computador, sons, v&iacute;deos, fotografias e outros materiais dispon&iacute;veis no &ldquo;site&rdquo; da EURODEMAND, marcas, patentes, modelos, desenhos industriais entre outros), a apar&ecirc;ncia, a organiza&ccedil;&atilde;o e a estrutura da EURODEMAND s&atilde;o protegidas pela legisla&ccedil;&atilde;o de propriedade intelectual aplic&aacute;vel e n&atilde;o infringem qualquer lei ou norma a que estejam subordinadas, contratos, documentos, acordos dos quais faz parte, bem como n&atilde;o infringe direitos de terceiros. A viola&ccedil;&atilde;o de tais direitos, ensejar&aacute; a respectiva indeniza&ccedil;&atilde;o aos prejudicados, seja o EURODEMAND, seus USU&Aacute;RIOS e/ou terceiros, sem preju&iacute;zo de perdas e danos e honor&aacute;rios advocat&iacute;cios.<br /> 13. &Eacute; vedado ao USU&Aacute;RIO modificar, copiar, distribuir, transmitir, exibir, realizar, reproduzir, publicar, disponibilizar, licenciar ou criar obras derivadas a partir das informa&ccedil;&otilde;es coletadas no &ldquo;site&rdquo; EURODEMAND, bem como transferir ou vender tais informa&ccedil;&otilde;es, software, produtos ou servi&ccedil;os, sob pena de viola&ccedil;&atilde;o do presente termo e infra&ccedil;&atilde;o legal.<br /> 14. &Eacute; vedado aos USU&Aacute;RIOS ainda:<br /> 1. fazer a distribui&ccedil;&atilde;o de c&oacute;pias do &ldquo;site&rdquo; da EURODEMAND;<br /> 2. utilizar de qualquer forma trechos, t&eacute;cnica de engenharia reversa no desenvolvimento ou cria&ccedil;&atilde;o de outros trabalhos a fim de se analisar sua constitui&ccedil;&atilde;o;<br /> 3. divulgar conte&uacute;do ou arquivos sem autoriza&ccedil;&atilde;o;<br /> 4. liberar acesso a terceiros de forma il&iacute;cita.<br /> 15. Eventuais erros no funcionamento do &ldquo;site&rdquo; da EURODEMAND ser&atilde;o corrigidos durante o per&iacute;odo que for necess&aacute;rio para manuten&ccedil;&atilde;o. A EURODEMAND n&atilde;o se responsabiliza por danos decorrentes da n&atilde;o disponibilidade ou erro de funcionamento do site da EURODEMAND.<br /> 16. Quaisquer avisos ou comunica&ccedil;&otilde;es, que uma das partes tenha de fazer a outra parte, em rela&ccedil;&atilde;o a quaisquer direitos ou obriga&ccedil;&otilde;es contidas no presente instrumento, dever&atilde;o adotar a forma escrita e ser&atilde;o tidas como eficazmente entregues no endere&ccedil;o constante do pre&acirc;mbulo deste Termo de Uso, se: (a) entregues em m&atilde;os mediante protocolo escrito por quem de direito possa representar a parte remetida; (b) enviadas por servi&ccedil;o de &ldquo;courrier&rdquo; mediante protocolo escrito ou se pelo correio, na forma de carta registrada (&ldquo;AR&rdquo;); ou (c) enviadas por e-mail, ou outro meio eletr&ocirc;nico h&aacute;bil para tais comunica&ccedil;&otilde;es. As partes convencionam o recebimento de mensagens e arquivos eletr&ocirc;nicos como prova documental para todos os efeitos, desde que com aviso de confirma&ccedil;&atilde;o de recebimento ou outro tipo de protocolo que certifique o recebimento da comunica&ccedil;&atilde;o.<br /> 17. O USU&Aacute;RIO est&aacute; ciente de que:<br /> 1. n&atilde;o h&aacute; nenhum envolvimento ou interven&ccedil;&atilde;o da EURODEMAND nos neg&oacute;cios com os Anunciantes constantes do sistema de busca da EURODEMAND;<br /> 2. leu e est&aacute; de acordo com os termos e condi&ccedil;&otilde;es deste instrumento.<br /> 3. &eacute; de sua inteira responsabilidade a veracidade das reclama&ccedil;&otilde;es feitas acerca dos Anunciantes e de seus produtos ou servi&ccedil;os.<br /> 18. Toda informa&ccedil;&atilde;o ou dado pessoal prestado pelo USU&Aacute;RIO da EURODEMAND &eacute; armazenada em servidores ou meios magn&eacute;ticos de alta seguran&ccedil;a. A EURODEMAND tomar&aacute; todas as medidas poss&iacute;veis para manter a confidencialidade e a seguran&ccedil;a descritas nesta cl&aacute;usula, por&eacute;m, n&atilde;o responder&aacute; por preju&iacute;zo que possa ser derivado da viola&ccedil;&atilde;o dessas medidas por parte de terceiros que utilizem as redes p&uacute;blicas ou a internet, subvertendo os sistemas de seguran&ccedil;a para acessar as informa&ccedil;&otilde;es de USU&Aacute;RIOS.<br /> 19. N&atilde;o &eacute; permitida a utiliza&ccedil;&atilde;o de nenhum dispositivo, software, ou outro recurso que venha a interferir nas atividades e opera&ccedil;&otilde;es do site da EURODEMAND, bem como nos an&uacute;ncios, descri&ccedil;&otilde;es, contas ou seus bancos de dados. Qualquer intromiss&atilde;o, tentativa de, ou atividade que viole ou contrarie as leis, em especial a de direito de propriedade intelectual e/ou as proibi&ccedil;&otilde;es estipuladas nestes Termos de Uso, tornar&atilde;o o respons&aacute;vel pass&iacute;vel das a&ccedil;&otilde;es legais pertinentes, bem como das san&ccedil;&otilde;es aqui previstas, sendo ainda respons&aacute;vel pelas indeniza&ccedil;&otilde;es por eventuais danos causados.<br /> 20. A EURODEMAND n&atilde;o &eacute; o propriet&aacute;rio dos produtos e servi&ccedil;os oferecidos, n&atilde;o guarda a posse deles e n&atilde;o realiza as ofertas de venda. Tampouco interv&eacute;m na forma&ccedil;&atilde;o do pre&ccedil;o do produto ou servi&ccedil;o oferecido, na entrega dos produtos cuja negocia&ccedil;&atilde;o se iniciem no site, tampouco se responsabiliza pela efetiva&ccedil;&atilde;o e cumprimento da presta&ccedil;&atilde;o de servi&ccedil;os contratada pelo USU&Aacute;RIO. Sendo assim, cabe somente ao USU&Aacute;RIO assegurar-se de que o neg&oacute;cio &eacute; id&ocirc;neo antes de realizar qualquer transa&ccedil;&atilde;o.<br /> 21. O USU&Aacute;RIO reconhece e aceita que ao realizar negocia&ccedil;&otilde;es com outros USU&Aacute;RIOS ou terceiros faz por sua conta e risco. Em nenhum caso a EURODEMAND ser&aacute; respons&aacute;vel pelo lucro cessante ou por qualquer outro dano e/ou preju&iacute;zo que o USU&Aacute;RIO possa sofrer devido &agrave;s negocia&ccedil;&otilde;es realizadas ou n&atilde;o realizadas atrav&eacute;s do site da EURODEMAND.<br /> 22. A EURODEMAND recomenda que toda transa&ccedil;&atilde;o seja realizada com cautela e bom senso. O USU&Aacute;RIO dever&aacute; avaliar os riscos da negocia&ccedil;&atilde;o, levando em considera&ccedil;&atilde;o que pode estar, eventualmente, lidando com menores de idade ou pessoas valendo-se de falsas identidades. A EURODEMAND n&atilde;o ser&aacute; respons&aacute;vel pelas transa&ccedil;&otilde;es entre os USU&Aacute;RIOS, mesmo as firmadas com base na confian&ccedil;a depositada no sistema ou nos servi&ccedil;os prestados pela EURODEMAND. Todas as transa&ccedil;&otilde;es s&atilde;o realizadas diretamente entre as partes interessadas, sem nenhum interm&eacute;dio da EURODEMAND.<br /> 23. Nos casos em que um ou mais USU&Aacute;RIOS ou algum terceiro inicie qualquer tipo de reclama&ccedil;&atilde;o ou a&ccedil;&atilde;o legal contra outro, ou outros USU&Aacute;RIOS, todos e cada um dos USU&Aacute;RIOS envolvidos nas reclama&ccedil;&otilde;es ou a&ccedil;&otilde;es eximem de toda responsabilidade a EURODEMAND e a seus diretores, gerentes, empregados, agentes, oper&aacute;rios, representantes e procuradores.<br /> 24. Estes Termos de Uso n&atilde;o geram nenhum contrato de sociedade, de mandato, franquia ou rela&ccedil;&atilde;o de trabalho entre a EURODEMAND e o USU&Aacute;RIO. O USU&Aacute;RIO manifesta ci&ecirc;ncia de que a EURODEMAND n&atilde;o &eacute; parte de nenhuma transa&ccedil;&atilde;o, nem possui controle algum sobre a qualidade, seguran&ccedil;a ou legalidade dos produtos e/ou servi&ccedil;os anunciados e sobre a veracidade ou exatid&atilde;o dos an&uacute;ncios. A EURODEMAND n&atilde;o pode assegurar o &ecirc;xito de qualquer transa&ccedil;&atilde;o, n&atilde;o garante a veracidade da publica&ccedil;&atilde;o de terceiros que apare&ccedil;a em seu site e n&atilde;o ser&aacute; respons&aacute;vel pela correspond&ecirc;ncia ou contratos que o USU&Aacute;RIO realize com terceiros.<br /> 25. A EURODEMAND n&atilde;o se responsabiliza por qualquer dano, preju&iacute;zo ou perda no equipamento do USU&Aacute;RIO causada por falhas no sistema, no servidor ou na internet. A EURODEMAND tamb&eacute;m n&atilde;o ser&aacute; respons&aacute;vel por qualquer v&iacute;rus que possa atacar o equipamento do USU&Aacute;RIO em decorr&ecirc;ncia do acesso, utiliza&ccedil;&atilde;o ou navega&ccedil;&atilde;o no site na internet ou como conseq&uuml;&ecirc;ncia da transfer&ecirc;ncia de dados, arquivos, imagens, textos, &aacute;udio ou v&iacute;deos, contidos no mesmo. Os USU&Aacute;RIOS n&atilde;o poder&atilde;o atribuir &agrave; EURODEMAND nenhuma responsabilidade nem exigir o pagamento por lucro cessante ou quaisquer tipos de indeniza&ccedil;&otilde;es em virtude de preju&iacute;zos resultantes de dificuldades t&eacute;cnicas ou falhas nos sistemas ou na internet. Tamb&eacute;m n&atilde;o &eacute; de responsabilidade do EURODEMAND garantir o acesso e uso cont&iacute;nuo ou sem interrup&ccedil;&otilde;es de seu site. Eventualmente, o sistema poder&aacute; n&atilde;o estar dispon&iacute;vel por motivos t&eacute;cnicos ou falhas da internet, ou por qualquer outra circunst&acirc;ncia alheia &agrave; EURODEMAND.<br /> 26. O site pode linkar outros sites da rede, n&atilde;o significando com isso que esses sites sejam de propriedade ou operados pela EURODEMAND. Sendo assim, a EURODEMAND n&atilde;o ser&aacute; respons&aacute;vel pelos conte&uacute;dos, pr&aacute;ticas e servi&ccedil;os ofertados nos mesmos. A presen&ccedil;a de links para outros sites n&atilde;o implica rela&ccedil;&atilde;o de sociedade, de supervis&atilde;o, de cumplicidade ou solidariedade da EURODEMAND para com esses sites e seus conte&uacute;dos.<br /> 27. Todos os itens destes Termos de Uso est&atilde;o regidos pelas leis vigentes na Calif&oacute;rnia, Estados Unidos. Para todos os assuntos referentes &agrave; interpreta&ccedil;&atilde;o e ao cumprimento deste Contrato, as partes se submetem ao tribunal da Calif&oacute;rnia.</li>
+</ol>
+<p>&nbsp;</p>
+
+						</div>
+						
+					</main>
+					
+					<aside class="aside-with-page">
+						<div class="aside-box first">
+							
+
+
+
+
+
+
+
+
+
+
+<div class="compre-pelo-telefone">
+	<img src="/resources/v3/images/common/compre-tel.gif" alt="Compre pelo Telefone" />
+	<span class="tel">4007-2532</span>
+	<div class="small">* Somente Regi&otilde;es metropolinas. Demais localidades: (11) 4007-2532</div>
+	<hr class="dotted" />
+	<span class="small">Atendimento de segunda a sexta das 08:30 às 19:00.</span>
+</div>
+
+
+						</div>
+					</aside>
+					
+					<br />
+					
+				</div>
+			</div>
+		</div>
+		
+	
+		</div>
+		
+<footer class="rodape">
+	<div class="links">
+	<div class="container">
+		<div class="row">
+			<ul class="col-md-12 col-sm-12 col-xs-12" role="presentation">
+				<li><a href="politica-de-privacidade" title="Veja a política de privacidade da Smartia">Política de privacidade</a></li>
+				<li class="divider">|</li>
+				<li><a href="termos-de-uso" title="Veja os termos de uso da Smartia">Termos de uso</a></li>
+				<li class="divider">|</li>
+				<li><a href="seguranca" title="Tudo sobre a segurança de seus dados em nosso site">Segurança</a></li>
+				<li class="divider">|</li>
+				<li><a href="cotacao-de-seguro" title="Entenda a cotação de Seguro">Cotação de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="sobre-seguro-auto" title="Saiba mais sobre seguro auto">Seguro Auto</a></li>
+				<li class="divider">|</li>
+				<li><a href="valor-de-seguro" title="Saiba o valor do seu seguro">Valor de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="simulacao-de-seguros" title="Entenda a simulação de seguros">Simulação de Seguros</a></li>
+				<li class="divider">|</li>
+				<li><a href="franquia-de-seguros" title="Saiba mais sobre franquia de seguros">Franquia de Seguros</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row imagens">
+		<div class="siga-nos col-md-4 col-sm-4 col-xs-4">
+			Siga-nos 
+			<ul class="inline">
+				<li><a href="https://www.facebook.com/SmartiaSeguros" target="_blank" alt="Curta nossa página do Facebook"><b class="sprite-dinamico share-facebook ir">Curta nossa página do Facebook</b></a></li> 
+				<li><a href="https://twitter.com/smartiaseguros/" target="_blank" alt="Siga a Smartia no Twitter"><b class="sprite-dinamico share-twitter ir">Siga a Smartia no Twitter</b></a></li>
+				
+				<li><a href="https://www.youtube.com/user/SmartiaSeguros" target="_blank" alt="Assista os vídeos da nossa página do Youtube"><b class="sprite-dinamico share-youtube ir">Assista os vídeos da nossa página do Youtube</b></a></li>
+				<li><a href="https://plus.google.com/+SmartiaBrSeguros" rel="publisher" target="_blank" alt="Não deixe de acessar nossa página do Google Plus"><b class="sprite-dinamico share-google-plus ir">Não deixe de acessar nossa página do Google Plus</b></a></li>
+			</ul>
+		</div>
+		<div class="site-seguro col-md-4 col-sm-4 col-xs-4 logos">
+			<div class="descricao col-md-4 col-sm-4 col-xs-4">
+				Site seguro, cotação segura:
+			</div>
+			<div class="logo col-md-3 col-sm-3 col-xs-3">
+				<a href="javascript:vopenw('Certisign')"><b class="sprite-fixo logo-certisign ir">Site seguro - validado por CertiSign</b></a>
+			</div>
+		</div>
+		
+	</div>
+	<div class="row copyrights">
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<p class="copyright">
+				© Copyright 2017 Smartia. Todos os direitos reservados.
+			</p>
+			<p class="texto-copyright">
+				Smartia ® é de propriedade da Eurodemand do Brasil S.A, registrada sob o CNPJ 17.467.253/0001-72, situada à Av. Brigadeiro Faria Lima 201 - 11º andar | São Paulo, SP 05426-100. Este portal faz parte do grupo de sites de seguros e finanças de nossa empresa. Preencha o nosso formulário para solicitar o seu seguro auto e receber o contato de um de nossos corretores em sua região. Para entrar em contato com nossa equipe utilize nosso formulário de contato.
+			</p>
+		</div>
+	</div>
+</div>
+
+</footer>
+
+		
+<section class="modal fade modal-atendimento" id="modalAtendimento" tabindex="-1" role="dialog" aria-labelledby="modalAtendimentoLabel" aria-hidden="true">
+  <div class="modal-dialog">
+	<div class="modal-content">
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">fechar <span class="glyphicon glyphicon-remove-sign"></span></button>
+	  </div>
+	  <div class="modal-body">
+	  	<div class="inline">
+			<h1 id="modalAtendimentoLabel" class="modal-title"><i class="sprite-adicional sprite-atendente"></i></h1>
+			<p class="subtitulo">Serviço de atendimento ao consumidor</p>
+		</div>
+		<h2>4007-2532</h2>
+		<div class="small">* Somente Regi&otilde;es metropolinas. Demais localidades: (11) 4007-2532</div>
+		<p>Através da nossa central de atendimento você pode comprar um seguro novo, fazer uma renovação ou endosso, tirar dúvidas e acionar seu seguro.</p>
+		<p class="horarios">Atendimento de segunda a sexta das 08:30 às 19:00.</p>
+		
+	  </div>
+	</div>
+  </div>
+</section>
+
+		<script src='resources/styles/v3-common.js' type="text/javascript"></script>
+			<script src='resources/styles/estaticas.js' type="text/javascript" async></script>
+			
+		<!--[if lte IE 8]><script>window.setTimeout("$('html').removeClass('hideall')", 3000);</script><![endif]-->
+		<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.async = true;
+  js.src = "https://connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+		
+	<form id="centro_banner_form" method="get" action="https://melhor.smartia.com.br/" style="visibility: hidden" >
+           					 
+<input type="hidden" name="aff_id" value="1189" id="aff_id" class="aff_id" />
+
+				<input type="hidden" name="centro_utm_source" value="" id="centro_utm_source" class="centro_utm_source" />
+				<input type="hidden" name="centro_utm_medium" value="" id="centro_utm_medium" class="centro_utm_medium" />
+				<input type="hidden" name="centro_utm_campaign" value="" id="centro_utm_campaign" class="centro_utm_campaign" />
+				<input type="hidden" name="centro_referrer" value="" id="centro_referrer" class="centro_referrer" />
+				<input type="hidden" name="centro_landing_page_url" value="" id="centro_landing_page_url" class="centro_landing_page_url" />
+				<input type="hidden" name="centro_session_landing_page_url" value="" id="centro_session_landing_page_url" class="centro_session_landing_page_url" />
+
+               	<input type="submit" class="btn btn-primary large button vemm-event-go-to-form" value="Solicitar">
+               
+			</form> 
+		
+	</body>
+</html>

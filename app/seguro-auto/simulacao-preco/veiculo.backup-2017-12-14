@@ -1,0 +1,546 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" lang="pt-BR" >
+<head>
+	
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<!--[if lte IE 7]>
+	<script>window.location.href='/atualize-seu-navegador';</script>
+	<![endif]-->
+	
+		<title>Smartia Seguros Online</title>
+		<meta name="author" content="Smartia" />
+		<meta name="description" content="Economize no seguro do seu carro na Smartia, calcule em v&aacute;rias seguradoras e compre na hora." />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+
+	<!-- Favicons and touch icons -->
+	<!-- For retina-display iPads -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png" href="../../resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For retina-display iPhones -->
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png" href="../../resources/v3/images/common/iphone_retina_114x114.png"/>
+	<!-- For iPad 1 -->
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png" href="../../resources/v3/images/common/ipad_72x72.png"/>
+	<!-- For iPhone 3G, iPod Touch and Android -->
+	<link rel="apple-touch-icon-precomposed" type="image/png" href="../../resources/v3/images/common/iphone_57x57.png" />
+	<!-- For Nokia 
+	<link rel="shortcut icon" type="image/png" href="/resources/v3/images/common/iphone_57x57.png" />
+	<link rel="icon" type="image/png" href="/resources/v3/images/common/64x64.png" />
+	-->
+	<link rel="shortcut icon" href="../../resources/v3/images/common/favicon" />
+	
+	<!-- Site theme -->
+	
+	
+	
+	
+	
+	
+	<!--[if lte IE 8]>
+	  <script src="/resources/scripts/v3-old-ie.js"></script>
+	<![endif]-->
+
+	<link rel="stylesheet" type="text/css" href="../../static/styles/headerdc5c.css?rev=LOCAL_1511284763132" />
+	<!--<script type="text/javascript" src="../../static/scripts/headerdc5c.js?rev=LOCAL_1511284763132" ></script>-->
+	
+		
+			<link rel="stylesheet" type="text/css" href="../../static/styles/formdc5c.css?rev=LOCAL_1511284763132" />
+			<!--<script type="text/javascript" src="../../static/scripts/formdc5c.js?rev=LOCAL_1511284763132" ></script>-->
+		
+	 
+	<link rel="stylesheet" type="text/css" href="../../resources/styles/legacydc5c.css?rev=LOCAL_1511284763132" />
+
+	<!--[if gte IE 9]>
+	<script type="text/javascript"> 
+		Cufon.set('engine', 'canvas'); 
+	</script> 
+	<![endif]-->
+	<script type="text/javascript">
+		/*Cufon.replace('');
+		Cufon.replace('-2');
+		$(document).ready(function() {
+			$('.cufon:not(.revision_number)').show();
+			$('.jsMenuSmartia').show();
+		});*/
+	</script>
+	
+		
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/static/styles/ie7.css?rev=LOCAL_1511284763132" >
+	<![endif]-->
+	<!--[if IE 8]>
+		<link rel="stylesheet" type="text/css" href="/static/styles/ie8.css?rev=LOCAL_1511284763132" >
+	<![endif]-->
+	
+	
+	<!-- Verifica se plugin possui banner -->
+	
+	
+	
+	<!--<script type="text/javascript">
+		window.idSessaoSmartia = "S171121EJY29J1XAY3AXA59HX5X";
+		window.baseURL = "/";
+		window.base = "";
+		window.revNumber = "LOCAL_1511284763132";
+	</script>-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20687946-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-20687946-1');
+</script>
+</head>
+
+<body onunload="" class="">
+	
+	
+	<!-- <noscript><iframe src="https://www.googletagmanager.com/ns?id=GTM-WXLWLP"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WXLWLP');</script>	-->
+		
+	<div id="bg_placaChassi"></div>
+	<div id="bg_Modal"></div>
+	<div id="atendimento" class="modal curvyRedraw display_none">
+		<a class="ico_fechar jsAtendimentoFechar" title="Fechar Janela"><img width="15" height="15" src="../../static/images/ico_fechar.png" alt="Fechar Janela" /></a>
+		<div class="conteudo-modal">
+			<h3>Servi&ccedil;o de atendimento ao consumidor</h3>
+			<div class="numeros-telefones">
+				<p class="mensagem">Atrav&eacute;s de nosso Atendimento voc&ecirc; pode comprar um seguro novo, fazer uma renova&ccedil;&atilde;o ou endosso, tirar d&uacute;vidas e acionar seu seguro.</p>		
+				<ul>
+					<li></li>
+				</ul>
+				<p class="atendimento">Atendimento de segunda a sexta das 08h20 &agrave;s 21h00.</p>
+				<p class="tarifas">* Liga&ccedil;&otilde;es para o servi&ccedil;o 4003 tem custo de uma liga&ccedil;&atilde;o local.</p>					
+			</div>		
+		</div>
+	</div>
+<div class="body-content">
+	
+		
+		<div class="novo-header-wrapper">
+			<div class="novo-header">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 col-sm-12 col-xs-12">
+							<a href="/"><img class="novo-logo" src="../../resources/v3/images/common/logo.png" alt="Smartia Seguros Online"/></a>
+							<div class="novo-menus">
+								<div class="novo-atalhos">
+									<ul class="novo-nav nav-pills">
+										<div class="build-number">LOCAL</div>
+<li class="blog"><a href="../../blog"><b class="sprite-header blog-icon"></b>Blog</a></li>
+<li class="atalho-atendimento"><a id="atendimentoSmartia" role="button" data-toggle="modal" href="#modalAtendimento"><span class="texto"><b class="sprite-header atend-icon"></b>&nbsp;</span><!--  <span class="sprite-header atend-fone ir">0800 Smartia</span> -->Atendimento</a></li>
+									</ul>
+								</div>
+								<div class="novo-menubar">
+									<ul class="novo-nav nav-pills menuitens">
+										<li class="dropdown menu-produtos">
+  <a id="dropProdutos" role="button" data-hover="dropdown" href="javascript:void(0);">Produtos <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuProdutos" class="dropdown-menu" role="menu" aria-labelledby="dropProdutos">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="veiculo">Seguro Automóvel</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../seguro-caminhao">Seguro Caminhão</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../seguro-taxi">Seguro Táxi</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../seguro-frota">Seguro Frota</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../seguro-empresa">Seguro Empresa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-como-funciona">
+  <a id="dropComoFunciona" role="button" data-hover="dropdown" href="javascript:void(0);">Como funciona <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuComoFunciona" class="dropdown-menu" role="menu" aria-labelledby="dropComoFunciona">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../como-funciona-seguro-online">Seguro online</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../seguradoras">Seguradoras</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../como-acionar-seu-seguro">Acionando seu seguro</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../perguntas-frequentes">Perguntas frequentes</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../dicionario-de-seguros">Dicionário de seguros</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-sobre-a-smartia">
+  <a id="dropSobreASmartia" role="button" data-hover="dropdown" href="javascript:void(0);">Sobre a smartia <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuSobreSmartia" class="dropdown-menu" role="menu" aria-labelledby="dropSobreASmartia">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../quem-somos">Quem somos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../depoimentos">Depoimentos</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../sala-de-imprensa">Sala de imprensa</a></li>
+  </ul>
+</li>
+<li class="dropdown menu-contato">
+  <a id="dropContato" role="button" data-hover="dropdown" href="javascript:void(0);">Contato <b class="glyphicon glyphicon-chevron-down"></b></a>
+  <ul id="menuContato" class="dropdown-menu" role="menu" aria-labelledby="dropContato">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../fale-conosco">Fale conosco</a></li>
+	<li role="presentation" class="divider"></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="../../trabalhe-conosco">Trabalhe conosco</a></li>
+  </ul>
+</li>
+<li class="simular-agora">
+	<a class="btn btn-primary" href="veiculo">Simule seu Seguro Auto <b class="right-caret"></b></a>
+</li>
+<li class="social">
+	<div class="google">
+		<g:plusone size="medium" annotation="none"></g:plusone>
+	</div>
+	<div class="facebook">
+		<div class="fb-wrapper">
+			<div class="fb-like" data-href="https://www.facebook.com/SmartiaSeguros" data-width="30" data-show-faces="false" data-send="false" data-action="like" data-layout="button_count" data-font="tahoma"></div>
+		</div>
+	</div>
+</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+	
+
+	
+	<div class="content">
+		
+
+<style>
+#dv_combustivel > div.crossform-select {width: 176px !important;}
+div select {visibility: hidden;}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 993115476;
+var google_conversion_label = 'bqhyCLTP6gMQ1PrG2QM';
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/993115476/?value=0&amp;label=bqhyCLTP6gMQ1PrG2QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Remarketing search -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 989399111;
+var google_conversion_label = "vbBjCJnKiAUQx5Dk1wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/989399111/?value=0&amp;label=vbBjCJnKiAUQx5Dk1wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<div class="container">
+	<div class="form_header">
+		<h2 class="cufon">Veículo</h2>
+		<div class="progress-bar">
+			<ul class="steps">
+				<li class="progress-active"><a href="#" class="active">veículo</a></li>
+				<li><span>condutor</span></li>
+				<li><span>localização</span></li>
+				<li><span>proprietário</span></li>
+				<li><span>segurado</span></li>
+				<li style="margin-right:0;"><span>seguro</span></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="form_padrao" >
+		
+						
+		<section class="home banner post-banner">
+
+    <div class="row">
+        <div class="six columns push-six calltoaction panel callout">
+            <p class="call-title">COTE SEU SEGURO AUTO</p>
+            
+            <p class="lead"><strong>Qual a marca do seu carro?</strong></p>	
+            
+           						<form id="centro_banner_form" method="get" action="https://smartia.seguroauto.org/" >
+<ul class="fabricantes">
+           					 <li>
+           					  <input id="chevrolet" type="radio"  name="marca" value="GM - Chevrolet" onclick="this.form.submit()">
+           						 <label for="chevrolet"><img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/chevrolet1.png"></label>
+           					</li>
+          					<li><input id="fiat" type="radio"  name="marca" value="Fiat" onclick="this.form.submit()">
+           						<label for="fiat">
+           						<img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/fiat1.png">
+           						</label>
+           					</li>
+           					<li><input id="ford" type="radio"  name="marca"value="Ford" onclick="this.form.submit()">
+           						<label for="ford">
+           						<img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/ford1.png">
+           						</label>
+           					</li>
+           					<li><input id="hyundai" type="radio"  name="marca" value="Hyundai" onclick="this.form.submit()">
+           						<label for="hyundai">
+           						<img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/hyundai1.png">
+           						</label>
+           					</li>
+           					<li><input id="renault" type="radio"  name="marca" value="Renault" onclick="this.form.submit()">
+           						<label for="renault">
+           						<img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/renault1.png">
+           						</label>
+           					</li>
+           					<li><input id="toyota" type="radio"  name="marca" value="Toyota" onclick="this.form.submit()">
+           						<label for="toyota">
+           						<img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/Toyota1.png">
+           						</label>
+           					</li>
+           					<li><input id="vw" type="radio"  name="marca" value="VW - VolksWagen" onclick="this.form.submit()">
+           						<label for="vw">
+           						<img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/VW1.png">
+           						</label>
+           					</li>
+           					<li><input id="outra" type="radio"  name="marca" onclick="this.form.submit()">
+           						<label for="outra">
+           						<img src="https://www.smartia.com.br/blog/wp-content/uploads/2017/12/outra2.png">
+           						</label>
+           					</li>
+           				</ul>
+<input type="hidden" name="aff_id" value="1187" id="aff_id" class="aff_id" />
+				
+				<input type="hidden" name="centro_utm_source" value="Smartia" id="centro_utm_source" class="centro_utm_source" />
+<input type="hidden" name="centro_utm_medium" value="Smartia" id="centro_utm_medium" class="centro_utm_medium" />
+<input type="hidden" name="centro_utm_campaign" value="Smartia" id="centro_utm_campaign" class="centro_utm_campaign" />
+				<input type="hidden" name="utm_campaign" value="Smartia" id="utm_campaign" />
+				<input type="hidden" name="utm_source" value="Smartia" id="utm_source" />
+				<input type="hidden" name="utm_medium" value="Smartia" id="utm_medium"/>
+				<input type="hidden" name="centro_referrer" value="" id="centro_referrer" class="centro_referrer" />
+				<input type="hidden" name="centro_landing_page_url" value="" id="centro_landing_page_url" class="centro_landing_page_url" />
+				<input type="hidden" name="centro_session_landing_page_url" value="" id="centro_session_landing_page_url" class="centro_session_landing_page_url" />
+
+               	<input type="submit" class="large button vemm-event-go-to-form" value="Solicitar">
+			</form> 
+			<hr>
+			
+        </div>
+    </div>
+
+</section>
+		
+		
+	</div>
+		
+	
+
+
+
+<div class="wizard">
+	<h3 class="need-help cufon">Informações</h3>
+	<p class="txt-contact">
+		<span class="txt-chat-offline">Fale com um de nossos atendentes.</span>
+
+<span class="h-atendimento">De segunda a sexta-feira <br> das 08:30 às 19:00.<br/></span>
+
+
+
+
+	</p>
+	<div class="perguntas-respostas">
+		<script>
+			$(document).ready(function() {
+				$(".jsPergunta").click(function() {
+					$(this).next('.jsResposta').toggle();
+				});
+			});
+		</script>
+		<h3>Dúvidas frequentes:</h3>
+		<ul>
+						
+				<li class='jsPergunta pergunta'>Quais as principais garantias oferecidas no seguro de automóvel?</li>
+				<li class='jsResposta resposta'>
+					<p>As garantias dividem-se basicamente em:</p>
+					<p><strong>Coberturas básicas:</strong> cobrem incêndio, roubo/furto, colisão, acidentes pessoais de passageiros, danos corporais e danos materiais;</p>
+					<p><strong>Coberturas adicionais:</strong> garantem, por exemplo, utilização de carro reserva, danos nos vidros, lanternas e retrovisores, danos morais ao segurado;</p>
+					<p><strong>Serviços de assistência:</strong> garantem, por exemplo, reboque 24h, chaveiro, troca de pneus, dentre inúmeros outros.</p>
+				</li>
+				<li class='jsPergunta pergunta'>O que cobre a garantia do kit gás?</li>
+				<li class='jsResposta resposta'><p>Estão cobertos os danos causados ao equipamento de kit gás, decorrentes de eventos causados por colisão, incêndio e roubo. Para a contratação dessa garantia é necessário apresentar o Certificado de Segurança Veicular, expedido por instituição técnica licenciada, bem como uma regularização junto ao DETRAN.</p></li>
+				
+			
+			
+			
+			
+			
+			
+		</ul>
+		<div class="selo_form"><script>function vopenw() {	tbar='location=no,status=yes,resizable=yes,scrollbars=yes,width=560,height=535';	sw =  window.open('https://www.certisign.com.br/seal/splashcerti.htm','CRSN_Splash',tbar);	sw.focus();}</script>
+			<a href='javascript:vopenw()'><img src='../../static/images/layout/100x46_fundo_branco.png' alt='Um site validado pela Certisign indica que nossa empresa concluiu satisfatoriamente todos os procedimentos para determinar que o domínio validado é de propriedade ou se encontra registrado por uma empresa ou organização autorizada a negociar por ela ou exercer qualquer atividade lícita em seu nome.'></a>
+		</div>
+	</div>
+</div>
+		
+	
+</div>
+
+
+
+
+</div>
+</div>
+
+<div class="rodape" style="">
+	<div class="links">
+	<div class="container">
+		<div class="row">
+			<ul class="col-md-12 col-sm-12 col-xs-12" role="presentation">
+				<li><a href="../../politica-de-privacidade" title="Veja a política de privacidade da Smartia">Política de privacidade</a></li>
+				<li class="divider">|</li>
+				<li><a href="../../termos-de-uso" title="Veja os termos de uso da Smartia">Termos de uso</a></li>
+				<li class="divider">|</li>
+				<li><a href="../../seguranca" title="Tudo sobre a segurança de seus dados em nosso site">Segurança</a></li>
+				<li class="divider">|</li>
+				<li><a href="../../cotacao-de-seguro" title="Entenda a cotação de Seguro">Cotação de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="../../sobre-seguro-auto" title="Saiba mais sobre seguro auto">Seguro Auto</a></li>
+				<li class="divider">|</li>
+				<li><a href="../../valor-de-seguro" title="Saiba o valor do seu seguro">Valor de Seguro</a></li>
+				<li class="divider">|</li>
+				<li><a href="../../simulacao-de-seguros" title="Entenda a simulação de seguros">Simulação de Seguros</a></li>
+				<li class="divider">|</li>
+				<li><a href="../../franquia-de-seguros" title="Saiba mais sobre franquia de seguros">Franquia de Seguros</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row imagens">
+		<div class="siga-nos col-md-4 col-sm-4 col-xs-4">
+			Siga-nos 
+			<ul class="inline">
+				<li><a href="https://www.facebook.com/SmartiaSeguros" target="_blank" alt="Curta nossa página do Facebook"><b class="sprite-dinamico share-facebook ir">Curta nossa página do Facebook</b></a></li> 
+				<li><a href="https://twitter.com/smartiaseguros/" target="_blank" alt="Siga a Smartia no Twitter"><b class="sprite-dinamico share-twitter ir">Siga a Smartia no Twitter</b></a></li>
+				<!---->
+				<li><a href="https://www.youtube.com/user/SmartiaSeguros" target="_blank" alt="Assista os vídeos da nossa página do Youtube"><b class="sprite-dinamico share-youtube ir">Assista os vídeos da nossa página do Youtube</b></a></li>
+				<li><a href="https://plus.google.com/+SmartiaBrSeguros" rel="publisher" target="_blank" alt="Não deixe de acessar nossa página do Google Plus"><b class="sprite-dinamico share-google-plus ir">Não deixe de acessar nossa página do Google Plus</b></a></li>
+			</ul>
+		</div>
+		<div class="site-seguro col-md-4 col-sm-4 col-xs-4 logos">
+			<div class="descricao col-md-4 col-sm-4 col-xs-4">
+				Site seguro, cotação segura:
+			</div>
+			<div class="logo col-md-3 col-sm-3 col-xs-3">
+				<a href="javascript:vopenw('Certisign')"><b class="sprite-fixo logo-certisign ir">Site seguro - validado por CertiSign</b></a>
+			</div>
+		</div>
+		<!---->
+	</div>
+	<div class="row copyrights">
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<p class="copyright">
+				© Copyright 2017 Smartia. Todos os direitos reservados.
+			</p>
+			<p class="texto-copyright">
+				Smartia ® é de propriedade da Eurodemand do Brasil S.A, registrada sob o CNPJ 17.467.253/0001-72, situada à Av. Brigadeiro Faria Lima 201 - 11º andar | São Paulo, SP 05426-100. Este portal faz parte do grupo de sites de seguros e finanças de nossa empresa. Temos parcerias com as principais corretoras de seguro e seguradoras do Brasil. Preencha o nosso formulário para solicitar o seu seguro auto e receber o contato de um de nossos corretores em sua região. Para entrar em contato com nossa equipe utilize nosso formulário de contato.
+			</p>
+		</div>
+	</div>
+</div>
+
+</div>
+
+
+<div class="modal novo-modal fade novo-modal-atendimento" id="modalAtendimento" tabindex="-1" role="dialog" aria-labelledby="modalAtendimentoLabel" aria-hidden="true">
+  <div class="novo-modal-dialog">
+	<div class="novo-modal-content">
+	  <div class="novo-modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">fechar <span class="glyphicon glyphicon-remove-sign"></span></button>
+	  </div>
+	  <div class="novo-modal-body">
+	  	<div class="inline">
+			<h1 id="modalAtendimentoLabel" class="modal-title"><i class="sprite-adicional sprite-atendente"></i><b>0800</b>Smartia</h1>
+			<p class="subtitulo">Serviço de atendimento ao consumidor</p>
+		</div>
+		<hr>
+		
+		<p>Através da nossa central de atendimento você pode comprar um seguro novo, fazer uma renovação ou endosso, tirar dúvidas e acionar seu seguro.</p>
+		<p class="horarios">Atendimento de segunda a sexta das 08:30 às 19:00.</p>
+	  </div>
+	</div>
+  </div>
+</div>
+
+
+<!--<script type="text/javascript" >
+Cufon.replace('');
+Cufon.replace('-2');
+Cufon.now();
+</script>-->
+<!-- 
+<script type="text/javascript" src="/static/scripts/footer-v2-to-v3.js?rev=LOCAL_1511284763132"></script>
+ -->
+<!--<script>
+	window.jQuerySite = jQuery.noConflict();
+	window.$ = null;
+	window.jQuery = null; 
+</script>-->
+<script type="text/javascript" src="../../static/scripts/novo-jquerydc5c.js?rev=LOCAL_1511284763132" ></script>
+<script type="text/javascript" src="../../static/scripts/legacydc5c.js?rev=LOCAL_1511284763132" ></script>
+<!--<script>
+	window.jQuery = jQuerySite;
+	window.$ = jQuerySite;
+</script>-->
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.async = true;
+  js.src = "https://connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+
+</html>

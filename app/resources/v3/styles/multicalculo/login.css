@@ -1,0 +1,66 @@
+body {
+  font-family: "Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;
+  color: #484848;
+  background: #f4f4ee; }
+
+main {
+  width: 480px;
+  margin: auto;
+  margin-top: 5%;
+  padding: 20px 40px 40px 40px;
+  border: 1px solid #e2e9e4;
+  background: white; }
+
+section {
+  width: 300px;
+  margin: auto;
+  text-align: center; }
+
+h1 {
+  font-size: 1.3em;
+  margin-bottom: 4px;
+  font-weight: 100; }
+
+p {
+  margin: 0px 0px 10px 0px;
+  font-size: 0.8em;
+  color: #CAAFAF; }
+
+input {
+  width: 280px;
+  height: 37px;
+  border: 1px solid #999;
+  background: #FFF url(../../../../static/images/layout/form-padrao/bg-input.png) top repeat-x;
+  padding-left: 10px;
+  margin-top: 10px; }
+  input font {
+    size: 1.2em; }
+
+button {
+  background: #3ad12c;
+  background-image: -webkit-linear-gradient(top, #3ad12c, #3ac466);
+  background-image: -moz-linear-gradient(top, #3ad12c, #3ac466);
+  background-image: -ms-linear-gradient(top, #3ad12c, #3ac466);
+  background-image: -o-linear-gradient(top, #3ad12c, #3ac466);
+  background-image: linear-gradient(to bottom, #3ad12c, #3ac466);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: none;
+  color: #ffffff;
+  font-size: 1em;
+  padding: 10px 20px 10px 20px;
+  margin-top: 20px; }
+  button :hover {
+    background: #6ade70;
+    background-image: -webkit-linear-gradient(top, #6ade70, #8cd980);
+    background-image: -moz-linear-gradient(top, #6ade70, #8cd980);
+    background-image: -ms-linear-gradient(top, #6ade70, #8cd980);
+    background-image: -o-linear-gradient(top, #6ade70, #8cd980);
+    background-image: linear-gradient(to bottom, #6ade70, #8cd980); }
+
+span {
+  color: red;
+  font-size: 0.8em; }
+
+/*# sourceMappingURL=login.css.map */

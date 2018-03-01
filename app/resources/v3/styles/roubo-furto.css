@@ -1,0 +1,535 @@
+/*
+	HEADER
+*/
+/* This is for the smartphone version of the logo*/
+.logo.smart
+{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+/* 
+	PRIMARY CONTENT AREA
+
+	Includes the main orange box
+*/
+.landing-container
+{
+	background-color: #f6b242;
+	padding-top: 24px;
+	padding-bottom: 36px;
+}
+
+.landing-container .container
+{
+	padding: 0 35px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.landing-car-icon-normal
+{
+	background: url(../images/landing-pages/landing-car.png) left top no-repeat;	
+	background-size: 100% 100%;
+	height: 269px;
+	width: 468px;
+}
+
+.landing-car-icon-small
+{
+	background: url(../images/landing-pages/landing-car-small.png) 100% 100% no-repeat;
+	height: 133px;
+	width: 100%;
+	margin-top:30px;
+}
+
+.intro-header h2,
+.intro-header h4
+{
+	color: #FFF;
+	margin: 0;
+} 
+
+.intro-header h4 
+{
+	font: 26px "open-sans-n7", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+
+.intro-header h2 
+{
+	font: 54px/54px "open-sans-n3", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+}
+
+
+.price-box
+{
+	background-color: #fff;
+	float: right;
+	margin-top: 30px;
+	width: 340px;
+	padding: 7px 10px 12px 10px;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+	border-radius: 3px;
+}
+
+.price-box p,
+.price-box h3 
+{
+	display: inline-block;
+	vertical-align: super;
+	margin: 0;
+}
+.section-title{
+	text-align: center;
+}
+.vantagens{
+	text-align:center;
+}
+
+.price-box p
+{
+	font-size: 15px;
+	line-height: 18px;
+}
+
+.price-box h3 
+{
+	font: 48px "open-sans-n3", "open-sans", "Helvetica Neue";
+	font-weight: 700;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
+.price-box h3 small 
+{
+	font-size: 30px;
+}
+
+.price-box .price-description
+{
+	text-align: right;
+	width: 100px;
+}
+
+.landing-separator
+{
+	background: url(../images/landing-pages/landing-separator.png) center top no-repeat;
+	margin-bottom: 26px;
+	margin-top: 5px;
+	width: 100%;
+	height: 22px;
+}
+
+.btn-full
+{
+	width: 100%;
+}
+
+.section-title
+{
+	font: 36px "open-sans-n3", "open-sans", "Helvetica Neue";
+	font-weight: 700;
+	margin: 0;
+}
+
+/* VANTAGENS */
+.vtg .section-title,
+.vtg h4,
+.vtg p
+{
+	color: #fff;
+}
+
+.vtg .section-title
+{
+	margin-top: 24px;
+	margin-bottom: 20px;
+}
+
+.vtg h4 
+{ 
+	font-size: 14px; 
+	line-height: 14px;
+	margin: 0;
+	margin-bottom: 5px;
+}
+.vtg p 
+{ 
+	font-size: 12px;
+	line-height: 14px; 
+}
+
+.vantagens .vantagem
+{
+	margin-bottom: 28px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.vantagem .vantagem-descricao,
+.vantagem .vantagem-icone
+{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 0;
+}
+
+.vantagem .vantagem-descricao
+{
+	width: 226px;
+}
+
+.vantagens .vantagem .analise-perfil,
+.vantagens .vantagem .assistencia-24h,
+.vantagens .vantagem .instalacao-gratuita,
+.vantagens .vantagem .concorra-loteria
+{
+	background: url(../images/landing-pages/sprite-vantagens.png) no-repeat;
+	width: 155px;
+}
+
+.vantagens .vantagem .analise-perfil
+{
+	background-position: 0 0;
+	height: 50px;
+}
+
+.vantagens .vantagem .assistencia-24h
+{
+	background-position: 0 -80px;
+	height: 60px;
+}
+
+.vantagens .vantagem .instalacao-gratuita
+{
+	background-position: 0 -167px;
+	height: 61px;
+}
+
+.vantagens .vantagem .concorra-loteria
+{
+	background-position: 0 -270px;
+	height: 59px;
+}
+
+/* Formulário */
+
+.frm 
+{
+	background-color: #fff;
+	padding: 22px;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+	border-radius: 3px;
+}
+
+.frm label 
+{
+	margin-top: 10px;
+}
+
+.frm .btn 
+{
+	margin-top: 1px;
+}
+
+
+/* 
+	Footer aditional info
+
+	Info like payment options,
+	Site seguro ribbon
+	and another things.
+*/
+
+.footer-info
+{
+	margin-top: 26px;
+}
+
+.footer-info .descricao,
+.footer-info ul 
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.footer-info .descricao
+{
+	color: #ababab;
+	font: 10px Helvetica, Arial, Tahoma;
+	line-height: 12px;
+	max-width: 56px;
+	text-align: right;
+}
+
+.footer-info ul li
+{
+	list-style: none;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 0;
+	text-indent: -9999px;
+	margin-left: 10px;
+}
+
+.footer-info ul li.master
+{
+	background: url(../images/landing-pages/master.jpg) no-repeat;
+	width: 36px;
+	height: 25px;
+}
+
+.footer-info ul li.diners
+{
+	background: url(../images/landing-pages/diners.jpg) no-repeat;
+	width: 27px;
+	height: 25px;
+}
+
+.footer-info ul li.visa
+{
+	background: url(../images/landing-pages/visa.jpg) no-repeat;
+	width: 34px;
+	height: 25px;
+}
+
+.footer-info ul li.amex
+{
+	background: url(../images/landing-pages/amex.jpg) no-repeat;
+	width: 35px;
+	height: 25px;
+}
+
+.footer-info ul li.cardif
+{
+	background: url(../images/landing-pages/cardif.jpg) no-repeat;
+	width: 92px;
+	height: 25px;
+}
+
+.footer-info ul li.certisign
+{
+	background: url(../images/landing-pages/certisign.jpg) no-repeat;
+	width: 67px;
+	height: 32px;
+}
+
+.legal-info
+{
+	font: 9px/13px Helvetica,Arial,Tahoma;
+	color: #ababab;
+}
+
+
+/* SOME MEDIA QUERIES MAGIC. */
+
+@media (min-width: 768px) {
+	.intro-header h2,
+	.intro-header h4
+	{
+		text-align: right;
+	} 
+}
+
+
+@media (min-width: 320px) and (max-width: 991px) {
+	.landing-container .container
+	{
+		padding: 0;
+	}	
+	
+	.intro-header h2,
+	.intro-header h4
+	{
+		text-align: center;
+	}
+
+	.price-box
+	{
+		float: none;
+		width: 205px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.price-box .price-description,
+	.price-box .price-amount,
+	.price-box .price-period
+	{
+		display: block;
+		text-align: center;
+	}
+
+	.price-box .price-description
+	{
+		font-size: 16px;
+		width: 100%;
+	}
+
+	.rodape .container .logos
+	{
+		padding-top: 46px;
+	}
+	.rodape .container .logos .descricao
+	{
+		position: static;
+	}
+
+}
+
+@media (min-width: 768px) and (max-width: 975px) {
+
+	.price-box
+	{
+		float: none;
+		width: 205px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.price-box .price-description,
+	.price-box .price-amount,
+	.price-box .price-period
+	{
+		display: block;
+		text-align: center;
+	}
+
+	.price-box .price-description
+	{
+		font-size: 16px;
+		width: 100%;
+	}
+
+}
+
+/*
+INPUT
+*/
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  background: #fff;
+  border: 1px solid #aeaeae;
+  width: 100%;
+  font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  color: #aeaeae;
+  padding: 7px;
+  text-indent: 10px;
+  outline: none;
+  transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  box-shadow: inset 2px 3px 4px rgba(0, 0, 0, 0.09);
+  -webkit-box-shadow: inset 2px 3px 4px rgba(0, 0, 0, 0.09);
+  -moz-box-shadow: inset 2px 3px 4px rgba(0, 0, 0, 0.09);
+  -o-box-shadow: inset 2px 3px 4px rgba(0, 0, 0, 0.09); }
+  input[type="text"]:hover,
+  input[type="email"]:hover,
+  input[type="password"]:hover,
+  textarea:hover {
+    border-color: #9e9e9e;
+    color: #9e9e9e; }
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  input[type="password"]:focus,
+  textarea:focus {
+    border-color: #7e7e7e;
+    color: #7e7e7e; }
+  input[type="text"].customfile-filename,
+  input[type="email"].customfile-filename,
+  input[type="password"].customfile-filename,
+  textarea.customfile-filename {
+    width: 105%;
+    margin-left: -15px;
+    padding: 11px 7px; }
+
+textarea {
+  padding-top: 10px;
+  height: 205px; }
+
+label {
+  font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  color: #676767;
+  font-weight: bold; } 
+button {
+  background: #96d714;
+  color: #fff;
+  float: right;
+  margin: 10px 0;
+  font-family: "open-sans-n4", "open-sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: white !important;
+  text-decoration: none !important;
+  padding: 13px 30px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px; }
+  button:hover {
+    background: #b5e952; }
+  button.customfile-upload {
+    background: #656565;
+    padding: 7px 30px;
+    margin-top: 0 ;
+    margin-right: -15px; }
+    button.customfile-upload:hover {
+      background: #9f9f9f; }
+
+
+@media (max-width: 992px) {
+  button.customfile-upload {
+    margin-top: 10px;
+  }
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: none!important;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-khtml-box-sizing: border-box; 
+}
+body {
+	overflow-x: hidden;
+}
+.clearfix {
+	clear: both;
+	display: block;
+}
+
+/* sugestao email */
+div.sugestao{display:none;}
+form div.sugestao span{font-weight:bold;text-decoration:underline;cursor:pointer;}

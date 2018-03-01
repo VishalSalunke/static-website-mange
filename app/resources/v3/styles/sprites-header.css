@@ -1,0 +1,36 @@
+/* 
+	Sprites 
+*/
+.sprite-header,
+.sprite-adicional { 
+	background-image: url(../images/sprites/header-normal.png); background-color: transparent; background-repeat: no-repeat;
+	position: relative;
+	top: 1px;
+	display: inline-block;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	vertical-align: middle;
+	margin-right: 5px;
+	margin-top: -4px;
+}
+.atend-fone { width: 160px; height: 24px; background-position: 0 0; }
+.atend-icon { width: 23px; height: 23px; background-position: -161px 0; }
+.blog-icon { width: 23px; height: 23px; background-position: -185px 0; }
+.chat-icon { width: 29px; height: 23px; background-position: -209px 0; }
+.mobile-icon { width: 15px; height: 23px; background-position: -239px 0; }
+
+.sprite-adicional,
+a:hover .sprite-header { background-image: url(../images/sprites/header-over.png); background-color: transparent; background-repeat: no-repeat; }
+a:hover .atend-fone { width: 160px; height: 24px; background-position: 0 0; }
+a:hover .atend-icon { width: 23px; height: 23px; background-position: 0 -25px; }
+a:hover .blog-icon { width: 23px; height: 23px; background-position: -24px -25px; }
+a:hover .chat-icon { width: 29px; height: 23px; background-position: -48px -25px; }
+a:hover .mobile-icon { width: 15px; height: 23px; background-position: -78px -25px; }
+.sprite-atendente { width: 56px; height: 50px; background-position: -161px 0; }
+
+.sprite-atendente {
+	position: absolute;
+	top: 24px;
+	margin-left: -64px;
+}

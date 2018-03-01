@@ -1,0 +1,28 @@
+# Agent
+User-agent: *
+
+
+# Regra necessária apenas para permitir a exclusão desta URL do índice do Google. Pode ser removida no futuro, quando a remoção tiver sido feita.
+
+Disallow: /seguro-auto/simulacao-preco/veiculo/mercedes-benz/
+Disallow: /seguro-auto/simulacao-preco/veiculo/agrale/
+Disallow: /seguro-auto/simulacao-preco/veiculo/aston-martin/
+Disallow: /seguro-auto/simulacao-preco/veiculo/brm/
+Disallow: /seguro-auto/simulacao-preco/veiculo/buggy/
+Disallow: /seguro-auto/simulacao-preco/veiculo/bugre/
+Disallow: /seguro-auto/simulacao-preco/veiculo/chana/
+Disallow: /seguro-auto/simulacao-preco/veiculo/changan/
+Disallow: /seguro-auto/simulacao-preco/veiculo/chrysler/
+Disallow: /seguro-auto/simulacao-preco/veiculo/dodge/
+Disallow: /seguro-auto/simulacao-preco/veiculo/effa/
+Disallow: /seguro-auto/simulacao-preco/veiculo/ferrari/
+Disallow: /seguro-auto/simulacao-preco/veiculo/fibravan/
+Disallow: /seguro-auto/simulacao-preco/veiculo/foton/
+Disallow: /seguro-auto/simulacao-preco/veiculo/fyber/
+Disallow: /seguro-auto/simulacao-preco/veiculo/geely/
+Disallow: /seguro-auto/simulacao-preco/veiculo/hafei/
+Disallow: /seguro-auto/simulacao-preco/veiculo/jaguar/
+Disallow: /seguro-auto/simulacao-preco/veiculo/jeep/
+Disallow: /seguro-auto/simulacao-preco/veiculo/jinbei/
+
+Sitemap: http://www.smartia.com.br/sitemap_index.xml

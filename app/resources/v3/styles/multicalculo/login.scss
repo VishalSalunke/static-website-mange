@@ -1,0 +1,93 @@
+$main-color: #484848;
+$secundary-color: #CAAFAF;
+$error-color: red;
+$main-font: "Lucida Grande", "Lucida Sans", Verdana, Sans-Serif;
+$base-font-size: 1.3em;
+
+$body-background-color: #f4f4ee;
+
+@mixin textbox {
+	width: 280px;
+	height: 37px;
+	border: 1px solid #999;
+	font {
+		size: $base-font-size - 0.1;
+	}
+	background: #FFF url(../../../../static/images/layout/form-padrao/bg-input.png) top repeat-x;
+	padding-left: 10px;
+	margin-top: 10px;		
+}
+
+@mixin box($width) {
+	width: $width;
+	margin: auto;
+	margin-top: 5%;
+	padding: 20px 40px 40px 40px;
+	border: 1px solid #e2e9e4;
+	background: white;
+}
+
+@mixin border-radius($size){
+	-webkit-border-radius: $size;
+  	-moz-border-radius: $size;
+  	border-radius: $size;
+}
+
+@mixin background ($top-color, $bottom-color){
+	background: $top-color;
+  	background-image: -webkit-linear-gradient(top, $top-color, $bottom-color);
+  	background-image: -moz-linear-gradient(top, $top-color, $bottom-color);
+  	background-image: -ms-linear-gradient(top, $top-color, $bottom-color);
+  	background-image: -o-linear-gradient(top, $top-color, $bottom-color);
+  	background-image: linear-gradient(to bottom, $top-color, $bottom-color);
+}
+
+body{
+	font-family: $main-font;		
+	color: $main-color;
+	background: $body-background-color;	
+}
+
+main{
+	@include box(480px);
+}			
+
+section{
+	width: 300px;
+	margin: auto;
+	text-align: center;
+}	
+
+h1{
+	font-size: $base-font-size;
+	margin-bottom: 4px;
+	font-weight: 100;
+}
+	
+p{
+	margin: 0px 0px 10px 0px; 
+	font-size: $base-font-size - 0.5;
+	color: $secundary-color;
+}
+
+input{
+	@include textbox;
+}
+
+button {
+	@include background(#3ad12c, #3ac466);	
+  	@include border-radius(5px);
+  	border: none;
+	color: #ffffff;
+  	font-size: $base-font-size - 0.3;
+  	padding: 10px 20px 10px 20px;
+  	margin-top: 20px;
+  	:hover {
+  		@include background(#6ade70, #8cd980);	
+	}
+}
+
+span{
+	color: $error-color;
+	font-size: $base-font-size - 0.5;
+}
